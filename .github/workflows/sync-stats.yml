@@ -1,0 +1,58 @@
+name: Sync Halo PC OG Stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/15 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  sync-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout website repo
+        uses: actions/checkout@v4
+
+      - name: Download stats from NFO FTP
+        run: |
+          python3 << 'PY'
+          from ftplib import FTP
+          import os
+
+          host = os.environ["NFO_FTP_HOST"]
+          port = int(os.environ.get("NFO_FTP_PORT", "21"))
+          user = os.environ["NFO_FTP_USER"]
+          password = os.environ["NFO_FTP_PASS"]
+
+          ftp = FTP()
+          ftp.connect(host, port, timeout=30)
+          ftp.login(user, password)
+
+          with open("halopcog_stats.json", "wb") as f:
+              ftp.retrbinary("RETR /halopcog_stats.json", f.write)
+
+          ftp.quit()
+          PY
+        env:
+          NFO_FTP_HOST: ${{ secrets.NFO_FTP_HOST }}
+          NFO_FTP_PORT: ${{ secrets.NFO_FTP_PORT }}
+          NFO_FTP_USER: ${{ secrets.NFO_FTP_USER }}
+          NFO_FTP_PASS: ${{ secrets.NFO_FTP_PASS }}
+
+      - name: Commit updated stats
+        run: |
+          git config user.name "Halo PC OG Stats Bot"
+          git config user.email "actions@github.com"
+
+          git add halopcog_stats.json
+
+          if git diff --cached --quiet; then
+            echo "No stats changes."
+            exit 0
+          fi
+
+          git commit -m "Update Halo PC OG stats"
+          git push
