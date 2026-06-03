@@ -1,0 +1,50 @@
+{
+  "_meta": {
+    "server": "Halo PC OG",
+    "version": 1
+  },
+  "players": {
+    "Narly": {
+      "kills": 4,
+      "deaths": 17,
+      "scores": 0,
+      "playtime": 423,
+      "longest_spree": 2
+    },
+    "The Mr Frog": {
+      "kills": 25,
+      "deaths": 10,
+      "scores": 0,
+      "playtime": 492,
+      "longest_spree": 10
+    },
+    "Tren": {
+      "kills": 27,
+      "deaths": 21,
+      "scores": 1,
+      "playtime": 3341,
+      "longest_spree": 6
+    },
+    "Valentina_": {
+      "kills": 17,
+      "deaths": 26,
+      "scores": 0,
+      "playtime": 746,
+      "longest_spree": 3
+    },
+    "a3ro": {
+      "kills": 2,
+      "deaths": 1,
+      "scores": 0,
+      "playtime": 0,
+      "longest_spree": 1
+    },
+    "lisandro589": {
+      "kills": 0,
+      "deaths": 0,
+      "scores": 2,
+      "playtime": 214,
+      "longest_spree": 0
+    }
+  }
+}
