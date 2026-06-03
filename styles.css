@@ -221,15 +221,46 @@ dd{margin:0;text-align:right;color:var(--text);font-weight:700}
   .stats-highlight-grid {
     grid-template-columns: 1fr;
   }
+}
+
 
 .stats-update-box {
-    margin: 20px 0;
-    padding: 12px 18px;
-    border: 1px solid rgba(0,255,255,.2);
-    border-radius: 8px;
-    background: rgba(0,255,255,.03);
-    color: #bff;
-    font-size: 14px;
-    line-height: 1.8;
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin: 1.5rem 0 0;
 }
+
+.stats-update-box > div {
+  border: 1px solid rgba(32, 220, 226, 0.25);
+  background: rgba(10, 24, 34, 0.75);
+  border-radius: 16px;
+  padding: 0.95rem 1.15rem;
+  min-width: 220px;
+  box-shadow: 0 0 24px rgba(0, 224, 255, 0.05);
+}
+
+.update-label {
+  display: block;
+  color: var(--muted, #9fb8c8);
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-bottom: 0.35rem;
+}
+
+.stats-update-box strong {
+  color: var(--cyan, #31f4e7);
+  font-size: 1rem;
+}
+
+@media (max-width: 520px) {
+  .stats-update-box {
+    flex-direction: column;
+  }
+
+  .stats-update-box > div {
+    width: 100%;
+    min-width: 0;
+  }
 }
