@@ -33,13 +33,20 @@
       <section class="section stats-hero">
         <p class="eyebrow">PLAYER STATS</p>
         <h1>Halo PC OG Leaderboards</h1>
-        <div class="stats-update-box">
-        <div><strong>Last Updated:</strong> <span id="last-updated">Loading...</span></div>
-        <div><strong>Refresh Interval:</strong> 15 minutes</div>
-        </div>
         <p class="section-copy">
           Persistent Halo CE stats pulled from the Halo PC OG server. Rankings are based on total kills.
         </p>
+
+        <div class="stats-update-box" aria-label="Stats update information">
+          <div>
+            <span class="update-label">Last Updated</span>
+            <strong id="lastUpdated">Loading...</strong>
+          </div>
+          <div>
+            <span class="update-label">Refresh Interval</span>
+            <strong>Every 15 minutes</strong>
+          </div>
+        </div>
       </section>
 
       <section class="stats-highlight-grid" aria-label="Top player highlights">
@@ -250,15 +257,42 @@
       });
     }
 
+    function renderLastUpdated(response) {
+      const lastModified = response.headers.get("Last-Modified");
+      const target = document.getElementById("lastUpdated");
+
+      if (!target) return;
+
+      if (lastModified) {
+        const date = new Date(lastModified);
+        target.textContent = date.toLocaleString(undefined, {
+          year: "numeric",
+          month: "short",
+          day: "numeric",
+          hour: "numeric",
+          minute: "2-digit"
+        });
+      } else {
+        target.textContent = "Recently";
+      }
+    }
+
     fetch(STATS_URL, { cache: "no-store" })
       .then(response => {
         if (!response.ok) {
           throw new Error("Could not load halopcog_stats.json");
         }
+
+        renderLastUpdated(response);
         return response.json();
       })
       .then(data => renderStats(toRows(data)))
       .catch(error => {
+        const lastUpdated = document.getElementById("lastUpdated");
+        if (lastUpdated) {
+          lastUpdated.textContent = "Unavailable";
+        }
+
         document.getElementById("killsTable").innerHTML = '<tr><td colspan="7">Stats could not be loaded yet.</td></tr>';
         document.getElementById("playtimeList").innerHTML = "<li>Stats could not be loaded yet.</li>";
         document.getElementById("spreeList").innerHTML = "<li>Stats could not be loaded yet.</li>";
