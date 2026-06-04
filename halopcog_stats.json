@@ -5,11 +5,39 @@
   },
   "players": {
     "@fxr": {
-      "kills": 0,
-      "deaths": 0,
+      "kills": 5,
+      "deaths": 4,
       "scores": 0,
-      "playtime": 0,
-      "longest_spree": 0
+      "playtime": 98,
+      "longest_spree": 2
+    },
+    "Atmax": {
+      "kills": 7,
+      "deaths": 6,
+      "scores": 0,
+      "playtime": 350,
+      "longest_spree": 3
+    },
+    "Caio": {
+      "kills": 2,
+      "deaths": 3,
+      "scores": 0,
+      "playtime": 36,
+      "longest_spree": 2
+    },
+    "CarZero2": {
+      "kills": 1,
+      "deaths": 11,
+      "scores": 0,
+      "playtime": 241,
+      "longest_spree": 1
+    },
+    "Di_Fo0zBaL~": {
+      "kills": 104,
+      "deaths": 42,
+      "scores": 0,
+      "playtime": 1438,
+      "longest_spree": 11
     },
     "HiImHunter": {
       "kills": 1,
@@ -17,6 +45,13 @@
       "scores": 0,
       "playtime": 206,
       "longest_spree": 1
+    },
+    "Hyperbulit": {
+      "kills": 0,
+      "deaths": 8,
+      "scores": 0,
+      "playtime": 97,
+      "longest_spree": 0
     },
     "JuanDHalo": {
       "kills": 2,
@@ -31,6 +66,13 @@
       "scores": 0,
       "playtime": 226,
       "longest_spree": 4
+    },
+    "M@§T": {
+      "kills": 6,
+      "deaths": 6,
+      "scores": 0,
+      "playtime": 346,
+      "longest_spree": 3
     },
     "Narly": {
       "kills": 4,
@@ -47,10 +89,10 @@
       "longest_spree": 10
     },
     "Tren": {
-      "kills": 93,
-      "deaths": 107,
+      "kills": 202,
+      "deaths": 269,
       "scores": 1,
-      "playtime": 8000,
+      "playtime": 11616,
       "longest_spree": 6
     },
     "Valentina_": {
@@ -59,6 +101,20 @@
       "scores": 0,
       "playtime": 913,
       "longest_spree": 3
+    },
+    "[ x3RR0R ]": {
+      "kills": 48,
+      "deaths": 44,
+      "scores": 0,
+      "playtime": 1226,
+      "longest_spree": 6
+    },
+    "[LU] memo's": {
+      "kills": 0,
+      "deaths": 2,
+      "scores": 0,
+      "playtime": 37,
+      "longest_spree": 0
     },
     "a3ro": {
       "kills": 13,
@@ -74,18 +130,39 @@
       "playtime": 143,
       "longest_spree": 1
     },
-    "halopcNET": {
-      "kills": 88,
-      "deaths": 68,
+    "eltumbadooo": {
+      "kills": 6,
+      "deaths": 14,
       "scores": 0,
-      "playtime": 2969,
+      "playtime": 517,
+      "longest_spree": 2
+    },
+    "enigma": {
+      "kills": 46,
+      "deaths": 25,
+      "scores": 0,
+      "playtime": 878,
+      "longest_spree": 6
+    },
+    "ginderslime": {
+      "kills": 2,
+      "deaths": 4,
+      "scores": 0,
+      "playtime": 162,
+      "longest_spree": 1
+    },
+    "halopcNET": {
+      "kills": 237,
+      "deaths": 236,
+      "scores": 0,
+      "playtime": 6898,
       "longest_spree": 9
     },
     "hhn": {
-      "kills": 25,
-      "deaths": 20,
+      "kills": 40,
+      "deaths": 35,
       "scores": 0,
-      "playtime": 382,
+      "playtime": 733,
       "longest_spree": 4
     },
     "iTunes": {
@@ -101,6 +178,41 @@
       "scores": 2,
       "playtime": 214,
       "longest_spree": 0
+    },
+    "moon": {
+      "kills": 66,
+      "deaths": 35,
+      "scores": 0,
+      "playtime": 1104,
+      "longest_spree": 8
+    },
+    "wachinupiss": {
+      "kills": 3,
+      "deaths": 4,
+      "scores": 0,
+      "playtime": 168,
+      "longest_spree": 3
+    },
+    "z": {
+      "kills": 1,
+      "deaths": 13,
+      "scores": 0,
+      "playtime": 258,
+      "longest_spree": 1
+    },
+    "zD1oz": {
+      "kills": 41,
+      "deaths": 48,
+      "scores": 0,
+      "playtime": 1448,
+      "longest_spree": 5
+    },
+    "»NL§«Gaafe": {
+      "kills": 16,
+      "deaths": 13,
+      "scores": 0,
+      "playtime": 507,
+      "longest_spree": 3
     }
   }
 }
