@@ -167,9 +167,9 @@
     },
     "halopcNET": {
       "kills": 394,
-      "deaths": 306,
+      "deaths": 309,
       "scores": 0,
-      "playtime": 13291,
+      "playtime": 13916,
       "longest_spree": 9
     },
     "hhn": {
@@ -199,6 +199,13 @@
       "scores": 0,
       "playtime": 1104,
       "longest_spree": 8
+    },
+    "shp_rcl": {
+      "kills": 3,
+      "deaths": 0,
+      "scores": 0,
+      "playtime": 124,
+      "longest_spree": 3
     },
     "wachinupiss": {
       "kills": 3,
