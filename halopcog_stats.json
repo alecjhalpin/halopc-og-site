@@ -4,6 +4,27 @@
     "version": 1
   },
   "players": {
+    "HiImHunter": {
+      "kills": 1,
+      "deaths": 10,
+      "scores": 0,
+      "playtime": 206,
+      "longest_spree": 1
+    },
+    "JuanDHalo": {
+      "kills": 2,
+      "deaths": 5,
+      "scores": 0,
+      "playtime": 82,
+      "longest_spree": 1
+    },
+    "Lu]Chetoss": {
+      "kills": 14,
+      "deaths": 7,
+      "scores": 0,
+      "playtime": 226,
+      "longest_spree": 4
+    },
     "Narly": {
       "kills": 4,
       "deaths": 17,
@@ -19,10 +40,10 @@
       "longest_spree": 10
     },
     "Tren": {
-      "kills": 27,
-      "deaths": 21,
+      "kills": 73,
+      "deaths": 60,
       "scores": 1,
-      "playtime": 3341,
+      "playtime": 6592,
       "longest_spree": 6
     },
     "Valentina_": {
@@ -38,6 +59,34 @@
       "scores": 0,
       "playtime": 169,
       "longest_spree": 10
+    },
+    "albatross": {
+      "kills": 1,
+      "deaths": 0,
+      "scores": 0,
+      "playtime": 143,
+      "longest_spree": 1
+    },
+    "halopcNET": {
+      "kills": 41,
+      "deaths": 48,
+      "scores": 0,
+      "playtime": 1181,
+      "longest_spree": 4
+    },
+    "hhn": {
+      "kills": 25,
+      "deaths": 20,
+      "scores": 0,
+      "playtime": 382,
+      "longest_spree": 4
+    },
+    "iTunes": {
+      "kills": 1,
+      "deaths": 2,
+      "scores": 0,
+      "playtime": 40,
+      "longest_spree": 1
     },
     "lisandro589": {
       "kills": 0,
