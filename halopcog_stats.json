@@ -18,6 +18,20 @@
       "playtime": 350,
       "longest_spree": 3
     },
+    "BUNKER": {
+      "kills": 12,
+      "deaths": 52,
+      "scores": 0,
+      "playtime": 1231,
+      "longest_spree": 2
+    },
+    "CAMPECH07": {
+      "kills": 0,
+      "deaths": 5,
+      "scores": 0,
+      "playtime": 226,
+      "longest_spree": 0
+    },
     "Caio": {
       "kills": 2,
       "deaths": 3,
@@ -89,17 +103,17 @@
       "longest_spree": 10
     },
     "Tren": {
-      "kills": 202,
-      "deaths": 269,
+      "kills": 278,
+      "deaths": 354,
       "scores": 1,
-      "playtime": 11616,
+      "playtime": 13754,
       "longest_spree": 6
     },
     "Valentina_": {
-      "kills": 18,
-      "deaths": 37,
+      "kills": 72,
+      "deaths": 118,
       "scores": 0,
-      "playtime": 913,
+      "playtime": 2889,
       "longest_spree": 3
     },
     "[ x3RR0R ]": {
@@ -152,10 +166,10 @@
       "longest_spree": 1
     },
     "halopcNET": {
-      "kills": 237,
-      "deaths": 236,
+      "kills": 394,
+      "deaths": 306,
       "scores": 0,
-      "playtime": 6898,
+      "playtime": 12420,
       "longest_spree": 9
     },
     "hhn": {
@@ -191,6 +205,13 @@
       "deaths": 4,
       "scores": 0,
       "playtime": 168,
+      "longest_spree": 3
+    },
+    "walter": {
+      "kills": 15,
+      "deaths": 21,
+      "scores": 0,
+      "playtime": 725,
       "longest_spree": 3
     },
     "z": {
