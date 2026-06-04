@@ -52,7 +52,7 @@ jobs:
 
           webhook = os.environ["DISCORD_STATS_WEBHOOK"]
 
-          with open("halopcog_stats.json", "r", encoding="utf-8") as f:
+          with open("halopcog_stats.json", "r", encoding="latin-1", errors="ignore") as f:
               data = json.load(f)
 
           players = data.get("players", {})
