@@ -3,7 +3,7 @@ name: Sync Halo PC OG Stats
 on:
   workflow_dispatch:
   schedule:
-    - cron: "3,18,33,55 * * * *"
+    - cron: "15 * * * *"
 
 permissions:
   contents: write
