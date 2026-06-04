@@ -4,6 +4,13 @@
     "version": 1
   },
   "players": {
+    "@fxr": {
+      "kills": 0,
+      "deaths": 0,
+      "scores": 0,
+      "playtime": 0,
+      "longest_spree": 0
+    },
     "HiImHunter": {
       "kills": 1,
       "deaths": 10,
@@ -40,10 +47,10 @@
       "longest_spree": 10
     },
     "Tren": {
-      "kills": 73,
-      "deaths": 60,
+      "kills": 93,
+      "deaths": 107,
       "scores": 1,
-      "playtime": 6592,
+      "playtime": 8000,
       "longest_spree": 6
     },
     "Valentina_": {
@@ -68,11 +75,11 @@
       "longest_spree": 1
     },
     "halopcNET": {
-      "kills": 41,
-      "deaths": 48,
+      "kills": 88,
+      "deaths": 68,
       "scores": 0,
-      "playtime": 1181,
-      "longest_spree": 4
+      "playtime": 2969,
+      "longest_spree": 9
     },
     "hhn": {
       "kills": 25,
