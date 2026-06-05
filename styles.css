@@ -416,3 +416,163 @@ dd{margin:0;text-align:right;color:var(--text);font-weight:700}
 .panel-heading h2 {
   margin-bottom: 0.75rem;
 }
+
+
+/* Leaderboard layout + top 3 row styling */
+.leaderboard-grid {
+  grid-template-columns: minmax(0, 1.55fr) 255px;
+  gap: 0.6rem;
+  align-items: start;
+}
+
+.leaderboard-grid > .panel:nth-child(2),
+.leaderboard-grid > .panel:nth-child(3) {
+  max-width: 255px;
+}
+
+.stats-table tbody tr.rank-gold {
+  background: linear-gradient(90deg, rgba(255, 221, 87, 0.13), rgba(255, 221, 87, 0.03));
+}
+
+.stats-table tbody tr.rank-silver {
+  background: linear-gradient(90deg, rgba(220, 238, 255, 0.11), rgba(220, 238, 255, 0.025));
+}
+
+.stats-table tbody tr.rank-bronze {
+  background: linear-gradient(90deg, rgba(255, 168, 76, 0.12), rgba(255, 168, 76, 0.025));
+}
+
+.stats-table tbody tr.rank-gold td:first-child,
+.stats-table tbody tr.rank-silver td:first-child,
+.stats-table tbody tr.rank-bronze td:first-child {
+  font-weight: 900;
+}
+
+.stats-table tbody tr.rank-gold td:first-child {
+  color: #ffdd57;
+}
+
+.stats-table tbody tr.rank-silver td:first-child {
+  color: #dceeff;
+}
+
+.stats-table tbody tr.rank-bronze td:first-child {
+  color: #ffa84c;
+}
+
+.stats-table tbody tr.rank-gold .player-link {
+  color: #ffdd57;
+}
+
+.stats-table tbody tr.rank-silver .player-link {
+  color: #dceeff;
+}
+
+.stats-table tbody tr.rank-bronze .player-link {
+  color: #ffa84c;
+}
+
+@media (max-width: 900px) {
+  .leaderboard-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .leaderboard-grid > .panel:nth-child(2),
+  .leaderboard-grid > .panel:nth-child(3) {
+    max-width: none;
+  }
+}
+
+
+/* Final compact leaderboard override */
+@media (min-width: 901px) {
+  .leaderboard-grid {
+    grid-template-columns: minmax(0, 1.55fr) 255px !important;
+    gap: 0.6rem !important;
+  }
+
+  .leaderboard-grid .panel:first-child {
+    grid-row: span 2;
+  }
+}
+
+
+/* Compact hero search */
+.stats-update-box {
+  align-items: flex-start;
+}
+
+.hero-search-card {
+  border: 1px solid rgba(32, 220, 226, 0.25);
+  background: rgba(10, 24, 34, 0.75);
+  border-radius: 16px;
+  padding: 0.95rem 1.15rem;
+  min-width: 260px;
+  flex: 1 1 320px;
+  position: relative;
+  box-shadow: 0 0 24px rgba(0, 224, 255, 0.05);
+}
+
+.hero-search-wrap {
+  position: relative;
+}
+
+.player-search-input.compact {
+  padding: 0.65rem 0.85rem;
+  border-radius: 12px;
+  min-height: 0;
+  margin: 0;
+}
+
+.player-search-results.compact {
+  position: absolute;
+  z-index: 50;
+  top: calc(100% + 0.45rem);
+  left: 0;
+  right: 0;
+  max-height: 320px;
+  overflow-y: auto;
+  background: rgba(4, 13, 20, 0.98);
+  border: 1px solid rgba(32, 220, 226, 0.28);
+  border-radius: 14px;
+  padding: 0.45rem;
+  box-shadow: 0 18px 45px rgba(0, 0, 0, 0.35);
+  display: none;
+}
+
+.hero-search-card:focus-within .player-search-results.compact {
+  display: grid;
+}
+
+.player-search-results.compact .muted {
+  margin: 0;
+  padding: 0.65rem 0.75rem;
+}
+
+.player-search-results.compact .player-result {
+  grid-template-columns: 1fr auto auto;
+  padding: 0.65rem 0.75rem;
+  border-radius: 10px;
+}
+
+@media (max-width: 700px) {
+  .hero-search-card {
+    flex-basis: 100%;
+    min-width: 0;
+  }
+
+  .player-search-results.compact {
+    position: static;
+    margin-top: 0.5rem;
+    max-height: none;
+  }
+
+  .hero-search-card:focus-within .player-search-results.compact {
+    display: grid;
+  }
+}
+
+
+.player-search-panel {
+  display: none;
+}
