@@ -11,6 +11,13 @@
       "playtime": 1241,
       "longest_spree": 11
     },
+    "222231": {
+      "kills": 0,
+      "deaths": 5,
+      "scores": 0,
+      "playtime": 60,
+      "longest_spree": 0
+    },
     "@fxr": {
       "kills": 5,
       "deaths": 4,
@@ -173,11 +180,11 @@
       "longest_spree": 2
     },
     "TEX": {
-      "kills": 16,
-      "deaths": 12,
+      "kills": 33,
+      "deaths": 22,
       "scores": 0,
-      "playtime": 127,
-      "longest_spree": 3
+      "playtime": 483,
+      "longest_spree": 5
     },
     "The Mr Frog": {
       "kills": 25,
@@ -256,6 +263,13 @@
       "playtime": 143,
       "longest_spree": 1
     },
+    "cosmo": {
+      "kills": 9,
+      "deaths": 22,
+      "scores": 0,
+      "playtime": 409,
+      "longest_spree": 2
+    },
     "crypto": {
       "kills": 16,
       "deaths": 61,
@@ -264,11 +278,18 @@
       "longest_spree": 2
     },
     "eSu[ mAtiX-": {
-      "kills": 267,
-      "deaths": 211,
+      "kills": 300,
+      "deaths": 229,
       "scores": 0,
-      "playtime": 4371,
+      "playtime": 5007,
       "longest_spree": 9
+    },
+    "el chiquito": {
+      "kills": 1,
+      "deaths": 20,
+      "scores": 0,
+      "playtime": 379,
+      "longest_spree": 1
     },
     "eltumbadooo": {
       "kills": 6,
@@ -355,11 +376,11 @@
       "longest_spree": 3
     },
     "sonicxv": {
-      "kills": 18,
-      "deaths": 10,
+      "kills": 52,
+      "deaths": 29,
       "scores": 0,
-      "playtime": 165,
-      "longest_spree": 5
+      "playtime": 734,
+      "longest_spree": 8
     },
     "søx": {
       "kills": 0,
