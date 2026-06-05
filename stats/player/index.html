@@ -6,7 +6,7 @@
   <title>Player Stats | Halo PC OG</title>
   <meta name="description" content="Individual Halo PC OG player stats profile for Halo Custom Edition." />
   <link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml" />
-  <link rel="stylesheet" href="../../styles.css?v=14" />
+  <link rel="stylesheet" href="../../styles.css?v=15" />
 </head>
 <body>
   <div class="page">
@@ -158,15 +158,13 @@
       const killRank = sortedKills.findIndex(row => row.name === player.name) + 1;
       const playtimeRank = sortedPlaytime.findIndex(row => row.name === player.name) + 1;
       const spreeRank = sortedSpree.findIndex(row => row.name === player.name) + 1;
-      const totalPlayers = rows.length || 1;
-      const topPercent = Math.max(1, Math.ceil((killRank / totalPlayers) * 100));
 
       content.innerHTML = `
         <section class="profile-stat-grid">
-          <article class="stat-card profile-rank-card">
+          <article class="stat-card overall-rank-card">
             <span class="stat-label">Overall Rank</span>
             <strong>#${killRank}</strong>
-            <span class="stat-detail">Top ${topPercent}% of ${formatNumber(totalPlayers)} players</span>
+            <span class="stat-detail">Out of ${formatNumber(rows.length)} Players</span>
           </article>
           <article class="stat-card">
             <span class="stat-label">Kills</span>
@@ -198,11 +196,9 @@
           <article class="panel">
             <div class="panel-heading">
               <p class="eyebrow">RANKS</p>
-              <h2>Leaderboard Position</h2>
+              <h2>Rankings</h2>
             </div>
             <div class="profile-rank-list">
-              <div><span>Overall Rank</span><strong>#${killRank}</strong></div>
-              <div><span>Top Percent</span><strong>Top ${topPercent}%</strong></div>
               <div><span>Kill Rank</span><strong>#${killRank}</strong></div>
               <div><span>Playtime Rank</span><strong>#${playtimeRank}</strong></div>
               <div><span>Spree Rank</span><strong>#${spreeRank}</strong></div>
