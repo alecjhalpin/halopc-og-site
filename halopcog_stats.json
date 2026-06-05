@@ -151,12 +151,26 @@
       "playtime": 346,
       "longest_spree": 3
     },
+    "MASTER117": {
+      "kills": 11,
+      "deaths": 41,
+      "scores": 0,
+      "playtime": 804,
+      "longest_spree": 2
+    },
     "Narly": {
       "kills": 4,
       "deaths": 17,
       "scores": 0,
       "playtime": 423,
       "longest_spree": 2
+    },
+    "New001": {
+      "kills": 14,
+      "deaths": 12,
+      "scores": 0,
+      "playtime": 271,
+      "longest_spree": 8
     },
     "PAOLA": {
       "kills": 3,
@@ -179,6 +193,13 @@
       "playtime": 822,
       "longest_spree": 4
     },
+    "Rewdyx666": {
+      "kills": 3,
+      "deaths": 20,
+      "scores": 0,
+      "playtime": 708,
+      "longest_spree": 1
+    },
     "RoYaL": {
       "kills": 5,
       "deaths": 6,
@@ -200,6 +221,13 @@
       "playtime": 483,
       "longest_spree": 5
     },
+    "Testing": {
+      "kills": 18,
+      "deaths": 20,
+      "scores": 0,
+      "playtime": 833,
+      "longest_spree": 4
+    },
     "The Mr Frog": {
       "kills": 25,
       "deaths": 10,
@@ -215,10 +243,10 @@
       "longest_spree": 1
     },
     "Tren": {
-      "kills": 539,
-      "deaths": 634,
+      "kills": 631,
+      "deaths": 725,
       "scores": 1,
-      "playtime": 21377,
+      "playtime": 24146,
       "longest_spree": 14
     },
     "Valentina_": {
@@ -292,11 +320,11 @@
       "longest_spree": 2
     },
     "eSu[ mAtiX-": {
-      "kills": 381,
-      "deaths": 283,
+      "kills": 497,
+      "deaths": 353,
       "scores": 0,
-      "playtime": 8152,
-      "longest_spree": 9
+      "playtime": 10909,
+      "longest_spree": 19
     },
     "el chiquito": {
       "kills": 1,
