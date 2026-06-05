@@ -46,6 +46,13 @@
       "playtime": 1231,
       "longest_spree": 2
     },
+    "BusGod": {
+      "kills": 4,
+      "deaths": 19,
+      "scores": 0,
+      "playtime": 252,
+      "longest_spree": 2
+    },
     "CAMPECH07": {
       "kills": 0,
       "deaths": 5,
@@ -243,10 +250,10 @@
       "longest_spree": 1
     },
     "Tren": {
-      "kills": 631,
-      "deaths": 726,
+      "kills": 651,
+      "deaths": 736,
       "scores": 1,
-      "playtime": 24427,
+      "playtime": 24882,
       "longest_spree": 14
     },
     "Valentina_": {
@@ -323,7 +330,7 @@
       "kills": 497,
       "deaths": 353,
       "scores": 0,
-      "playtime": 10909,
+      "playtime": 10916,
       "longest_spree": 19
     },
     "el chiquito": {
@@ -374,6 +381,13 @@
       "scores": 0,
       "playtime": 2457,
       "longest_spree": 6
+    },
+    "hz6": {
+      "kills": 13,
+      "deaths": 7,
+      "scores": 0,
+      "playtime": 221,
+      "longest_spree": 8
     },
     "iTunes": {
       "kills": 1,
@@ -429,6 +443,13 @@
       "deaths": 0,
       "scores": 0,
       "playtime": 8,
+      "longest_spree": 0
+    },
+    "tony007": {
+      "kills": 0,
+      "deaths": 1,
+      "scores": 0,
+      "playtime": 0,
       "longest_spree": 0
     },
     "wachinupiss": {
