@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Player Stats | Halo PC OG</title>
+  <meta name="description" content="Individual Halo PC OG player stats profile for Halo Custom Edition." />
+  <link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="../../styles.css?v=15" />
+</head>
+<body>
+  <div class="page">
+    <header class="site-header">
+      <a class="brand" href="../../#home" aria-label="Halo PC OG home">
+        <img src="../../assets/halo-pc-og-logo.svg" alt="Halo PC OG logo" />
+        <div>
+          <span class="brand-title">HALO PC OG</span>
+          <span class="brand-subtitle">Classic Halo Custom Edition</span>
+        </div>
+      </a>
+
+      <nav class="nav">
+        <a href="../../#servers">Servers</a>
+        <a href="../../#about">About</a>
+        <a href="../../#discord">Discord</a>
+        <a href="../../#rules">Rules</a>
+        <a href="../../#status">Status</a>
+        <a href="../">Stats</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="section stats-hero player-profile-hero">
+        <p class="eyebrow">PLAYER PROFILE</p>
+        <h1 id="playerName">Loading...</h1>
+        <p class="section-copy">
+          Individual Halo PC OG stats pulled from the live leaderboard file.
+        </p>
+        <div class="actions compact">
+          <a class="button secondary" href="../">Back to Leaderboards</a>
+        </div>
+      </section>
+
+      <section id="profileContent">
+        <article class="panel">
+          <p class="muted">Loading player stats...</p>
+        </article>
+      </section>
+    </main>
+  </div>
+
+  <script>
+    const STATS_URL = "../../halopcog_stats.json";
+
+    function formatNumber(value) {
+      return new Intl.NumberFormat("en-US").format(value || 0);
+    }
+
+    function formatTime(seconds) {
+      seconds = Number(seconds) || 0;
+      const hours = Math.floor(seconds / 3600);
+      const minutes = Math.floor((seconds % 3600) / 60);
+
+      if (hours > 0) {
+        return `${hours}h ${minutes}m`;
+      }
+
+      return `${minutes}m`;
+    }
+
+    function kd(kills, deaths) {
+      kills = Number(kills) || 0;
+      deaths = Number(deaths) || 0;
+
+      if (deaths === 0 && kills > 0) return kills.toFixed(2);
+      if (deaths === 0) return "0.00";
+
+      return (kills / deaths).toFixed(2);
+    }
+
+    function escapeHtml(value) {
+      return String(value)
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#039;");
+    }
+
+    function toRows(data) {
+      const players = data.players || {};
+
+      return Object.entries(players).map(([name, stats]) => ({
+        name,
+        kills: Number(stats.kills) || 0,
+        deaths: Number(stats.deaths) || 0,
+        scores: Number(stats.scores) || 0,
+        playtime: Number(stats.playtime) || 0,
+        longest_spree: Number(stats.longest_spree) || 0
+      }));
+    }
+
+    function getRequestedPlayer() {
+      const params = new URLSearchParams(window.location.search);
+      return params.get("name") || "";
+    }
+
+    function renderProfile(rows) {
+      const requested = getRequestedPlayer();
+      const content = document.getElementById("profileContent");
+      const title = document.getElementById("playerName");
+
+      if (!requested) {
+        title.textContent = "Player Not Found";
+        content.innerHTML = `
+          <article class="panel">
+            <p class="muted">No player name was provided.</p>
+            <a class="button secondary" href="../">Search players</a>
+          </article>
+        `;
+        return;
+      }
+
+      const sortedKills = [...rows].sort((a, b) => b.kills - a.kills || a.name.localeCompare(b.name));
+      const sortedPlaytime = [...rows].sort((a, b) => b.playtime - a.playtime || a.name.localeCompare(b.name));
+      const sortedSpree = [...rows].sort((a, b) => b.longest_spree - a.longest_spree || a.name.localeCompare(b.name));
+
+      const player = rows.find(row => row.name.toLowerCase() === requested.toLowerCase());
+
+      if (!player) {
+        title.textContent = "Player Not Found";
+
+        const similar = rows
+          .filter(row => row.name.toLowerCase().includes(requested.toLowerCase()))
+          .sort((a, b) => a.name.localeCompare(b.name))
+          .slice(0, 10);
+
+        content.innerHTML = `
+          <article class="panel">
+            <h2>No exact match for ${escapeHtml(requested)}</h2>
+            <p class="muted">Try searching from the main leaderboard page.</p>
+            ${similar.length ? `
+              <div class="similar-player-list">
+                ${similar.map(row => `<a class="player-result" href="./?name=${encodeURIComponent(row.name)}"><span class="player-result-name">${escapeHtml(row.name)}</span><span>${formatNumber(row.kills)} kills</span></a>`).join("")}
+              </div>
+            ` : ""}
+            <div class="actions compact">
+              <a class="button secondary" href="../">Back to Leaderboards</a>
+            </div>
+          </article>
+        `;
+        return;
+      }
+
+      document.title = `${player.name} Stats | Halo PC OG`;
+      title.textContent = player.name;
+
+      const killRank = sortedKills.findIndex(row => row.name === player.name) + 1;
+      const playtimeRank = sortedPlaytime.findIndex(row => row.name === player.name) + 1;
+      const spreeRank = sortedSpree.findIndex(row => row.name === player.name) + 1;
+
+      content.innerHTML = `
+        <section class="profile-stat-grid">
+          <article class="stat-card overall-rank-card">
+            <span class="stat-label">Overall Rank</span>
+            <strong>#${killRank}</strong>
+            <span class="stat-detail">Out of ${formatNumber(rows.length)} Players</span>
+          </article>
+          <article class="stat-card">
+            <span class="stat-label">Kills</span>
+            <strong>${formatNumber(player.kills)}</strong>
+          </article>
+          <article class="stat-card">
+            <span class="stat-label">Deaths</span>
+            <strong>${formatNumber(player.deaths)}</strong>
+          </article>
+          <article class="stat-card">
+            <span class="stat-label">K/D</span>
+            <strong>${kd(player.kills, player.deaths)}</strong>
+          </article>
+          <article class="stat-card">
+            <span class="stat-label">Playtime</span>
+            <strong>${formatTime(player.playtime)}</strong>
+          </article>
+          <article class="stat-card">
+            <span class="stat-label">Best Spree</span>
+            <strong>${formatNumber(player.longest_spree)}</strong>
+          </article>
+          <article class="stat-card">
+            <span class="stat-label">Objective Score</span>
+            <strong>${formatNumber(player.scores)}</strong>
+          </article>
+        </section>
+
+        <section class="leaderboard-grid profile-rank-grid">
+          <article class="panel">
+            <div class="panel-heading">
+              <p class="eyebrow">RANKS</p>
+              <h2>Rankings</h2>
+            </div>
+            <div class="profile-rank-list">
+              <div><span>Kill Rank</span><strong>#${killRank}</strong></div>
+              <div><span>Playtime Rank</span><strong>#${playtimeRank}</strong></div>
+              <div><span>Spree Rank</span><strong>#${spreeRank}</strong></div>
+            </div>
+          </article>
+
+          <article class="panel">
+            <div class="panel-heading">
+              <p class="eyebrow">PROFILE LINK</p>
+              <h2>Share Player Stats</h2>
+            </div>
+            <p class="muted">Copy this page URL to share ${escapeHtml(player.name)}'s stats.</p>
+            <div class="actions compact">
+              <button class="button secondary" id="copyProfileLink">Copy Link</button>
+            </div>
+          </article>
+        </section>
+      `;
+
+      const copyButton = document.getElementById("copyProfileLink");
+      if (copyButton) {
+        copyButton.addEventListener("click", async () => {
+          try {
+            await navigator.clipboard.writeText(window.location.href);
+            copyButton.textContent = "Copied";
+            setTimeout(() => copyButton.textContent = "Copy Link", 1500);
+          } catch (error) {
+            copyButton.textContent = "Copy failed";
+          }
+        });
+      }
+    }
+
+    fetch(STATS_URL + "?v=" + Date.now(), { cache: "no-store" })
+      .then(response => {
+        if (!response.ok) {
+          throw new Error("Could not load halopcog_stats.json");
+        }
+        return response.json();
+      })
+      .then(data => renderProfile(toRows(data)))
+      .catch(error => {
+        document.getElementById("playerName").textContent = "Stats Unavailable";
+        document.getElementById("profileContent").innerHTML = `
+          <article class="panel">
+            <p class="muted">Player stats could not be loaded yet.</p>
+            <a class="button secondary" href="../">Back to Leaderboards</a>
+          </article>
+        `;
+        console.error(error);
+      });
+  </script>
+</body>
+</html>
