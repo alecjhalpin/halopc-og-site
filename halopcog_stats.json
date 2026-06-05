@@ -172,6 +172,20 @@
       "playtime": 1196,
       "longest_spree": 7
     },
+    "R": {
+      "kills": 19,
+      "deaths": 36,
+      "scores": 0,
+      "playtime": 822,
+      "longest_spree": 4
+    },
+    "RoYaL": {
+      "kills": 5,
+      "deaths": 6,
+      "scores": 0,
+      "playtime": 294,
+      "longest_spree": 2
+    },
     "Snake": {
       "kills": 9,
       "deaths": 9,
@@ -201,10 +215,10 @@
       "longest_spree": 1
     },
     "Tren": {
-      "kills": 485,
-      "deaths": 571,
+      "kills": 539,
+      "deaths": 634,
       "scores": 1,
-      "playtime": 19575,
+      "playtime": 21377,
       "longest_spree": 14
     },
     "Valentina_": {
@@ -278,10 +292,10 @@
       "longest_spree": 2
     },
     "eSu[ mAtiX-": {
-      "kills": 300,
-      "deaths": 229,
+      "kills": 381,
+      "deaths": 283,
       "scores": 0,
-      "playtime": 5007,
+      "playtime": 8152,
       "longest_spree": 9
     },
     "el chiquito": {
