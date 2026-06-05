@@ -640,3 +640,84 @@ dd{margin:0;text-align:right;color:var(--text);font-weight:700}
     margin-top: 0 !important;
   }
 }
+
+
+/* Correct side leaderboard column layout */
+@media (min-width: 901px) {
+  .leaderboard-grid {
+    display: grid !important;
+    grid-template-columns: minmax(0, 1fr) 255px !important;
+    gap: 0.75rem !important;
+    align-items: start !important;
+  }
+
+  .leaderboard-grid > .panel:first-child {
+    grid-column: 1 !important;
+    grid-row: 1 !important;
+  }
+
+  .side-leaderboards {
+    grid-column: 2 !important;
+    grid-row: 1 !important;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 0.75rem !important;
+    align-self: start !important;
+  }
+
+  .side-leaderboards > .panel {
+    width: 255px !important;
+    max-width: 255px !important;
+    margin: 0 !important;
+  }
+}
+
+@media (max-width: 900px) {
+  .leaderboard-grid {
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 0.75rem !important;
+  }
+
+  .side-leaderboards {
+    display: grid !important;
+    gap: 0.75rem !important;
+  }
+
+  .side-leaderboards > .panel {
+    max-width: none !important;
+  }
+}
+
+/* Circular rank badges */
+.stats-table .rank-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.65rem;
+  height: 1.65rem;
+  border-radius: 999px;
+  border: 1px solid rgba(49, 244, 231, 0.55);
+  background: rgba(49, 244, 231, 0.08);
+  color: var(--cyan, #31f4e7);
+  font-weight: 900;
+  line-height: 1;
+}
+
+.stats-table tr.rank-gold .rank-badge {
+  background: #ffdd57;
+  border-color: #ffdd57;
+  color: #061018;
+}
+
+.stats-table tr.rank-silver .rank-badge {
+  background: #dceeff;
+  border-color: #dceeff;
+  color: #061018;
+}
+
+.stats-table tr.rank-bronze .rank-badge {
+  background: #ffa84c;
+  border-color: #ffa84c;
+  color: #061018;
+}
