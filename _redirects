@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Halo PC OG Stats | Halo CE Leaderboards</title>
+  <meta name="description" content="Halo PC OG player stats and leaderboards for Halo Custom Edition. View top kills, playtime, longest sprees, and player rankings." />
+  <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="../styles.css?v=13" />
+</head>
+<body>
+  <div class="page">
+    <header class="site-header">
+      <a class="brand" href="../#home" aria-label="Halo PC OG home">
+        <img src="../assets/halo-pc-og-logo.svg" alt="Halo PC OG logo" />
+        <div>
+          <span class="brand-title">HALO PC OG</span>
+          <span class="brand-subtitle">Classic Halo Custom Edition</span>
+        </div>
+      </a>
+
+      <nav class="nav">
+        <a href="../#servers">Servers</a>
+        <a href="../#about">About</a>
+        <a href="../#discord">Discord</a>
+        <a href="../#rules">Rules</a>
+        <a href="../#status">Status</a>
+        <a href="./">Stats</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="section stats-hero">
+        <p class="eyebrow">PLAYER STATS</p>
+        <h1>Halo PC OG Leaderboards</h1>
+        <p class="section-copy">
+          Persistent Halo CE stats pulled from the Halo PC OG server. Rankings are based on total kills.
+        </p>
+
+        <div class="stats-update-box" aria-label="Stats update information">
+          <div>
+            <span class="update-label">Last Updated</span>
+            <strong id="lastUpdated">Loading...</strong>
+          </div>
+          <div>
+            <span class="update-label">Refresh Interval</span>
+            <strong>Every 15 minutes</strong>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel player-search-panel" aria-label="Player search">
+        <div class="panel-heading">
+          <p class="eyebrow">FIND YOUR STATS</p>
+          <h2>Search Players</h2>
+        </div>
+        <p class="search-help">
+          Search by full name or the first few letters. Results link to individual player profiles.
+        </p>
+        <div class="player-search-row">
+          <input id="playerSearch" class="player-search-input" type="search" placeholder="Search player name..." autocomplete="off" />
+        </div>
+        <div id="playerSearchResults" class="player-search-results">
+          <p class="muted">Start typing to search tracked players.</p>
+        </div>
+      </section>
+
+      <section class="stats-highlight-grid" aria-label="Top player highlights">
+        <article class="stat-card highlight-card">
+          <span class="stat-label">Top Killer</span>
+          <strong id="topKillerName">-</strong>
+          <span id="topKillerValue" class="stat-detail">0 kills</span>
+        </article>
+        <article class="stat-card highlight-card">
+          <span class="stat-label">Most Active</span>
+          <strong id="topPlaytimeName">-</strong>
+          <span id="topPlaytimeValue" class="stat-detail">0m played</span>
+        </article>
+        <article class="stat-card highlight-card">
+          <span class="stat-label">Best Spree</span>
+          <strong id="topSpreeName">-</strong>
+          <span id="topSpreeValue" class="stat-detail">0 spree</span>
+        </article>
+      </section>
+
+      <section class="stats-summary-grid compact-summary" aria-label="Stats summary">
+        <article class="stat-card">
+          <span class="stat-label">Tracked Players</span>
+          <strong id="trackedPlayers">0</strong>
+        </article>
+        <article class="stat-card">
+          <span class="stat-label">Total Kills</span>
+          <strong id="totalKills">0</strong>
+        </article>
+        <article class="stat-card">
+          <span class="stat-label">Total Playtime</span>
+          <strong id="totalPlaytime">0m</strong>
+        </article>
+        <article class="stat-card">
+          <span class="stat-label">Best Spree</span>
+          <strong id="bestSpree">0</strong>
+        </article>
+      </section>
+
+      <section class="leaderboard-grid">
+        <article class="panel">
+          <div class="panel-heading">
+            <p class="eyebrow">TOP KILLS</p>
+            <h2>Ranked Players</h2>
+          </div>
+          <div class="table-wrap">
+            <table class="stats-table">
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>Player</th>
+                  <th>Kills</th>
+                  <th>Deaths</th>
+                  <th>K/D</th>
+                  <th>Playtime</th>
+                  <th>Best Spree</th>
+                </tr>
+              </thead>
+              <tbody id="killsTable">
+                <tr><td colspan="7">Loading stats...</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-heading">
+            <p class="eyebrow">MOST ACTIVE</p>
+            <h2>Top Playtime</h2>
+          </div>
+          <ol id="playtimeList" class="rank-list">
+            <li>Loading stats...</li>
+          </ol>
+        </article>
+
+        <article class="panel">
+          <div class="panel-heading">
+            <p class="eyebrow">LONGEST SPREES</p>
+            <h2>Best Runs</h2>
+          </div>
+          <ol id="spreeList" class="rank-list">
+            <li>Loading stats...</li>
+          </ol>
+        </article>
+      </section>
+
+      <section class="panel stats-note">
+        <h2>How stats work</h2>
+        <p>
+          Stats are tracked by the Halo PC OG SAPP Lua script. Current tracked fields include kills,
+          deaths, playtime, and longest spree. Objective scoring is saved separately and may be split
+          into CTF, Oddball, and other mode-specific stats later.
+        </p>
+        <a class="button" href="../#discord">Join the Halo PC OG Discord</a>
+      </section>
+    </main>
+  </div>
+
+  <script>
+    const STATS_URL = "../halopcog_stats.json";
+
+    function formatNumber(value) {
+      return new Intl.NumberFormat("en-US").format(value || 0);
+    }
+
+    function formatTime(seconds) {
+      seconds = Number(seconds) || 0;
+      const hours = Math.floor(seconds / 3600);
+      const minutes = Math.floor((seconds % 3600) / 60);
+
+      if (hours > 0) {
+        return `${hours}h ${minutes}m`;
+      }
+
+      return `${minutes}m`;
+    }
+
+    function kd(kills, deaths) {
+      kills = Number(kills) || 0;
+      deaths = Number(deaths) || 0;
+
+      if (deaths === 0 && kills > 0) return kills.toFixed(2);
+      if (deaths === 0) return "0.00";
+
+      return (kills / deaths).toFixed(2);
+    }
+
+    function escapeHtml(value) {
+      return String(value)
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#039;");
+    }
+
+    function playerProfileUrl(name) {
+      return "./player/?name=" + encodeURIComponent(name);
+    }
+
+    function toRows(data) {
+      const players = data.players || {};
+
+      return Object.entries(players).map(([name, stats]) => ({
+        name,
+        kills: Number(stats.kills) || 0,
+        deaths: Number(stats.deaths) || 0,
+        scores: Number(stats.scores) || 0,
+        playtime: Number(stats.playtime) || 0,
+        longest_spree: Number(stats.longest_spree) || 0
+      }));
+    }
+
+    function renderStats(rows) {
+      const sortedKills = [...rows].sort((a, b) => b.kills - a.kills || a.name.localeCompare(b.name));
+      const sortedPlaytime = [...rows].sort((a, b) => b.playtime - a.playtime || a.name.localeCompare(b.name));
+      const sortedSpree = [...rows].sort((a, b) => b.longest_spree - a.longest_spree || a.name.localeCompare(b.name));
+
+      const totalKills = rows.reduce((sum, row) => sum + row.kills, 0);
+      const totalPlaytime = rows.reduce((sum, row) => sum + row.playtime, 0);
+      const bestSpree = rows.reduce((max, row) => Math.max(max, row.longest_spree), 0);
+
+      document.getElementById("trackedPlayers").textContent = formatNumber(rows.length);
+      document.getElementById("totalKills").textContent = formatNumber(totalKills);
+      document.getElementById("totalPlaytime").textContent = formatTime(totalPlaytime);
+      document.getElementById("bestSpree").textContent = formatNumber(bestSpree);
+
+      const topKiller = sortedKills[0];
+      const topActive = sortedPlaytime[0];
+      const topSpree = sortedSpree[0];
+
+      document.getElementById("topKillerName").textContent = topKiller ? topKiller.name : "-";
+      document.getElementById("topKillerValue").textContent = topKiller ? `${formatNumber(topKiller.kills)} kills` : "0 kills";
+
+      document.getElementById("topPlaytimeName").textContent = topActive ? topActive.name : "-";
+      document.getElementById("topPlaytimeValue").textContent = topActive ? `${formatTime(topActive.playtime)} played` : "0m played";
+
+      document.getElementById("topSpreeName").textContent = topSpree ? topSpree.name : "-";
+      document.getElementById("topSpreeValue").textContent = topSpree ? `${formatNumber(topSpree.longest_spree)} spree` : "0 spree";
+
+      const table = document.getElementById("killsTable");
+      table.innerHTML = "";
+
+      if (sortedKills.length === 0) {
+        table.innerHTML = '<tr><td colspan="7">No stats recorded yet.</td></tr>';
+      } else {
+        sortedKills.slice(0, 25).forEach((row, index) => {
+          const tr = document.createElement("tr");
+          tr.innerHTML = `
+            <td>${index + 1}</td>
+            <td><a class="player-link" href="${playerProfileUrl(row.name)}">${escapeHtml(row.name)}</a></td>
+            <td>${formatNumber(row.kills)}</td>
+            <td>${formatNumber(row.deaths)}</td>
+            <td>${kd(row.kills, row.deaths)}</td>
+            <td>${formatTime(row.playtime)}</td>
+            <td>${formatNumber(row.longest_spree)}</td>
+          `;
+          table.appendChild(tr);
+        });
+      }
+
+      renderRankList("playtimeList", sortedPlaytime, row => formatTime(row.playtime));
+      renderRankList("spreeList", sortedSpree, row => `${formatNumber(row.longest_spree)} spree`);
+      setupPlayerSearch(rows);
+    }
+
+    function setupPlayerSearch(rows) {
+      const input = document.getElementById("playerSearch");
+      const results = document.getElementById("playerSearchResults");
+
+      if (!input || !results) return;
+
+      function render(query) {
+        const q = query.trim().toLowerCase();
+
+        if (!q) {
+          results.innerHTML = '<p class="muted">Start typing to search tracked players.</p>';
+          return;
+        }
+
+        const startsWith = rows
+          .filter(row => row.name.toLowerCase().startsWith(q))
+          .sort((a, b) => a.name.localeCompare(b.name));
+
+        const contains = rows
+          .filter(row => !row.name.toLowerCase().startsWith(q) && row.name.toLowerCase().includes(q))
+          .sort((a, b) => a.name.localeCompare(b.name));
+
+        const matches = [...startsWith, ...contains].slice(0, 15);
+
+        if (matches.length === 0) {
+          results.innerHTML = '<p class="muted">No matching players found.</p>';
+          return;
+        }
+
+        results.innerHTML = matches.map(row => `
+          <a class="player-result" href="${playerProfileUrl(row.name)}">
+            <span class="player-result-name">${escapeHtml(row.name)}</span>
+            <span>${formatNumber(row.kills)} kills</span>
+            <span>${formatTime(row.playtime)}</span>
+          </a>
+        `).join("");
+      }
+
+      input.addEventListener("input", event => render(event.target.value));
+    }
+
+    function renderRankList(id, rows, valueFormatter) {
+      const list = document.getElementById(id);
+      list.innerHTML = "";
+
+      if (rows.length === 0) {
+        const li = document.createElement("li");
+        li.textContent = "No stats recorded yet.";
+        list.appendChild(li);
+        return;
+      }
+
+      rows.slice(0, 5).forEach((row, index) => {
+        const li = document.createElement("li");
+        li.innerHTML = `<span>${index + 1}. ${row.name}</span><strong>${valueFormatter(row)}</strong>`;
+        list.appendChild(li);
+      });
+    }
+
+    function renderLastUpdated(response) {
+      const lastModified = response.headers.get("Last-Modified");
+      const target = document.getElementById("lastUpdated");
+
+      if (!target) return;
+
+      if (lastModified) {
+        const date = new Date(lastModified);
+        target.textContent = date.toLocaleString(undefined, {
+          year: "numeric",
+          month: "short",
+          day: "numeric",
+          hour: "numeric",
+          minute: "2-digit"
+        });
+      } else {
+        target.textContent = "Recently";
+      }
+    }
+
+    fetch(STATS_URL + "?v=" + Date.now(), { cache: "no-store" })
+      .then(response => {
+        if (!response.ok) {
+          throw new Error("Could not load halopcog_stats.json");
+        }
+
+        renderLastUpdated(response);
+        return response.json();
+      })
+      .then(data => renderStats(toRows(data)))
+      .catch(error => {
+        const lastUpdated = document.getElementById("lastUpdated");
+        if (lastUpdated) {
+          lastUpdated.textContent = "Unavailable";
+        }
+
+        document.getElementById("killsTable").innerHTML = '<tr><td colspan="7">Stats could not be loaded yet.</td></tr>';
+        document.getElementById("playtimeList").innerHTML = "<li>Stats could not be loaded yet.</li>";
+        document.getElementById("spreeList").innerHTML = "<li>Stats could not be loaded yet.</li>";
+        console.error(error);
+      });
+  </script>
+</body>
+</html>

@@ -1,435 +1,250 @@
-{
-  "_meta": {
-    "server": "Halo PC OG",
-    "version": 1
-  },
-  "players": {
-    "-_jonn": {
-      "kills": 122,
-      "deaths": 64,
-      "scores": 0,
-      "playtime": 1241,
-      "longest_spree": 11
-    },
-    "222231": {
-      "kills": 0,
-      "deaths": 5,
-      "scores": 0,
-      "playtime": 60,
-      "longest_spree": 0
-    },
-    "@fxr": {
-      "kills": 5,
-      "deaths": 4,
-      "scores": 0,
-      "playtime": 98,
-      "longest_spree": 2
-    },
-    "Arise": {
-      "kills": 108,
-      "deaths": 116,
-      "scores": 0,
-      "playtime": 2397,
-      "longest_spree": 6
-    },
-    "Atmax": {
-      "kills": 7,
-      "deaths": 6,
-      "scores": 0,
-      "playtime": 350,
-      "longest_spree": 3
-    },
-    "BUNKER": {
-      "kills": 12,
-      "deaths": 52,
-      "scores": 0,
-      "playtime": 1231,
-      "longest_spree": 2
-    },
-    "CAMPECH07": {
-      "kills": 0,
-      "deaths": 5,
-      "scores": 0,
-      "playtime": 226,
-      "longest_spree": 0
-    },
-    "Caio": {
-      "kills": 2,
-      "deaths": 3,
-      "scores": 0,
-      "playtime": 36,
-      "longest_spree": 2
-    },
-    "CarZero2": {
-      "kills": 27,
-      "deaths": 93,
-      "scores": 0,
-      "playtime": 2392,
-      "longest_spree": 7
-    },
-    "Di_Fo0zBaL~": {
-      "kills": 104,
-      "deaths": 42,
-      "scores": 0,
-      "playtime": 1438,
-      "longest_spree": 11
-    },
-    "En fin lol": {
-      "kills": 28,
-      "deaths": 16,
-      "scores": 0,
-      "playtime": 338,
-      "longest_spree": 7
-    },
-    "Faith": {
-      "kills": 6,
-      "deaths": 11,
-      "scores": 0,
-      "playtime": 231,
-      "longest_spree": 3
-    },
-    "HADES": {
-      "kills": 6,
-      "deaths": 18,
-      "scores": 0,
-      "playtime": 464,
-      "longest_spree": 1
-    },
-    "HLN-Hardy": {
-      "kills": 24,
-      "deaths": 20,
-      "scores": 0,
-      "playtime": 500,
-      "longest_spree": 5
-    },
-    "HiImHunter": {
-      "kills": 1,
-      "deaths": 10,
-      "scores": 0,
-      "playtime": 206,
-      "longest_spree": 1
-    },
-    "Hyperbulit": {
-      "kills": 0,
-      "deaths": 8,
-      "scores": 0,
-      "playtime": 97,
-      "longest_spree": 0
-    },
-    "JH05M4R": {
-      "kills": 1,
-      "deaths": 1,
-      "scores": 0,
-      "playtime": 18,
-      "longest_spree": 1
-    },
-    "JuanDHalo": {
-      "kills": 2,
-      "deaths": 5,
-      "scores": 0,
-      "playtime": 82,
-      "longest_spree": 1
-    },
-    "Lu]Chetoss": {
-      "kills": 14,
-      "deaths": 7,
-      "scores": 0,
-      "playtime": 226,
-      "longest_spree": 4
-    },
-    "LunarLight": {
-      "kills": 1,
-      "deaths": 1,
-      "scores": 0,
-      "playtime": 48,
-      "longest_spree": 1
-    },
-    "M@§T": {
-      "kills": 6,
-      "deaths": 6,
-      "scores": 0,
-      "playtime": 346,
-      "longest_spree": 3
-    },
-    "Narly": {
-      "kills": 4,
-      "deaths": 17,
-      "scores": 0,
-      "playtime": 423,
-      "longest_spree": 2
-    },
-    "PAOLA": {
-      "kills": 3,
-      "deaths": 8,
-      "scores": 0,
-      "playtime": 124,
-      "longest_spree": 1
-    },
-    "Plâyê???wØ®": {
-      "kills": 57,
-      "deaths": 58,
-      "scores": 0,
-      "playtime": 1196,
-      "longest_spree": 7
-    },
-    "Snake": {
-      "kills": 9,
-      "deaths": 9,
-      "scores": 0,
-      "playtime": 208,
-      "longest_spree": 2
-    },
-    "TEX": {
-      "kills": 33,
-      "deaths": 22,
-      "scores": 0,
-      "playtime": 483,
-      "longest_spree": 5
-    },
-    "The Mr Frog": {
-      "kills": 25,
-      "deaths": 10,
-      "scores": 0,
-      "playtime": 492,
-      "longest_spree": 10
-    },
-    "TheRealMSL": {
-      "kills": 2,
-      "deaths": 32,
-      "scores": 0,
-      "playtime": 365,
-      "longest_spree": 1
-    },
-    "Tren": {
-      "kills": 485,
-      "deaths": 571,
-      "scores": 1,
-      "playtime": 19575,
-      "longest_spree": 14
-    },
-    "Valentina_": {
-      "kills": 72,
-      "deaths": 118,
-      "scores": 0,
-      "playtime": 2889,
-      "longest_spree": 3
-    },
-    "Zoe": {
-      "kills": 0,
-      "deaths": 4,
-      "scores": 0,
-      "playtime": 118,
-      "longest_spree": 0
-    },
-    "[ x3RR0R ]": {
-      "kills": 72,
-      "deaths": 68,
-      "scores": 0,
-      "playtime": 1788,
-      "longest_spree": 6
-    },
-    "[LU] memo's": {
-      "kills": 0,
-      "deaths": 2,
-      "scores": 0,
-      "playtime": 37,
-      "longest_spree": 0
-    },
-    "_GalloNegro": {
-      "kills": 50,
-      "deaths": 26,
-      "scores": 0,
-      "playtime": 1061,
-      "longest_spree": 13
-    },
-    "a3ro": {
-      "kills": 13,
-      "deaths": 2,
-      "scores": 0,
-      "playtime": 169,
-      "longest_spree": 10
-    },
-    "ajente sero": {
-      "kills": 1,
-      "deaths": 5,
-      "scores": 0,
-      "playtime": 61,
-      "longest_spree": 1
-    },
-    "albatross": {
-      "kills": 1,
-      "deaths": 0,
-      "scores": 0,
-      "playtime": 143,
-      "longest_spree": 1
-    },
-    "cosmo": {
-      "kills": 9,
-      "deaths": 22,
-      "scores": 0,
-      "playtime": 409,
-      "longest_spree": 2
-    },
-    "crypto": {
-      "kills": 16,
-      "deaths": 61,
-      "scores": 0,
-      "playtime": 890,
-      "longest_spree": 2
-    },
-    "eSu[ mAtiX-": {
-      "kills": 300,
-      "deaths": 229,
-      "scores": 0,
-      "playtime": 5007,
-      "longest_spree": 9
-    },
-    "el chiquito": {
-      "kills": 1,
-      "deaths": 20,
-      "scores": 0,
-      "playtime": 379,
-      "longest_spree": 1
-    },
-    "eltumbadooo": {
-      "kills": 6,
-      "deaths": 14,
-      "scores": 0,
-      "playtime": 517,
-      "longest_spree": 2
-    },
-    "enigma": {
-      "kills": 46,
-      "deaths": 25,
-      "scores": 0,
-      "playtime": 878,
-      "longest_spree": 6
-    },
-    "ginderslime": {
-      "kills": 2,
-      "deaths": 4,
-      "scores": 0,
-      "playtime": 162,
-      "longest_spree": 1
-    },
-    "halopcNET": {
-      "kills": 398,
-      "deaths": 309,
-      "scores": 0,
-      "playtime": 15048,
-      "longest_spree": 9
-    },
-    "head shot": {
-      "kills": 6,
-      "deaths": 9,
-      "scores": 0,
-      "playtime": 130,
-      "longest_spree": 3
-    },
-    "hhn": {
-      "kills": 152,
-      "deaths": 123,
-      "scores": 0,
-      "playtime": 2457,
-      "longest_spree": 6
-    },
-    "iTunes": {
-      "kills": 1,
-      "deaths": 2,
-      "scores": 0,
-      "playtime": 40,
-      "longest_spree": 1
-    },
-    "lisandro589": {
-      "kills": 0,
-      "deaths": 0,
-      "scores": 2,
-      "playtime": 214,
-      "longest_spree": 0
-    },
-    "lust4life": {
-      "kills": 17,
-      "deaths": 12,
-      "scores": 0,
-      "playtime": 272,
-      "longest_spree": 5
-    },
-    "meow001": {
-      "kills": 74,
-      "deaths": 82,
-      "scores": 0,
-      "playtime": 1327,
-      "longest_spree": 4
-    },
-    "moon": {
-      "kills": 66,
-      "deaths": 35,
-      "scores": 0,
-      "playtime": 1104,
-      "longest_spree": 8
-    },
-    "shp_rcl": {
-      "kills": 3,
-      "deaths": 0,
-      "scores": 0,
-      "playtime": 124,
-      "longest_spree": 3
-    },
-    "sonicxv": {
-      "kills": 52,
-      "deaths": 29,
-      "scores": 0,
-      "playtime": 734,
-      "longest_spree": 8
-    },
-    "søx": {
-      "kills": 0,
-      "deaths": 0,
-      "scores": 0,
-      "playtime": 8,
-      "longest_spree": 0
-    },
-    "wachinupiss": {
-      "kills": 3,
-      "deaths": 4,
-      "scores": 0,
-      "playtime": 168,
-      "longest_spree": 3
-    },
-    "walter": {
-      "kills": 15,
-      "deaths": 21,
-      "scores": 0,
-      "playtime": 725,
-      "longest_spree": 3
-    },
-    "z": {
-      "kills": 1,
-      "deaths": 13,
-      "scores": 0,
-      "playtime": 258,
-      "longest_spree": 1
-    },
-    "zD1oz": {
-      "kills": 41,
-      "deaths": 48,
-      "scores": 0,
-      "playtime": 1448,
-      "longest_spree": 5
-    },
-    "{BK}DaNtE": {
-      "kills": 1,
-      "deaths": 2,
-      "scores": 0,
-      "playtime": 25,
-      "longest_spree": 1
-    },
-    "»NL§«Gaafe": {
-      "kills": 28,
-      "deaths": 32,
-      "scores": 0,
-      "playtime": 927,
-      "longest_spree": 3
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Player Stats | Halo PC OG</title>
+  <meta name="description" content="Individual Halo PC OG player stats profile for Halo Custom Edition." />
+  <link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="../../styles.css?v=13" />
+</head>
+<body>
+  <div class="page">
+    <header class="site-header">
+      <a class="brand" href="../../#home" aria-label="Halo PC OG home">
+        <img src="../../assets/halo-pc-og-logo.svg" alt="Halo PC OG logo" />
+        <div>
+          <span class="brand-title">HALO PC OG</span>
+          <span class="brand-subtitle">Classic Halo Custom Edition</span>
+        </div>
+      </a>
+
+      <nav class="nav">
+        <a href="../../#servers">Servers</a>
+        <a href="../../#about">About</a>
+        <a href="../../#discord">Discord</a>
+        <a href="../../#rules">Rules</a>
+        <a href="../../#status">Status</a>
+        <a href="../">Stats</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="section stats-hero player-profile-hero">
+        <p class="eyebrow">PLAYER PROFILE</p>
+        <h1 id="playerName">Loading...</h1>
+        <p class="section-copy">
+          Individual Halo PC OG stats pulled from the live leaderboard file.
+        </p>
+        <div class="actions compact">
+          <a class="button secondary" href="../">Back to Leaderboards</a>
+        </div>
+      </section>
+
+      <section id="profileContent">
+        <article class="panel">
+          <p class="muted">Loading player stats...</p>
+        </article>
+      </section>
+    </main>
+  </div>
+
+  <script>
+    const STATS_URL = "../../halopcog_stats.json";
+
+    function formatNumber(value) {
+      return new Intl.NumberFormat("en-US").format(value || 0);
     }
-  }
-}
+
+    function formatTime(seconds) {
+      seconds = Number(seconds) || 0;
+      const hours = Math.floor(seconds / 3600);
+      const minutes = Math.floor((seconds % 3600) / 60);
+
+      if (hours > 0) {
+        return `${hours}h ${minutes}m`;
+      }
+
+      return `${minutes}m`;
+    }
+
+    function kd(kills, deaths) {
+      kills = Number(kills) || 0;
+      deaths = Number(deaths) || 0;
+
+      if (deaths === 0 && kills > 0) return kills.toFixed(2);
+      if (deaths === 0) return "0.00";
+
+      return (kills / deaths).toFixed(2);
+    }
+
+    function escapeHtml(value) {
+      return String(value)
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#039;");
+    }
+
+    function toRows(data) {
+      const players = data.players || {};
+
+      return Object.entries(players).map(([name, stats]) => ({
+        name,
+        kills: Number(stats.kills) || 0,
+        deaths: Number(stats.deaths) || 0,
+        scores: Number(stats.scores) || 0,
+        playtime: Number(stats.playtime) || 0,
+        longest_spree: Number(stats.longest_spree) || 0
+      }));
+    }
+
+    function getRequestedPlayer() {
+      const params = new URLSearchParams(window.location.search);
+      return params.get("name") || "";
+    }
+
+    function renderProfile(rows) {
+      const requested = getRequestedPlayer();
+      const content = document.getElementById("profileContent");
+      const title = document.getElementById("playerName");
+
+      if (!requested) {
+        title.textContent = "Player Not Found";
+        content.innerHTML = `
+          <article class="panel">
+            <p class="muted">No player name was provided.</p>
+            <a class="button secondary" href="../">Search players</a>
+          </article>
+        `;
+        return;
+      }
+
+      const sortedKills = [...rows].sort((a, b) => b.kills - a.kills || a.name.localeCompare(b.name));
+      const sortedPlaytime = [...rows].sort((a, b) => b.playtime - a.playtime || a.name.localeCompare(b.name));
+      const sortedSpree = [...rows].sort((a, b) => b.longest_spree - a.longest_spree || a.name.localeCompare(b.name));
+
+      const player = rows.find(row => row.name.toLowerCase() === requested.toLowerCase());
+
+      if (!player) {
+        title.textContent = "Player Not Found";
+
+        const similar = rows
+          .filter(row => row.name.toLowerCase().includes(requested.toLowerCase()))
+          .sort((a, b) => a.name.localeCompare(b.name))
+          .slice(0, 10);
+
+        content.innerHTML = `
+          <article class="panel">
+            <h2>No exact match for ${escapeHtml(requested)}</h2>
+            <p class="muted">Try searching from the main leaderboard page.</p>
+            ${similar.length ? `
+              <div class="similar-player-list">
+                ${similar.map(row => `<a class="player-result" href="./?name=${encodeURIComponent(row.name)}"><span class="player-result-name">${escapeHtml(row.name)}</span><span>${formatNumber(row.kills)} kills</span></a>`).join("")}
+              </div>
+            ` : ""}
+            <div class="actions compact">
+              <a class="button secondary" href="../">Back to Leaderboards</a>
+            </div>
+          </article>
+        `;
+        return;
+      }
+
+      document.title = `${player.name} Stats | Halo PC OG`;
+      title.textContent = player.name;
+
+      const killRank = sortedKills.findIndex(row => row.name === player.name) + 1;
+      const playtimeRank = sortedPlaytime.findIndex(row => row.name === player.name) + 1;
+      const spreeRank = sortedSpree.findIndex(row => row.name === player.name) + 1;
+
+      content.innerHTML = `
+        <section class="profile-stat-grid">
+          <article class="stat-card">
+            <span class="stat-label">Kills</span>
+            <strong>${formatNumber(player.kills)}</strong>
+          </article>
+          <article class="stat-card">
+            <span class="stat-label">Deaths</span>
+            <strong>${formatNumber(player.deaths)}</strong>
+          </article>
+          <article class="stat-card">
+            <span class="stat-label">K/D</span>
+            <strong>${kd(player.kills, player.deaths)}</strong>
+          </article>
+          <article class="stat-card">
+            <span class="stat-label">Playtime</span>
+            <strong>${formatTime(player.playtime)}</strong>
+          </article>
+          <article class="stat-card">
+            <span class="stat-label">Best Spree</span>
+            <strong>${formatNumber(player.longest_spree)}</strong>
+          </article>
+          <article class="stat-card">
+            <span class="stat-label">Objective Score</span>
+            <strong>${formatNumber(player.scores)}</strong>
+          </article>
+        </section>
+
+        <section class="leaderboard-grid profile-rank-grid">
+          <article class="panel">
+            <div class="panel-heading">
+              <p class="eyebrow">RANKS</p>
+              <h2>Leaderboard Position</h2>
+            </div>
+            <div class="profile-rank-list">
+              <div><span>Kill Rank</span><strong>#${killRank}</strong></div>
+              <div><span>Playtime Rank</span><strong>#${playtimeRank}</strong></div>
+              <div><span>Spree Rank</span><strong>#${spreeRank}</strong></div>
+            </div>
+          </article>
+
+          <article class="panel">
+            <div class="panel-heading">
+              <p class="eyebrow">PROFILE LINK</p>
+              <h2>Share Player Stats</h2>
+            </div>
+            <p class="muted">Copy this page URL to share ${escapeHtml(player.name)}'s stats.</p>
+            <div class="actions compact">
+              <button class="button secondary" id="copyProfileLink">Copy Link</button>
+            </div>
+          </article>
+        </section>
+      `;
+
+      const copyButton = document.getElementById("copyProfileLink");
+      if (copyButton) {
+        copyButton.addEventListener("click", async () => {
+          try {
+            await navigator.clipboard.writeText(window.location.href);
+            copyButton.textContent = "Copied";
+            setTimeout(() => copyButton.textContent = "Copy Link", 1500);
+          } catch (error) {
+            copyButton.textContent = "Copy failed";
+          }
+        });
+      }
+    }
+
+    fetch(STATS_URL + "?v=" + Date.now(), { cache: "no-store" })
+      .then(response => {
+        if (!response.ok) {
+          throw new Error("Could not load halopcog_stats.json");
+        }
+        return response.json();
+      })
+      .then(data => renderProfile(toRows(data)))
+      .catch(error => {
+        document.getElementById("playerName").textContent = "Stats Unavailable";
+        document.getElementById("profileContent").innerHTML = `
+          <article class="panel">
+            <p class="muted">Player stats could not be loaded yet.</p>
+            <a class="button secondary" href="../">Back to Leaderboards</a>
+          </article>
+        `;
+        console.error(error);
+      });
+  </script>
+</body>
+</html>
