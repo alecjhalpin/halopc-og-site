@@ -576,3 +576,67 @@ dd{margin:0;text-align:right;color:var(--text);font-weight:700}
 .player-search-panel {
   display: none;
 }
+
+
+/* Final leaderboard badge + right-column spacing fix */
+.stats-table .rank-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.65rem;
+  height: 1.65rem;
+  border-radius: 999px;
+  border: 1px solid rgba(49, 244, 231, 0.55);
+  background: rgba(49, 244, 231, 0.08);
+  color: var(--cyan, #31f4e7);
+  font-weight: 900;
+  line-height: 1;
+}
+
+.stats-table tr.rank-gold .rank-badge {
+  background: #ffdd57;
+  border-color: #ffdd57;
+  color: #061018;
+}
+
+.stats-table tr.rank-silver .rank-badge {
+  background: #dceeff;
+  border-color: #dceeff;
+  color: #061018;
+}
+
+.stats-table tr.rank-bronze .rank-badge {
+  background: #ffa84c;
+  border-color: #ffa84c;
+  color: #061018;
+}
+
+@media (min-width: 901px) {
+  .leaderboard-grid {
+    display: grid !important;
+    grid-template-columns: minmax(0, 1fr) 255px !important;
+    grid-template-rows: auto auto !important;
+    gap: 0.75rem 0.75rem !important;
+    align-items: start !important;
+  }
+
+  .leaderboard-grid > .panel:first-child {
+    grid-column: 1 !important;
+    grid-row: 1 / span 2 !important;
+  }
+
+  .leaderboard-grid > .panel:nth-child(2) {
+    grid-column: 2 !important;
+    grid-row: 1 !important;
+    align-self: start !important;
+    max-width: 255px !important;
+  }
+
+  .leaderboard-grid > .panel:nth-child(3) {
+    grid-column: 2 !important;
+    grid-row: 2 !important;
+    align-self: start !important;
+    max-width: 255px !important;
+    margin-top: 0 !important;
+  }
+}
