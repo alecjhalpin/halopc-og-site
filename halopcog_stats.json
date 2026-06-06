@@ -5,10 +5,10 @@
   },
   "players": {
     "-_jonn": {
-      "kills": 122,
-      "deaths": 64,
+      "kills": 172,
+      "deaths": 92,
       "scores": 0,
-      "playtime": 1241,
+      "playtime": 1929,
       "longest_spree": 11
     },
     "222231": {
@@ -151,6 +151,13 @@
       "playtime": 82,
       "longest_spree": 1
     },
+    "LF MEXICAN": {
+      "kills": 1,
+      "deaths": 2,
+      "scores": 0,
+      "playtime": 49,
+      "longest_spree": 1
+    },
     "Lu]Chetoss": {
       "kills": 14,
       "deaths": 7,
@@ -187,10 +194,10 @@
       "longest_spree": 2
     },
     "New001": {
-      "kills": 15,
-      "deaths": 12,
+      "kills": 16,
+      "deaths": 17,
       "scores": 0,
-      "playtime": 521,
+      "playtime": 814,
       "longest_spree": 8
     },
     "PAOLA": {
@@ -264,10 +271,10 @@
       "longest_spree": 1
     },
     "Tren": {
-      "kills": 738,
-      "deaths": 787,
-      "scores": 1,
-      "playtime": 28476,
+      "kills": 774,
+      "deaths": 839,
+      "scores": 3,
+      "playtime": 31265,
       "longest_spree": 18
     },
     "Valentina_": {
@@ -348,10 +355,10 @@
       "longest_spree": 2
     },
     "eSu[ mAtiX-": {
-      "kills": 497,
-      "deaths": 353,
-      "scores": 0,
-      "playtime": 10916,
+      "kills": 535,
+      "deaths": 404,
+      "scores": 6,
+      "playtime": 12941,
       "longest_spree": 19
     },
     "el chiquito": {
@@ -404,17 +411,17 @@
       "longest_spree": 3
     },
     "hhn": {
-      "kills": 152,
-      "deaths": 123,
+      "kills": 191,
+      "deaths": 163,
       "scores": 0,
-      "playtime": 2470,
+      "playtime": 3253,
       "longest_spree": 6
     },
     "hz6": {
-      "kills": 13,
-      "deaths": 7,
+      "kills": 19,
+      "deaths": 9,
       "scores": 0,
-      "playtime": 221,
+      "playtime": 334,
       "longest_spree": 8
     },
     "iTunes": {
@@ -452,6 +459,13 @@
       "playtime": 1104,
       "longest_spree": 8
     },
+    "s": {
+      "kills": 0,
+      "deaths": 0,
+      "scores": 0,
+      "playtime": 64,
+      "longest_spree": 0
+    },
     "shp_rcl": {
       "kills": 3,
       "deaths": 0,
@@ -460,10 +474,10 @@
       "longest_spree": 3
     },
     "sonicxv": {
-      "kills": 52,
-      "deaths": 29,
+      "kills": 62,
+      "deaths": 30,
       "scores": 0,
-      "playtime": 734,
+      "playtime": 1224,
       "longest_spree": 8
     },
     "søx": {
