@@ -33,11 +33,11 @@
       "longest_spree": 6
     },
     "Atmax": {
-      "kills": 7,
-      "deaths": 6,
+      "kills": 27,
+      "deaths": 26,
       "scores": 0,
-      "playtime": 350,
-      "longest_spree": 3
+      "playtime": 1349,
+      "longest_spree": 6
     },
     "BUNKER": {
       "kills": 12,
@@ -47,11 +47,11 @@
       "longest_spree": 2
     },
     "BusGod": {
-      "kills": 4,
-      "deaths": 19,
+      "kills": 32,
+      "deaths": 113,
       "scores": 0,
-      "playtime": 252,
-      "longest_spree": 2
+      "playtime": 3839,
+      "longest_spree": 3
     },
     "CAMPECH07": {
       "kills": 0,
@@ -94,6 +94,20 @@
       "scores": 0,
       "playtime": 231,
       "longest_spree": 3
+    },
+    "Fra": {
+      "kills": 1,
+      "deaths": 0,
+      "scores": 0,
+      "playtime": 109,
+      "longest_spree": 1
+    },
+    "Gabe Newell": {
+      "kills": 45,
+      "deaths": 27,
+      "scores": 0,
+      "playtime": 836,
+      "longest_spree": 16
     },
     "HADES": {
       "kills": 6,
@@ -250,11 +264,11 @@
       "longest_spree": 1
     },
     "Tren": {
-      "kills": 651,
-      "deaths": 736,
+      "kills": 738,
+      "deaths": 787,
       "scores": 1,
-      "playtime": 24882,
-      "longest_spree": 14
+      "playtime": 28476,
+      "longest_spree": 18
     },
     "Valentina_": {
       "kills": 72,
@@ -262,6 +276,13 @@
       "scores": 0,
       "playtime": 2889,
       "longest_spree": 3
+    },
+    "Witcher": {
+      "kills": 5,
+      "deaths": 19,
+      "scores": 0,
+      "playtime": 364,
+      "longest_spree": 1
     },
     "Zoe": {
       "kills": 0,
@@ -354,6 +375,13 @@
       "playtime": 878,
       "longest_spree": 6
     },
+    "f F_jonn": {
+      "kills": 59,
+      "deaths": 32,
+      "scores": 0,
+      "playtime": 877,
+      "longest_spree": 10
+    },
     "ginderslime": {
       "kills": 2,
       "deaths": 4,
@@ -379,7 +407,7 @@
       "kills": 152,
       "deaths": 123,
       "scores": 0,
-      "playtime": 2457,
+      "playtime": 2470,
       "longest_spree": 6
     },
     "hz6": {
@@ -446,11 +474,11 @@
       "longest_spree": 0
     },
     "tony007": {
-      "kills": 0,
-      "deaths": 1,
+      "kills": 2,
+      "deaths": 5,
       "scores": 0,
-      "playtime": 0,
-      "longest_spree": 0
+      "playtime": 101,
+      "longest_spree": 2
     },
     "wachinupiss": {
       "kills": 3,
