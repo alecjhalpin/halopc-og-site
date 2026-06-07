@@ -358,7 +358,7 @@
       "kills": 535,
       "deaths": 404,
       "scores": 6,
-      "playtime": 12941,
+      "playtime": 13078,
       "longest_spree": 19
     },
     "el chiquito": {
@@ -430,6 +430,13 @@
       "scores": 0,
       "playtime": 40,
       "longest_spree": 1
+    },
+    "jGrat1s": {
+      "kills": 0,
+      "deaths": 0,
+      "scores": 0,
+      "playtime": 148,
+      "longest_spree": 0
     },
     "lisandro589": {
       "kills": 0,
