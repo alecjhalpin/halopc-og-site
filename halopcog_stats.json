@@ -144,6 +144,13 @@
       "playtime": 18,
       "longest_spree": 1
     },
+    "Jacko": {
+      "kills": 0,
+      "deaths": 0,
+      "scores": 0,
+      "playtime": 44,
+      "longest_spree": 0
+    },
     "JuanDHalo": {
       "kills": 2,
       "deaths": 5,
@@ -197,7 +204,7 @@
       "kills": 16,
       "deaths": 17,
       "scores": 0,
-      "playtime": 814,
+      "playtime": 823,
       "longest_spree": 8
     },
     "PAOLA": {
@@ -365,7 +372,7 @@
       "kills": 535,
       "deaths": 404,
       "scores": 6,
-      "playtime": 13104,
+      "playtime": 13146,
       "longest_spree": 19
     },
     "el chiquito": {
