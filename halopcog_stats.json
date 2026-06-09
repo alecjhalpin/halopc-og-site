@@ -75,10 +75,10 @@
       "longest_spree": 8
     },
     "Atmax": {
-      "kills": 27,
-      "deaths": 26,
+      "kills": 31,
+      "deaths": 31,
       "scores": 0,
-      "playtime": 1349,
+      "playtime": 1436,
       "longest_spree": 6
     },
     "BUNKER": {
@@ -284,6 +284,13 @@
       "playtime": 206,
       "longest_spree": 1
     },
+    "Hollywood": {
+      "kills": 5,
+      "deaths": 3,
+      "scores": 0,
+      "playtime": 0,
+      "longest_spree": 3
+    },
     "HolyFlame®": {
       "kills": 25,
       "deaths": 15,
@@ -313,10 +320,10 @@
       "longest_spree": 1
     },
     "Jacko": {
-      "kills": 708,
-      "deaths": 609,
+      "kills": 799,
+      "deaths": 700,
       "scores": 7,
-      "playtime": 18279,
+      "playtime": 21569,
       "longest_spree": 10
     },
     "Jef Epstein": {
@@ -458,6 +465,13 @@
       "scores": 0,
       "playtime": 6084,
       "longest_spree": 8
+    },
+    "Noodle": {
+      "kills": 9,
+      "deaths": 7,
+      "scores": 0,
+      "playtime": 105,
+      "longest_spree": 4
     },
     "Nuevo001": {
       "kills": 3,
@@ -690,6 +704,27 @@
       "playtime": 2889,
       "longest_spree": 3
     },
+    "Weasel": {
+      "kills": 20,
+      "deaths": 17,
+      "scores": 0,
+      "playtime": 313,
+      "longest_spree": 6
+    },
+    "Whicker": {
+      "kills": 23,
+      "deaths": 23,
+      "scores": 0,
+      "playtime": 394,
+      "longest_spree": 3
+    },
+    "Whisp": {
+      "kills": 21,
+      "deaths": 15,
+      "scores": 0,
+      "playtime": 303,
+      "longest_spree": 3
+    },
     "Witcher": {
       "kills": 5,
       "deaths": 19,
@@ -747,10 +782,10 @@
       "longest_spree": 10
     },
     "aCol": {
-      "kills": 264,
-      "deaths": 195,
+      "kills": 390,
+      "deaths": 265,
       "scores": 0,
-      "playtime": 4969,
+      "playtime": 6993,
       "longest_spree": 13
     },
     "ajente sero": {
@@ -761,11 +796,11 @@
       "longest_spree": 1
     },
     "albatross": {
-      "kills": 3,
-      "deaths": 7,
+      "kills": 7,
+      "deaths": 23,
       "scores": 0,
-      "playtime": 507,
-      "longest_spree": 1
+      "playtime": 782,
+      "longest_spree": 2
     },
     "cosmo": {
       "kills": 9,
@@ -922,10 +957,10 @@
       "longest_spree": 1
     },
     "jGrat1s": {
-      "kills": 47,
-      "deaths": 65,
+      "kills": 107,
+      "deaths": 177,
       "scores": 0,
-      "playtime": 2385,
+      "playtime": 4312,
       "longest_spree": 4
     },
     "jgratis": {
@@ -1088,6 +1123,13 @@
       "scores": 0,
       "playtime": 25,
       "longest_spree": 1
+    },
+    "{LºEº}þig©": {
+      "kills": 5,
+      "deaths": 9,
+      "scores": 0,
+      "playtime": 279,
+      "longest_spree": 2
     },
     "»NL§«Gaafe": {
       "kills": 28,
