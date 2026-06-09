@@ -145,11 +145,11 @@
       "longest_spree": 7
     },
     "D4tch": {
-      "kills": 0,
-      "deaths": 2,
+      "kills": 18,
+      "deaths": 48,
       "scores": 0,
-      "playtime": 33,
-      "longest_spree": 0
+      "playtime": 1061,
+      "longest_spree": 2
     },
     "Darling": {
       "kills": 0,
@@ -157,6 +157,13 @@
       "scores": 0,
       "playtime": 11,
       "longest_spree": 0
+    },
+    "Daywang": {
+      "kills": 60,
+      "deaths": 59,
+      "scores": 0,
+      "playtime": 1292,
+      "longest_spree": 4
     },
     "DeltA": {
       "kills": 41,
@@ -306,10 +313,10 @@
       "longest_spree": 1
     },
     "Jacko": {
-      "kills": 637,
-      "deaths": 557,
+      "kills": 708,
+      "deaths": 609,
       "scores": 7,
-      "playtime": 15202,
+      "playtime": 18279,
       "longest_spree": 10
     },
     "Jef Epstein": {
@@ -423,6 +430,13 @@
       "scores": 0,
       "playtime": 1485,
       "longest_spree": 5
+    },
+    "Michael": {
+      "kills": 5,
+      "deaths": 14,
+      "scores": 0,
+      "playtime": 187,
+      "longest_spree": 2
     },
     "NACHO_117": {
       "kills": 23,
@@ -659,7 +673,7 @@
       "kills": 1343,
       "deaths": 1475,
       "scores": 3,
-      "playtime": 48023,
+      "playtime": 48305,
       "longest_spree": 18
     },
     "Trevorm7": {
@@ -780,6 +794,13 @@
       "scores": 0,
       "playtime": 659,
       "longest_spree": 3
+    },
+    "destroyer": {
+      "kills": 1,
+      "deaths": 1,
+      "scores": 0,
+      "playtime": 50,
+      "longest_spree": 1
     },
     "eSu[ mAtiX-": {
       "kills": 1327,
@@ -906,6 +927,13 @@
       "scores": 0,
       "playtime": 2385,
       "longest_spree": 4
+    },
+    "jgratis": {
+      "kills": 60,
+      "deaths": 43,
+      "scores": 0,
+      "playtime": 1135,
+      "longest_spree": 6
     },
     "jo": {
       "kills": 7,
