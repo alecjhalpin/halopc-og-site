@@ -11,12 +11,33 @@
       "playtime": 1929,
       "longest_spree": 11
     },
+    "1v1": {
+      "kills": 30,
+      "deaths": 101,
+      "scores": 0,
+      "playtime": 2502,
+      "longest_spree": 3
+    },
     "222231": {
       "kills": 0,
       "deaths": 5,
       "scores": 0,
       "playtime": 60,
       "longest_spree": 0
+    },
+    "=DS_c0nk3r`": {
+      "kills": 83,
+      "deaths": 39,
+      "scores": 0,
+      "playtime": 884,
+      "longest_spree": 7
+    },
+    "@@_jonn": {
+      "kills": 11,
+      "deaths": 12,
+      "scores": 0,
+      "playtime": 126,
+      "longest_spree": 3
     },
     "@fxr": {
       "kills": 5,
@@ -74,12 +95,47 @@
       "playtime": 2392,
       "longest_spree": 7
     },
+    "Ceedrack": {
+      "kills": 14,
+      "deaths": 24,
+      "scores": 0,
+      "playtime": 546,
+      "longest_spree": 4
+    },
+    "Cupid": {
+      "kills": 9,
+      "deaths": 1,
+      "scores": 0,
+      "playtime": 78,
+      "longest_spree": 7
+    },
+    "Darling": {
+      "kills": 0,
+      "deaths": 0,
+      "scores": 0,
+      "playtime": 11,
+      "longest_spree": 0
+    },
+    "DeltA": {
+      "kills": 41,
+      "deaths": 48,
+      "scores": 0,
+      "playtime": 728,
+      "longest_spree": 4
+    },
     "Di_Fo0zBaL~": {
       "kills": 104,
       "deaths": 42,
       "scores": 0,
       "playtime": 1438,
       "longest_spree": 11
+    },
+    "Dsalex1+": {
+      "kills": 1,
+      "deaths": 2,
+      "scores": 0,
+      "playtime": 50,
+      "longest_spree": 1
     },
     "En fin lol": {
       "kills": 28,
@@ -107,6 +163,13 @@
       "deaths": 12,
       "scores": 0,
       "playtime": 148,
+      "longest_spree": 2
+    },
+    "GENGHISKHAN": {
+      "kills": 6,
+      "deaths": 33,
+      "scores": 0,
+      "playtime": 871,
       "longest_spree": 2
     },
     "Gabe Newell": {
@@ -144,6 +207,13 @@
       "playtime": 206,
       "longest_spree": 1
     },
+    "HolyFlame®": {
+      "kills": 25,
+      "deaths": 15,
+      "scores": 0,
+      "playtime": 342,
+      "longest_spree": 4
+    },
     "Hyperbulit": {
       "kills": 0,
       "deaths": 8,
@@ -159,11 +229,11 @@
       "longest_spree": 1
     },
     "Jacko": {
-      "kills": 0,
-      "deaths": 0,
-      "scores": 0,
-      "playtime": 44,
-      "longest_spree": 0
+      "kills": 272,
+      "deaths": 193,
+      "scores": 3,
+      "playtime": 5352,
+      "longest_spree": 9
     },
     "JuanDHalo": {
       "kills": 2,
@@ -171,6 +241,13 @@
       "scores": 0,
       "playtime": 82,
       "longest_spree": 1
+    },
+    "Jugroven": {
+      "kills": 36,
+      "deaths": 70,
+      "scores": 0,
+      "playtime": 1366,
+      "longest_spree": 2
     },
     "LF MEXICAN": {
       "kills": 1,
@@ -207,6 +284,20 @@
       "playtime": 804,
       "longest_spree": 2
     },
+    "Mameluco X": {
+      "kills": 87,
+      "deaths": 144,
+      "scores": 0,
+      "playtime": 3489,
+      "longest_spree": 5
+    },
+    "Mane": {
+      "kills": 31,
+      "deaths": 27,
+      "scores": 0,
+      "playtime": 514,
+      "longest_spree": 5
+    },
     "Narly": {
       "kills": 4,
       "deaths": 17,
@@ -215,10 +306,10 @@
       "longest_spree": 2
     },
     "New001": {
-      "kills": 16,
-      "deaths": 17,
+      "kills": 61,
+      "deaths": 43,
       "scores": 0,
-      "playtime": 823,
+      "playtime": 2092,
       "longest_spree": 8
     },
     "PAOLA": {
@@ -234,6 +325,20 @@
       "scores": 0,
       "playtime": 8,
       "longest_spree": 0
+    },
+    "Painful Ana": {
+      "kills": 7,
+      "deaths": 15,
+      "scores": 0,
+      "playtime": 479,
+      "longest_spree": 2
+    },
+    "PitodeBurro": {
+      "kills": 13,
+      "deaths": 38,
+      "scores": 0,
+      "playtime": 605,
+      "longest_spree": 3
     },
     "Plâyê???wØ®": {
       "kills": 57,
@@ -270,6 +375,27 @@
       "playtime": 189,
       "longest_spree": 1
     },
+    "SandiaC": {
+      "kills": 1,
+      "deaths": 2,
+      "scores": 0,
+      "playtime": 170,
+      "longest_spree": 1
+    },
+    "SaulaCanela": {
+      "kills": 0,
+      "deaths": 1,
+      "scores": 0,
+      "playtime": 28,
+      "longest_spree": 0
+    },
+    "Sexoo Anaal": {
+      "kills": 0,
+      "deaths": 0,
+      "scores": 0,
+      "playtime": 23,
+      "longest_spree": 0
+    },
     "Snake": {
       "kills": 9,
       "deaths": 9,
@@ -298,6 +424,13 @@
       "playtime": 492,
       "longest_spree": 10
     },
+    "TheGrayChap": {
+      "kills": 56,
+      "deaths": 96,
+      "scores": 0,
+      "playtime": 2975,
+      "longest_spree": 3
+    },
     "TheRealMSL": {
       "kills": 2,
       "deaths": 32,
@@ -306,10 +439,10 @@
       "longest_spree": 1
     },
     "Tren": {
-      "kills": 774,
-      "deaths": 839,
+      "kills": 1059,
+      "deaths": 1136,
       "scores": 3,
-      "playtime": 31440,
+      "playtime": 38868,
       "longest_spree": 18
     },
     "Valentina_": {
@@ -334,10 +467,10 @@
       "longest_spree": 0
     },
     "[ x3RR0R ]": {
-      "kills": 72,
-      "deaths": 70,
+      "kills": 85,
+      "deaths": 103,
       "scores": 0,
-      "playtime": 1826,
+      "playtime": 2332,
       "longest_spree": 6
     },
     "[LU] memo's": {
@@ -362,11 +495,11 @@
       "longest_spree": 10
     },
     "aCol": {
-      "kills": 10,
-      "deaths": 14,
+      "kills": 264,
+      "deaths": 195,
       "scores": 0,
-      "playtime": 260,
-      "longest_spree": 3
+      "playtime": 4969,
+      "longest_spree": 13
     },
     "ajente sero": {
       "kills": 1,
@@ -376,10 +509,10 @@
       "longest_spree": 1
     },
     "albatross": {
-      "kills": 1,
-      "deaths": 0,
+      "kills": 3,
+      "deaths": 7,
       "scores": 0,
-      "playtime": 143,
+      "playtime": 507,
       "longest_spree": 1
     },
     "cosmo": {
@@ -396,11 +529,18 @@
       "playtime": 890,
       "longest_spree": 2
     },
+    "cuack": {
+      "kills": 25,
+      "deaths": 12,
+      "scores": 0,
+      "playtime": 293,
+      "longest_spree": 5
+    },
     "eSu[ mAtiX-": {
-      "kills": 535,
-      "deaths": 404,
+      "kills": 919,
+      "deaths": 677,
       "scores": 6,
-      "playtime": 13146,
+      "playtime": 19846,
       "longest_spree": 19
     },
     "el chiquito": {
@@ -409,6 +549,13 @@
       "scores": 0,
       "playtime": 379,
       "longest_spree": 1
+    },
+    "elmas verga": {
+      "kills": 24,
+      "deaths": 38,
+      "scores": 0,
+      "playtime": 867,
+      "longest_spree": 5
     },
     "eltumbadooo": {
       "kills": 6,
@@ -430,6 +577,13 @@
       "scores": 0,
       "playtime": 877,
       "longest_spree": 10
+    },
+    "fofomarquez": {
+      "kills": 0,
+      "deaths": 0,
+      "scores": 0,
+      "playtime": 89,
+      "longest_spree": 0
     },
     "ginderslime": {
       "kills": 2,
@@ -479,6 +633,20 @@
       "scores": 0,
       "playtime": 2385,
       "longest_spree": 4
+    },
+    "jo": {
+      "kills": 7,
+      "deaths": 30,
+      "scores": 0,
+      "playtime": 525,
+      "longest_spree": 2
+    },
+    "kLG'Petuche": {
+      "kills": 0,
+      "deaths": 0,
+      "scores": 0,
+      "playtime": 31,
+      "longest_spree": 0
     },
     "lisandro589": {
       "kills": 0,
@@ -550,6 +718,13 @@
       "playtime": 101,
       "longest_spree": 2
     },
+    "vic2020": {
+      "kills": 0,
+      "deaths": 4,
+      "scores": 0,
+      "playtime": 85,
+      "longest_spree": 0
+    },
     "wachinupiss": {
       "kills": 3,
       "deaths": 4,
@@ -591,6 +766,13 @@
       "scores": 0,
       "playtime": 927,
       "longest_spree": 3
+    },
+    "»»ZiRuS««": {
+      "kills": 1,
+      "deaths": 1,
+      "scores": 0,
+      "playtime": 76,
+      "longest_spree": 1
     }
   }
 }
