@@ -5,10 +5,10 @@
   },
   "players": {
     "! nube": {
-      "kills": 48,
-      "deaths": 47,
+      "kills": 65,
+      "deaths": 62,
       "scores": 0,
-      "playtime": 759,
+      "playtime": 1107,
       "longest_spree": 7
     },
     "!_Rock4": {
@@ -61,10 +61,10 @@
       "longest_spree": 2
     },
     "@u": {
-      "kills": 145,
-      "deaths": 91,
+      "kills": 166,
+      "deaths": 102,
       "scores": 0,
-      "playtime": 1729,
+      "playtime": 2088,
       "longest_spree": 9
     },
     "Arise": {
@@ -306,10 +306,10 @@
       "longest_spree": 1
     },
     "Jacko": {
-      "kills": 629,
-      "deaths": 537,
+      "kills": 637,
+      "deaths": 557,
       "scores": 7,
-      "playtime": 14833,
+      "playtime": 15197,
       "longest_spree": 10
     },
     "Jef Epstein": {
@@ -439,10 +439,10 @@
       "longest_spree": 2
     },
     "New001": {
-      "kills": 283,
-      "deaths": 224,
+      "kills": 297,
+      "deaths": 238,
       "scores": 0,
-      "playtime": 5731,
+      "playtime": 6084,
       "longest_spree": 8
     },
     "Nuevo001": {
