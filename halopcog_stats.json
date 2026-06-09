@@ -75,10 +75,10 @@
       "longest_spree": 8
     },
     "Atmax": {
-      "kills": 31,
-      "deaths": 31,
+      "kills": 32,
+      "deaths": 32,
       "scores": 0,
-      "playtime": 1436,
+      "playtime": 1555,
       "longest_spree": 6
     },
     "BUNKER": {
@@ -93,6 +93,13 @@
       "deaths": 113,
       "scores": 0,
       "playtime": 3839,
+      "longest_spree": 3
+    },
+    "Butcher": {
+      "kills": 5,
+      "deaths": 3,
+      "scores": 0,
+      "playtime": 87,
       "longest_spree": 3
     },
     "CAMPECH07": {
@@ -136,6 +143,13 @@
       "scores": 0,
       "playtime": 546,
       "longest_spree": 4
+    },
+    "Crazy": {
+      "kills": 0,
+      "deaths": 0,
+      "scores": 0,
+      "playtime": 5,
+      "longest_spree": 0
     },
     "Cupid": {
       "kills": 9,
@@ -285,11 +299,11 @@
       "longest_spree": 1
     },
     "Hollywood": {
-      "kills": 5,
-      "deaths": 3,
+      "kills": 23,
+      "deaths": 12,
       "scores": 0,
-      "playtime": 0,
-      "longest_spree": 3
+      "playtime": 326,
+      "longest_spree": 7
     },
     "HolyFlame®": {
       "kills": 25,
@@ -297,6 +311,13 @@
       "scores": 0,
       "playtime": 342,
       "longest_spree": 4
+    },
+    "Howard": {
+      "kills": 25,
+      "deaths": 8,
+      "scores": 0,
+      "playtime": 259,
+      "longest_spree": 8
     },
     "Hyperbulit": {
       "kills": 0,
@@ -320,10 +341,10 @@
       "longest_spree": 1
     },
     "Jacko": {
-      "kills": 799,
-      "deaths": 700,
+      "kills": 867,
+      "deaths": 794,
       "scores": 7,
-      "playtime": 21569,
+      "playtime": 23701,
       "longest_spree": 10
     },
     "Jef Epstein": {
@@ -352,6 +373,13 @@
       "deaths": 70,
       "scores": 0,
       "playtime": 1366,
+      "longest_spree": 2
+    },
+    "K": {
+      "kills": 2,
+      "deaths": 1,
+      "scores": 0,
+      "playtime": 22,
       "longest_spree": 2
     },
     "KRONIX": {
@@ -431,6 +459,13 @@
       "playtime": 3489,
       "longest_spree": 5
     },
+    "Man1": {
+      "kills": 1,
+      "deaths": 4,
+      "scores": 0,
+      "playtime": 59,
+      "longest_spree": 1
+    },
     "Mane": {
       "kills": 61,
       "deaths": 72,
@@ -466,12 +501,19 @@
       "playtime": 6084,
       "longest_spree": 8
     },
-    "Noodle": {
-      "kills": 9,
-      "deaths": 7,
+    "New032": {
+      "kills": 0,
+      "deaths": 13,
       "scores": 0,
-      "playtime": 105,
-      "longest_spree": 4
+      "playtime": 167,
+      "longest_spree": 0
+    },
+    "Noodle": {
+      "kills": 34,
+      "deaths": 17,
+      "scores": 0,
+      "playtime": 346,
+      "longest_spree": 7
     },
     "Nuevo001": {
       "kills": 3,
@@ -543,6 +585,13 @@
       "playtime": 822,
       "longest_spree": 4
     },
+    "ReCuPeRaDoR": {
+      "kills": 2,
+      "deaths": 8,
+      "scores": 0,
+      "playtime": 139,
+      "longest_spree": 1
+    },
     "Rewdyx666": {
       "kills": 3,
       "deaths": 20,
@@ -613,6 +662,13 @@
       "playtime": 26,
       "longest_spree": 0
     },
+    "Sleepy": {
+      "kills": 16,
+      "deaths": 10,
+      "scores": 0,
+      "playtime": 194,
+      "longest_spree": 5
+    },
     "Snake": {
       "kills": 12,
       "deaths": 10,
@@ -633,6 +689,13 @@
       "scores": 0,
       "playtime": 1939,
       "longest_spree": 6
+    },
+    "Stompy": {
+      "kills": 25,
+      "deaths": 14,
+      "scores": 0,
+      "playtime": 361,
+      "longest_spree": 4
     },
     "TEX": {
       "kills": 33,
@@ -655,6 +718,13 @@
       "playtime": 833,
       "longest_spree": 4
     },
+    "The Big L": {
+      "kills": 25,
+      "deaths": 8,
+      "scores": 0,
+      "playtime": 175,
+      "longest_spree": 10
+    },
     "The Mr Frog": {
       "kills": 25,
       "deaths": 10,
@@ -676,6 +746,13 @@
       "playtime": 365,
       "longest_spree": 1
     },
+    "TonTon": {
+      "kills": 12,
+      "deaths": 51,
+      "scores": 0,
+      "playtime": 2144,
+      "longest_spree": 3
+    },
     "Toxinandris": {
       "kills": 11,
       "deaths": 24,
@@ -684,10 +761,10 @@
       "longest_spree": 2
     },
     "Tren": {
-      "kills": 1343,
-      "deaths": 1475,
+      "kills": 1423,
+      "deaths": 1564,
       "scores": 3,
-      "playtime": 48305,
+      "playtime": 49868,
       "longest_spree": 18
     },
     "Trevorm7": {
@@ -703,6 +780,13 @@
       "scores": 0,
       "playtime": 2889,
       "longest_spree": 3
+    },
+    "Walla Walla": {
+      "kills": 25,
+      "deaths": 8,
+      "scores": 0,
+      "playtime": 275,
+      "longest_spree": 17
     },
     "Weasel": {
       "kills": 20,
@@ -782,10 +866,10 @@
       "longest_spree": 10
     },
     "aCol": {
-      "kills": 390,
-      "deaths": 265,
+      "kills": 509,
+      "deaths": 337,
       "scores": 0,
-      "playtime": 6993,
+      "playtime": 8524,
       "longest_spree": 13
     },
     "ajente sero": {
@@ -838,10 +922,10 @@
       "longest_spree": 1
     },
     "eSu[ mAtiX-": {
-      "kills": 1327,
-      "deaths": 1005,
+      "kills": 1425,
+      "deaths": 1086,
       "scores": 8,
-      "playtime": 29053,
+      "playtime": 30904,
       "longest_spree": 19
     },
     "ekoms": {
@@ -871,6 +955,13 @@
       "scores": 0,
       "playtime": 18,
       "longest_spree": 0
+    },
+    "el sida": {
+      "kills": 19,
+      "deaths": 50,
+      "scores": 0,
+      "playtime": 578,
+      "longest_spree": 3
     },
     "elmas verga": {
       "kills": 24,
@@ -913,6 +1004,13 @@
       "scores": 0,
       "playtime": 22,
       "longest_spree": 0
+    },
+    "g0atsnake": {
+      "kills": 34,
+      "deaths": 56,
+      "scores": 0,
+      "playtime": 687,
+      "longest_spree": 5
     },
     "ginderslime": {
       "kills": 2,
@@ -957,11 +1055,11 @@
       "longest_spree": 1
     },
     "jGrat1s": {
-      "kills": 107,
-      "deaths": 177,
+      "kills": 247,
+      "deaths": 326,
       "scores": 0,
-      "playtime": 4312,
-      "longest_spree": 4
+      "playtime": 6978,
+      "longest_spree": 5
     },
     "jgratis": {
       "kills": 60,
@@ -1130,6 +1228,13 @@
       "scores": 0,
       "playtime": 279,
       "longest_spree": 2
+    },
+    "ºseroº": {
+      "kills": 53,
+      "deaths": 54,
+      "scores": 0,
+      "playtime": 1399,
+      "longest_spree": 4
     },
     "»NL§«Gaafe": {
       "kills": 28,
