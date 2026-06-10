@@ -585,6 +585,13 @@
       "playtime": 243,
       "longest_spree": 2
     },
+    "LA CNTE": {
+      "kills": 20,
+      "deaths": 25,
+      "scores": 0,
+      "playtime": 733,
+      "longest_spree": 5
+    },
     "LF MEXICAN": {
       "kills": 1,
       "deaths": 2,
@@ -1089,12 +1096,26 @@
       "playtime": 1209,
       "longest_spree": 5
     },
+    "[x]fatal1ty": {
+      "kills": 20,
+      "deaths": 21,
+      "scores": 0,
+      "playtime": 663,
+      "longest_spree": 4
+    },
     "_GalloNegro": {
       "kills": 50,
       "deaths": 26,
       "scores": 0,
       "playtime": 1061,
       "longest_spree": 13
+    },
+    "_LuisZte": {
+      "kills": 25,
+      "deaths": 13,
+      "scores": 0,
+      "playtime": 518,
+      "longest_spree": 5
     },
     "a3ro": {
       "kills": 13,
@@ -1501,6 +1522,13 @@
       "scores": 0,
       "playtime": 279,
       "longest_spree": 2
+    },
+    "£XØÐ¥Ã": {
+      "kills": 6,
+      "deaths": 12,
+      "scores": 0,
+      "playtime": 241,
+      "longest_spree": 3
     },
     "«(4nib4L)»": {
       "kills": 2,
