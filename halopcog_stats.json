@@ -67,6 +67,20 @@
       "playtime": 2088,
       "longest_spree": 9
     },
+    "APACHAI": {
+      "kills": 1,
+      "deaths": 10,
+      "scores": 0,
+      "playtime": 177,
+      "longest_spree": 1
+    },
+    "Alex": {
+      "kills": 5,
+      "deaths": 6,
+      "scores": 0,
+      "playtime": 88,
+      "longest_spree": 2
+    },
     "Arise": {
       "kills": 163,
       "deaths": 158,
@@ -88,6 +102,13 @@
       "playtime": 1231,
       "longest_spree": 2
     },
+    "Bud d'Alcor": {
+      "kills": 3,
+      "deaths": 8,
+      "scores": 0,
+      "playtime": 137,
+      "longest_spree": 1
+    },
     "BusGod": {
       "kills": 32,
       "deaths": 113,
@@ -96,11 +117,11 @@
       "longest_spree": 3
     },
     "Butcher": {
-      "kills": 5,
-      "deaths": 3,
+      "kills": 27,
+      "deaths": 12,
       "scores": 0,
-      "playtime": 87,
-      "longest_spree": 3
+      "playtime": 275,
+      "longest_spree": 5
     },
     "CAMPECH07": {
       "kills": 0,
@@ -108,6 +129,13 @@
       "scores": 0,
       "playtime": 226,
       "longest_spree": 0
+    },
+    "CHACOJARV2": {
+      "kills": 1,
+      "deaths": 1,
+      "scores": 0,
+      "playtime": 24,
+      "longest_spree": 1
     },
     "CHAK-VERDUN": {
       "kills": 28,
@@ -144,6 +172,13 @@
       "playtime": 546,
       "longest_spree": 4
     },
+    "Cosmo": {
+      "kills": 10,
+      "deaths": 11,
+      "scores": 0,
+      "playtime": 178,
+      "longest_spree": 3
+    },
     "Crazy": {
       "kills": 0,
       "deaths": 0,
@@ -165,6 +200,13 @@
       "playtime": 1061,
       "longest_spree": 2
     },
+    "DEvSEb": {
+      "kills": 7,
+      "deaths": 4,
+      "scores": 0,
+      "playtime": 199,
+      "longest_spree": 3
+    },
     "Darling": {
       "kills": 0,
       "deaths": 0,
@@ -179,6 +221,13 @@
       "playtime": 1292,
       "longest_spree": 4
     },
+    "DedeoXtremo": {
+      "kills": 1,
+      "deaths": 5,
+      "scores": 0,
+      "playtime": 94,
+      "longest_spree": 1
+    },
     "DeltA": {
       "kills": 41,
       "deaths": 48,
@@ -187,10 +236,10 @@
       "longest_spree": 4
     },
     "Di_Fo0zBaL~": {
-      "kills": 104,
-      "deaths": 42,
+      "kills": 208,
+      "deaths": 116,
       "scores": 0,
-      "playtime": 1438,
+      "playtime": 2740,
       "longest_spree": 11
     },
     "Dsalex1+": {
@@ -206,6 +255,13 @@
       "scores": 0,
       "playtime": 1226,
       "longest_spree": 2
+    },
+    "EL DEDOTES": {
+      "kills": 2,
+      "deaths": 5,
+      "scores": 0,
+      "playtime": 65,
+      "longest_spree": 1
     },
     "ELITE CEBOT": {
       "kills": 3,
@@ -228,6 +284,13 @@
       "playtime": 67,
       "longest_spree": 0
     },
+    "FELCHER": {
+      "kills": 70,
+      "deaths": 33,
+      "scores": 0,
+      "playtime": 929,
+      "longest_spree": 9
+    },
     "Faith": {
       "kills": 6,
       "deaths": 11,
@@ -241,6 +304,13 @@
       "scores": 0,
       "playtime": 109,
       "longest_spree": 1
+    },
+    "Fred": {
+      "kills": 4,
+      "deaths": 9,
+      "scores": 0,
+      "playtime": 103,
+      "longest_spree": 2
     },
     "FunkerHPC": {
       "kills": 3,
@@ -256,12 +326,33 @@
       "playtime": 871,
       "longest_spree": 2
     },
+    "GRIMALDI": {
+      "kills": 5,
+      "deaths": 8,
+      "scores": 0,
+      "playtime": 118,
+      "longest_spree": 1
+    },
     "Gabe Newell": {
       "kills": 45,
       "deaths": 27,
       "scores": 0,
       "playtime": 836,
       "longest_spree": 16
+    },
+    "Ghost": {
+      "kills": 22,
+      "deaths": 9,
+      "scores": 0,
+      "playtime": 265,
+      "longest_spree": 7
+    },
+    "Goat": {
+      "kills": 25,
+      "deaths": 6,
+      "scores": 0,
+      "playtime": 219,
+      "longest_spree": 10
     },
     "Griff": {
       "kills": 26,
@@ -291,6 +382,20 @@
       "playtime": 500,
       "longest_spree": 5
     },
+    "Halomax117": {
+      "kills": 24,
+      "deaths": 39,
+      "scores": 0,
+      "playtime": 705,
+      "longest_spree": 2
+    },
+    "Haste": {
+      "kills": 209,
+      "deaths": 123,
+      "scores": 0,
+      "playtime": 2439,
+      "longest_spree": 8
+    },
     "HiImHunter": {
       "kills": 1,
       "deaths": 10,
@@ -313,10 +418,10 @@
       "longest_spree": 4
     },
     "Howard": {
-      "kills": 25,
-      "deaths": 8,
+      "kills": 50,
+      "deaths": 18,
       "scores": 0,
-      "playtime": 259,
+      "playtime": 449,
       "longest_spree": 8
     },
     "Hyperbulit": {
@@ -333,6 +438,13 @@
       "playtime": 3583,
       "longest_spree": 6
     },
+    "J4iro": {
+      "kills": 11,
+      "deaths": 9,
+      "scores": 0,
+      "playtime": 208,
+      "longest_spree": 7
+    },
     "JH05M4R": {
       "kills": 1,
       "deaths": 1,
@@ -340,12 +452,19 @@
       "playtime": 18,
       "longest_spree": 1
     },
+    "Jack": {
+      "kills": 8,
+      "deaths": 7,
+      "scores": 0,
+      "playtime": 135,
+      "longest_spree": 4
+    },
     "Jacko": {
-      "kills": 867,
-      "deaths": 794,
+      "kills": 940,
+      "deaths": 867,
       "scores": 7,
-      "playtime": 23701,
-      "longest_spree": 10
+      "playtime": 24883,
+      "longest_spree": 12
     },
     "Jef Epstein": {
       "kills": 1,
@@ -383,10 +502,10 @@
       "longest_spree": 2
     },
     "KRONIX": {
-      "kills": 1,
-      "deaths": 6,
+      "kills": 2,
+      "deaths": 9,
       "scores": 0,
-      "playtime": 68,
+      "playtime": 101,
       "longest_spree": 1
     },
     "Kalkinv10": {
@@ -396,12 +515,26 @@
       "playtime": 43,
       "longest_spree": 0
     },
+    "Killer": {
+      "kills": 12,
+      "deaths": 7,
+      "scores": 0,
+      "playtime": 131,
+      "longest_spree": 4
+    },
     "Korea": {
       "kills": 5,
       "deaths": 9,
       "scores": 0,
       "playtime": 498,
       "longest_spree": 2
+    },
+    "Kubax": {
+      "kills": 27,
+      "deaths": 30,
+      "scores": 0,
+      "playtime": 546,
+      "longest_spree": 5
     },
     "Kuss": {
       "kills": 3,
@@ -509,11 +642,11 @@
       "longest_spree": 0
     },
     "Noodle": {
-      "kills": 34,
-      "deaths": 17,
+      "kills": 56,
+      "deaths": 23,
       "scores": 0,
-      "playtime": 346,
-      "longest_spree": 7
+      "playtime": 587,
+      "longest_spree": 10
     },
     "Nuevo001": {
       "kills": 3,
@@ -558,11 +691,11 @@
       "longest_spree": 8
     },
     "Pirate": {
-      "kills": 1,
-      "deaths": 1,
+      "kills": 23,
+      "deaths": 20,
       "scores": 0,
-      "playtime": 67,
-      "longest_spree": 1
+      "playtime": 324,
+      "longest_spree": 4
     },
     "PitodeBurro": {
       "kills": 13,
@@ -572,10 +705,10 @@
       "longest_spree": 3
     },
     "Plâyê???wØ®": {
-      "kills": 57,
-      "deaths": 58,
+      "kills": 179,
+      "deaths": 163,
       "scores": 0,
-      "playtime": 1196,
+      "playtime": 2959,
       "longest_spree": 7
     },
     "R": {
@@ -670,11 +803,18 @@
       "longest_spree": 5
     },
     "Snake": {
-      "kills": 12,
-      "deaths": 10,
+      "kills": 34,
+      "deaths": 24,
       "scores": 0,
-      "playtime": 342,
-      "longest_spree": 2
+      "playtime": 563,
+      "longest_spree": 6
+    },
+    "Sneak": {
+      "kills": 25,
+      "deaths": 15,
+      "scores": 0,
+      "playtime": 251,
+      "longest_spree": 5
     },
     "Solder-Boy": {
       "kills": 10,
@@ -689,6 +829,20 @@
       "scores": 0,
       "playtime": 1939,
       "longest_spree": 6
+    },
+    "Spawn": {
+      "kills": 32,
+      "deaths": 86,
+      "scores": 0,
+      "playtime": 1289,
+      "longest_spree": 3
+    },
+    "Squirt": {
+      "kills": 5,
+      "deaths": 10,
+      "scores": 0,
+      "playtime": 143,
+      "longest_spree": 2
     },
     "Stompy": {
       "kills": 25,
@@ -746,6 +900,13 @@
       "playtime": 365,
       "longest_spree": 1
     },
+    "Tomodachi": {
+      "kills": 84,
+      "deaths": 44,
+      "scores": 0,
+      "playtime": 925,
+      "longest_spree": 5
+    },
     "TonTon": {
       "kills": 12,
       "deaths": 51,
@@ -761,10 +922,10 @@
       "longest_spree": 2
     },
     "Tren": {
-      "kills": 1423,
-      "deaths": 1564,
+      "kills": 1591,
+      "deaths": 1742,
       "scores": 3,
-      "playtime": 49868,
+      "playtime": 53074,
       "longest_spree": 18
     },
     "Trevorm7": {
@@ -775,11 +936,11 @@
       "longest_spree": 1
     },
     "Valentina_": {
-      "kills": 72,
-      "deaths": 118,
+      "kills": 200,
+      "deaths": 280,
       "scores": 0,
-      "playtime": 2889,
-      "longest_spree": 3
+      "playtime": 5337,
+      "longest_spree": 5
     },
     "Walla Walla": {
       "kills": 25,
@@ -845,11 +1006,11 @@
       "longest_spree": 0
     },
     "[MXV]Luis¨": {
-      "kills": 35,
-      "deaths": 49,
+      "kills": 48,
+      "deaths": 74,
       "scores": 0,
-      "playtime": 863,
-      "longest_spree": 4
+      "playtime": 1209,
+      "longest_spree": 5
     },
     "_GalloNegro": {
       "kills": 50,
@@ -866,10 +1027,10 @@
       "longest_spree": 10
     },
     "aCol": {
-      "kills": 509,
-      "deaths": 337,
+      "kills": 602,
+      "deaths": 383,
       "scores": 0,
-      "playtime": 8524,
+      "playtime": 9639,
       "longest_spree": 13
     },
     "ajente sero": {
@@ -922,10 +1083,10 @@
       "longest_spree": 1
     },
     "eSu[ mAtiX-": {
-      "kills": 1425,
-      "deaths": 1086,
+      "kills": 1565,
+      "deaths": 1212,
       "scores": 8,
-      "playtime": 30904,
+      "playtime": 33170,
       "longest_spree": 19
     },
     "ekoms": {
@@ -957,10 +1118,10 @@
       "longest_spree": 0
     },
     "el sida": {
-      "kills": 19,
-      "deaths": 50,
+      "kills": 21,
+      "deaths": 66,
       "scores": 0,
-      "playtime": 578,
+      "playtime": 770,
       "longest_spree": 3
     },
     "elmas verga": {
@@ -998,6 +1159,13 @@
       "playtime": 89,
       "longest_spree": 0
     },
+    "foozy": {
+      "kills": 1,
+      "deaths": 1,
+      "scores": 0,
+      "playtime": 34,
+      "longest_spree": 1
+    },
     "fundillo": {
       "kills": 0,
       "deaths": 0,
@@ -1006,10 +1174,10 @@
       "longest_spree": 0
     },
     "g0atsnake": {
-      "kills": 34,
-      "deaths": 56,
+      "kills": 77,
+      "deaths": 109,
       "scores": 0,
-      "playtime": 687,
+      "playtime": 1887,
       "longest_spree": 5
     },
     "ginderslime": {
@@ -1055,10 +1223,10 @@
       "longest_spree": 1
     },
     "jGrat1s": {
-      "kills": 247,
-      "deaths": 326,
+      "kills": 286,
+      "deaths": 385,
       "scores": 0,
-      "playtime": 6978,
+      "playtime": 8197,
       "longest_spree": 5
     },
     "jgratis": {
@@ -1174,10 +1342,10 @@
       "longest_spree": 0
     },
     "tony007": {
-      "kills": 2,
-      "deaths": 5,
+      "kills": 4,
+      "deaths": 18,
       "scores": 0,
-      "playtime": 101,
+      "playtime": 345,
       "longest_spree": 2
     },
     "vic2020": {
@@ -1209,10 +1377,10 @@
       "longest_spree": 1
     },
     "zD1oz": {
-      "kills": 41,
-      "deaths": 48,
+      "kills": 97,
+      "deaths": 262,
       "scores": 0,
-      "playtime": 1448,
+      "playtime": 5390,
       "longest_spree": 5
     },
     "{BK}DaNtE": {
