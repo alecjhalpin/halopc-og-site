@@ -32,6 +32,13 @@
       "playtime": 4081,
       "longest_spree": 7
     },
+    "2": {
+      "kills": 11,
+      "deaths": 25,
+      "scores": 0,
+      "playtime": 434,
+      "longest_spree": 2
+    },
     "222231": {
       "kills": 0,
       "deaths": 5,
@@ -82,11 +89,11 @@
       "longest_spree": 2
     },
     "Arise": {
-      "kills": 163,
-      "deaths": 158,
+      "kills": 242,
+      "deaths": 235,
       "scores": 0,
-      "playtime": 4355,
-      "longest_spree": 8
+      "playtime": 5518,
+      "longest_spree": 10
     },
     "Atmax": {
       "kills": 32,
@@ -94,6 +101,13 @@
       "scores": 0,
       "playtime": 1555,
       "longest_spree": 6
+    },
+    "BADAIMBOT": {
+      "kills": 23,
+      "deaths": 21,
+      "scores": 0,
+      "playtime": 73,
+      "longest_spree": 3
     },
     "BUNKER": {
       "kills": 12,
@@ -313,10 +327,10 @@
       "longest_spree": 2
     },
     "FunkerHPC": {
-      "kills": 3,
-      "deaths": 12,
+      "kills": 22,
+      "deaths": 72,
       "scores": 0,
-      "playtime": 148,
+      "playtime": 1639,
       "longest_spree": 2
     },
     "GENGHISKHAN": {
@@ -460,10 +474,10 @@
       "longest_spree": 4
     },
     "Jacko": {
-      "kills": 940,
-      "deaths": 867,
+      "kills": 1033,
+      "deaths": 954,
       "scores": 7,
-      "playtime": 24883,
+      "playtime": 28438,
       "longest_spree": 12
     },
     "Jef Epstein": {
@@ -767,11 +781,18 @@
       "playtime": 171,
       "longest_spree": 1
     },
-    "SandiaC": {
-      "kills": 7,
-      "deaths": 14,
+    "SandiC": {
+      "kills": 0,
+      "deaths": 1,
       "scores": 0,
-      "playtime": 524,
+      "playtime": 14,
+      "longest_spree": 0
+    },
+    "SandiaC": {
+      "kills": 11,
+      "deaths": 28,
+      "scores": 0,
+      "playtime": 771,
       "longest_spree": 2
     },
     "SaulaCanela": {
@@ -851,6 +872,13 @@
       "playtime": 361,
       "longest_spree": 4
     },
+    "Sturt": {
+      "kills": 106,
+      "deaths": 67,
+      "scores": 0,
+      "playtime": 1282,
+      "longest_spree": 8
+    },
     "TEX": {
       "kills": 33,
       "deaths": 22,
@@ -922,10 +950,10 @@
       "longest_spree": 2
     },
     "Tren": {
-      "kills": 1591,
-      "deaths": 1742,
+      "kills": 1723,
+      "deaths": 1864,
       "scores": 3,
-      "playtime": 53074,
+      "playtime": 56069,
       "longest_spree": 18
     },
     "Trevorm7": {
@@ -971,11 +999,11 @@
       "longest_spree": 3
     },
     "Witcher": {
-      "kills": 5,
-      "deaths": 19,
+      "kills": 14,
+      "deaths": 26,
       "scores": 0,
-      "playtime": 364,
-      "longest_spree": 1
+      "playtime": 903,
+      "longest_spree": 4
     },
     "X": {
       "kills": 7,
@@ -1027,10 +1055,10 @@
       "longest_spree": 10
     },
     "aCol": {
-      "kills": 602,
-      "deaths": 383,
+      "kills": 606,
+      "deaths": 384,
       "scores": 0,
-      "playtime": 9639,
+      "playtime": 9800,
       "longest_spree": 13
     },
     "ajente sero": {
@@ -1082,11 +1110,18 @@
       "playtime": 50,
       "longest_spree": 1
     },
+    "diesl": {
+      "kills": 3,
+      "deaths": 1,
+      "scores": 0,
+      "playtime": 36,
+      "longest_spree": 3
+    },
     "eSu[ mAtiX-": {
-      "kills": 1565,
-      "deaths": 1212,
+      "kills": 1662,
+      "deaths": 1311,
       "scores": 8,
-      "playtime": 33170,
+      "playtime": 34745,
       "longest_spree": 19
     },
     "ekoms": {
@@ -1097,11 +1132,11 @@
       "longest_spree": 2
     },
     "el chiquito": {
-      "kills": 1,
-      "deaths": 20,
+      "kills": 5,
+      "deaths": 24,
       "scores": 0,
-      "playtime": 379,
-      "longest_spree": 1
+      "playtime": 550,
+      "longest_spree": 2
     },
     "el marino": {
       "kills": 4,
@@ -1132,10 +1167,10 @@
       "longest_spree": 5
     },
     "eltumbadooo": {
-      "kills": 6,
-      "deaths": 14,
+      "kills": 7,
+      "deaths": 26,
       "scores": 0,
-      "playtime": 517,
+      "playtime": 764,
       "longest_spree": 2
     },
     "enigma": {
@@ -1377,11 +1412,11 @@
       "longest_spree": 1
     },
     "zD1oz": {
-      "kills": 97,
-      "deaths": 262,
+      "kills": 122,
+      "deaths": 276,
       "scores": 0,
-      "playtime": 5390,
-      "longest_spree": 5
+      "playtime": 7296,
+      "longest_spree": 6
     },
     "{BK}DaNtE": {
       "kills": 1,
@@ -1395,6 +1430,13 @@
       "deaths": 9,
       "scores": 0,
       "playtime": 279,
+      "longest_spree": 2
+    },
+    "«(4nib4L)»": {
+      "kills": 2,
+      "deaths": 0,
+      "scores": 0,
+      "playtime": 56,
       "longest_spree": 2
     },
     "ºseroº": {
