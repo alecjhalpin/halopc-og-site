@@ -221,6 +221,13 @@
       "playtime": 1061,
       "longest_spree": 2
     },
+    "DEVIL LOU": {
+      "kills": 0,
+      "deaths": 0,
+      "scores": 0,
+      "playtime": 41,
+      "longest_spree": 0
+    },
     "DEvSEb": {
       "kills": 7,
       "deaths": 4,
@@ -505,7 +512,7 @@
       "kills": 1166,
       "deaths": 1117,
       "scores": 9,
-      "playtime": 32871,
+      "playtime": 33061,
       "longest_spree": 12
     },
     "Jef Epstein": {
@@ -680,7 +687,7 @@
       "kills": 298,
       "deaths": 263,
       "scores": 0,
-      "playtime": 6481,
+      "playtime": 6508,
       "longest_spree": 8
     },
     "New032": {
