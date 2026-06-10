@@ -186,6 +186,13 @@
       "playtime": 546,
       "longest_spree": 4
     },
+    "Cloutman": {
+      "kills": 22,
+      "deaths": 49,
+      "scores": 0,
+      "playtime": 1156,
+      "longest_spree": 2
+    },
     "Cosmo": {
       "kills": 10,
       "deaths": 11,
@@ -257,10 +264,10 @@
       "longest_spree": 0
     },
     "Di_Fo0zBaL~": {
-      "kills": 208,
-      "deaths": 116,
+      "kills": 262,
+      "deaths": 140,
       "scores": 0,
-      "playtime": 2740,
+      "playtime": 3484,
       "longest_spree": 11
     },
     "Dsalex1+": {
@@ -970,6 +977,13 @@
       "playtime": 925,
       "longest_spree": 5
     },
+    "TomyShelby": {
+      "kills": 0,
+      "deaths": 1,
+      "scores": 0,
+      "playtime": 55,
+      "longest_spree": 0
+    },
     "TonTon": {
       "kills": 12,
       "deaths": 51,
@@ -1300,10 +1314,10 @@
       "longest_spree": 5
     },
     "jgratis": {
-      "kills": 60,
-      "deaths": 43,
+      "kills": 98,
+      "deaths": 83,
       "scores": 0,
-      "playtime": 1135,
+      "playtime": 2297,
       "longest_spree": 6
     },
     "jo": {
