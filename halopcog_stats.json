@@ -89,10 +89,10 @@
       "longest_spree": 2
     },
     "Arise": {
-      "kills": 242,
-      "deaths": 235,
+      "kills": 266,
+      "deaths": 267,
       "scores": 0,
-      "playtime": 5518,
+      "playtime": 6296,
       "longest_spree": 10
     },
     "Atmax": {
@@ -103,11 +103,11 @@
       "longest_spree": 6
     },
     "BADAIMBOT": {
-      "kills": 23,
-      "deaths": 21,
-      "scores": 0,
-      "playtime": 73,
-      "longest_spree": 3
+      "kills": 110,
+      "deaths": 63,
+      "scores": 1,
+      "playtime": 1920,
+      "longest_spree": 7
     },
     "BUNKER": {
       "kills": 12,
@@ -248,6 +248,13 @@
       "scores": 0,
       "playtime": 728,
       "longest_spree": 4
+    },
+    "Desconocido": {
+      "kills": 0,
+      "deaths": 2,
+      "scores": 0,
+      "playtime": 64,
+      "longest_spree": 0
     },
     "Di_Fo0zBaL~": {
       "kills": 208,
@@ -417,6 +424,13 @@
       "playtime": 206,
       "longest_spree": 1
     },
+    "HitMan": {
+      "kills": 0,
+      "deaths": 8,
+      "scores": 0,
+      "playtime": 129,
+      "longest_spree": 0
+    },
     "Hollywood": {
       "kills": 23,
       "deaths": 12,
@@ -452,6 +466,13 @@
       "playtime": 3583,
       "longest_spree": 6
     },
+    "Iwax": {
+      "kills": 0,
+      "deaths": 9,
+      "scores": 1,
+      "playtime": 268,
+      "longest_spree": 0
+    },
     "J4iro": {
       "kills": 11,
       "deaths": 9,
@@ -474,10 +495,10 @@
       "longest_spree": 4
     },
     "Jacko": {
-      "kills": 1033,
-      "deaths": 954,
-      "scores": 7,
-      "playtime": 28438,
+      "kills": 1166,
+      "deaths": 1117,
+      "scores": 9,
+      "playtime": 32871,
       "longest_spree": 12
     },
     "Jef Epstein": {
@@ -642,10 +663,10 @@
       "longest_spree": 2
     },
     "New001": {
-      "kills": 297,
-      "deaths": 238,
+      "kills": 298,
+      "deaths": 263,
       "scores": 0,
-      "playtime": 6084,
+      "playtime": 6481,
       "longest_spree": 8
     },
     "New032": {
@@ -690,12 +711,26 @@
       "playtime": 8,
       "longest_spree": 0
     },
+    "POQ~Jarv": {
+      "kills": 40,
+      "deaths": 17,
+      "scores": 2,
+      "playtime": 726,
+      "longest_spree": 9
+    },
     "Painful Ana": {
       "kills": 21,
       "deaths": 34,
       "scores": 0,
       "playtime": 1084,
       "longest_spree": 4
+    },
+    "Pank Cracio": {
+      "kills": 5,
+      "deaths": 34,
+      "scores": 1,
+      "playtime": 786,
+      "longest_spree": 2
     },
     "Pc halo": {
       "kills": 80,
@@ -782,25 +817,25 @@
       "longest_spree": 1
     },
     "SandiC": {
-      "kills": 0,
-      "deaths": 1,
-      "scores": 0,
-      "playtime": 14,
-      "longest_spree": 0
+      "kills": 33,
+      "deaths": 27,
+      "scores": 2,
+      "playtime": 974,
+      "longest_spree": 4
     },
     "SandiaC": {
-      "kills": 11,
-      "deaths": 28,
+      "kills": 25,
+      "deaths": 62,
       "scores": 0,
-      "playtime": 771,
-      "longest_spree": 2
+      "playtime": 1833,
+      "longest_spree": 3
     },
     "SaulaCanela": {
-      "kills": 0,
-      "deaths": 1,
-      "scores": 0,
-      "playtime": 28,
-      "longest_spree": 0
+      "kills": 4,
+      "deaths": 10,
+      "scores": 1,
+      "playtime": 340,
+      "longest_spree": 2
     },
     "Sexoo Anaal": {
       "kills": 0,
@@ -811,9 +846,9 @@
     },
     "Sierra-117": {
       "kills": 0,
-      "deaths": 3,
+      "deaths": 9,
       "scores": 0,
-      "playtime": 26,
+      "playtime": 182,
       "longest_spree": 0
     },
     "Sleepy": {
@@ -873,11 +908,11 @@
       "longest_spree": 4
     },
     "Sturt": {
-      "kills": 106,
-      "deaths": 67,
+      "kills": 193,
+      "deaths": 129,
       "scores": 0,
-      "playtime": 1282,
-      "longest_spree": 8
+      "playtime": 3700,
+      "longest_spree": 10
     },
     "TEX": {
       "kills": 33,
@@ -944,16 +979,16 @@
     },
     "Toxinandris": {
       "kills": 11,
-      "deaths": 24,
+      "deaths": 27,
       "scores": 0,
-      "playtime": 1416,
+      "playtime": 1506,
       "longest_spree": 2
     },
     "Tren": {
-      "kills": 1723,
-      "deaths": 1864,
-      "scores": 3,
-      "playtime": 56069,
+      "kills": 1827,
+      "deaths": 2015,
+      "scores": 6,
+      "playtime": 59717,
       "longest_spree": 18
     },
     "Trevorm7": {
@@ -1118,10 +1153,10 @@
       "longest_spree": 3
     },
     "eSu[ mAtiX-": {
-      "kills": 1662,
-      "deaths": 1311,
-      "scores": 8,
-      "playtime": 34745,
+      "kills": 1820,
+      "deaths": 1436,
+      "scores": 10,
+      "playtime": 38495,
       "longest_spree": 19
     },
     "ekoms": {
@@ -1299,6 +1334,13 @@
       "playtime": 16,
       "longest_spree": 0
     },
+    "luk": {
+      "kills": 8,
+      "deaths": 4,
+      "scores": 0,
+      "playtime": 229,
+      "longest_spree": 4
+    },
     "lust4life": {
       "kills": 17,
       "deaths": 12,
@@ -1354,6 +1396,20 @@
       "scores": 0,
       "playtime": 98,
       "longest_spree": 2
+    },
+    "sd": {
+      "kills": 46,
+      "deaths": 27,
+      "scores": 0,
+      "playtime": 1050,
+      "longest_spree": 8
+    },
+    "sehee°": {
+      "kills": 94,
+      "deaths": 59,
+      "scores": 0,
+      "playtime": 1436,
+      "longest_spree": 9
     },
     "shp_rcl": {
       "kills": 3,
