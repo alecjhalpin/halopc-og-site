@@ -298,6 +298,13 @@
       "playtime": 3484,
       "longest_spree": 11
     },
+    "Don Gato": {
+      "kills": 0,
+      "deaths": 2,
+      "scores": 0,
+      "playtime": 18,
+      "longest_spree": 0
+    },
     "Dsalex1+": {
       "kills": 1,
       "deaths": 2,
@@ -540,7 +547,7 @@
       "kills": 1299,
       "deaths": 1200,
       "scores": 9,
-      "playtime": 37464,
+      "playtime": 38087,
       "longest_spree": 12
     },
     "Jef Epstein": {
@@ -1062,10 +1069,10 @@
       "longest_spree": 2
     },
     "Tren": {
-      "kills": 1936,
-      "deaths": 2113,
+      "kills": 1971,
+      "deaths": 2153,
       "scores": 6,
-      "playtime": 63317,
+      "playtime": 64295,
       "longest_spree": 18
     },
     "Trevorm7": {
@@ -1251,10 +1258,10 @@
       "longest_spree": 3
     },
     "eSu[ mAtiX-": {
-      "kills": 1964,
-      "deaths": 1563,
+      "kills": 1992,
+      "deaths": 1609,
       "scores": 10,
-      "playtime": 42099,
+      "playtime": 43073,
       "longest_spree": 19
     },
     "ekoms": {
@@ -1636,11 +1643,11 @@
       "longest_spree": 1
     },
     "߳][ ='=": {
-      "kills": 43,
-      "deaths": 33,
+      "kills": 97,
+      "deaths": 62,
       "scores": 0,
-      "playtime": 558,
-      "longest_spree": 3
+      "playtime": 1531,
+      "longest_spree": 9
     }
   }
 }
