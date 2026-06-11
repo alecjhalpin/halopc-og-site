@@ -82,10 +82,10 @@
       "longest_spree": 1
     },
     "Alex": {
-      "kills": 5,
-      "deaths": 6,
+      "kills": 7,
+      "deaths": 14,
       "scores": 0,
-      "playtime": 88,
+      "playtime": 315,
       "longest_spree": 2
     },
     "Arise": {
@@ -173,10 +173,10 @@
       "longest_spree": 2
     },
     "CarZero2": {
-      "kills": 27,
-      "deaths": 93,
+      "kills": 29,
+      "deaths": 108,
       "scores": 0,
-      "playtime": 2392,
+      "playtime": 2842,
       "longest_spree": 7
     },
     "Ceedrack": {
@@ -348,11 +348,11 @@
       "longest_spree": 2
     },
     "FunkerHPC": {
-      "kills": 22,
-      "deaths": 72,
+      "kills": 47,
+      "deaths": 135,
       "scores": 0,
-      "playtime": 1639,
-      "longest_spree": 2
+      "playtime": 2893,
+      "longest_spree": 6
     },
     "GENGHISKHAN": {
       "kills": 6,
@@ -396,11 +396,18 @@
       "playtime": 633,
       "longest_spree": 3
     },
-    "H I D A N": {
-      "kills": 13,
-      "deaths": 28,
+    "Gus2005": {
+      "kills": 1,
+      "deaths": 0,
       "scores": 0,
-      "playtime": 951,
+      "playtime": 66,
+      "longest_spree": 1
+    },
+    "H I D A N": {
+      "kills": 20,
+      "deaths": 36,
+      "scores": 0,
+      "playtime": 1236,
       "longest_spree": 2
     },
     "HADES": {
@@ -509,10 +516,10 @@
       "longest_spree": 4
     },
     "Jacko": {
-      "kills": 1166,
-      "deaths": 1117,
+      "kills": 1299,
+      "deaths": 1200,
       "scores": 9,
-      "playtime": 33061,
+      "playtime": 37464,
       "longest_spree": 12
     },
     "Jef Epstein": {
@@ -684,10 +691,10 @@
       "longest_spree": 2
     },
     "New001": {
-      "kills": 298,
-      "deaths": 263,
+      "kills": 305,
+      "deaths": 280,
       "scores": 0,
-      "playtime": 6508,
+      "playtime": 6927,
       "longest_spree": 8
     },
     "New032": {
@@ -1083,10 +1090,10 @@
       "longest_spree": 0
     },
     "[ x3RR0R ]": {
-      "kills": 85,
-      "deaths": 104,
+      "kills": 106,
+      "deaths": 149,
       "scores": 0,
-      "playtime": 2474,
+      "playtime": 4756,
       "longest_spree": 6
     },
     "[LU] memo's": {
@@ -1522,6 +1529,13 @@
       "scores": 0,
       "playtime": 25,
       "longest_spree": 1
+    },
+    "{L°E°} Ðan": {
+      "kills": 113,
+      "deaths": 72,
+      "scores": 0,
+      "playtime": 3410,
+      "longest_spree": 10
     },
     "{LºEº}þig©": {
       "kills": 5,
