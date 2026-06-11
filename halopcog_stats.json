@@ -116,6 +116,13 @@
       "playtime": 1231,
       "longest_spree": 2
     },
+    "Brian": {
+      "kills": 34,
+      "deaths": 26,
+      "scores": 0,
+      "playtime": 646,
+      "longest_spree": 6
+    },
     "Bud d'Alcor": {
       "kills": 3,
       "deaths": 8,
@@ -187,11 +194,11 @@
       "longest_spree": 4
     },
     "Cloutman": {
-      "kills": 22,
-      "deaths": 49,
+      "kills": 125,
+      "deaths": 158,
       "scores": 0,
-      "playtime": 1156,
-      "longest_spree": 2
+      "playtime": 3824,
+      "longest_spree": 5
     },
     "Cosmo": {
       "kills": 10,
@@ -691,10 +698,10 @@
       "longest_spree": 2
     },
     "New001": {
-      "kills": 305,
-      "deaths": 280,
+      "kills": 307,
+      "deaths": 286,
       "scores": 0,
-      "playtime": 6927,
+      "playtime": 7000,
       "longest_spree": 8
     },
     "New032": {
@@ -703,6 +710,13 @@
       "scores": 0,
       "playtime": 167,
       "longest_spree": 0
+    },
+    "NexuS": {
+      "kills": 37,
+      "deaths": 44,
+      "scores": 0,
+      "playtime": 1347,
+      "longest_spree": 4
     },
     "Noodle": {
       "kills": 56,
@@ -1006,11 +1020,11 @@
       "longest_spree": 0
     },
     "TonTon": {
-      "kills": 12,
-      "deaths": 51,
+      "kills": 20,
+      "deaths": 53,
       "scores": 0,
       "playtime": 2144,
-      "longest_spree": 3
+      "longest_spree": 5
     },
     "Toxinandris": {
       "kills": 11,
@@ -1109,6 +1123,13 @@
       "scores": 0,
       "playtime": 1209,
       "longest_spree": 5
+    },
+    "[[[SISU]]]": {
+      "kills": 3,
+      "deaths": 5,
+      "scores": 0,
+      "playtime": 83,
+      "longest_spree": 1
     },
     "[x]fatal1ty": {
       "kills": 20,
@@ -1349,10 +1370,10 @@
       "longest_spree": 5
     },
     "jgratis": {
-      "kills": 98,
-      "deaths": 83,
+      "kills": 201,
+      "deaths": 181,
       "scores": 0,
-      "playtime": 2297,
+      "playtime": 4699,
       "longest_spree": 6
     },
     "jo": {
