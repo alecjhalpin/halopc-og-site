@@ -25,6 +25,13 @@
       "playtime": 1532,
       "longest_spree": 7
     },
+    "#": {
+      "kills": 47,
+      "deaths": 14,
+      "scores": 0,
+      "playtime": 489,
+      "longest_spree": 8
+    },
     "(COL) kAPO": {
       "kills": 0,
       "deaths": 15,
@@ -129,6 +136,13 @@
       "scores": 0,
       "playtime": 315,
       "longest_spree": 2
+    },
+    "Angelito": {
+      "kills": 25,
+      "deaths": 26,
+      "scores": 0,
+      "playtime": 758,
+      "longest_spree": 4
     },
     "Arise": {
       "kills": 266,
@@ -271,10 +285,10 @@
       "longest_spree": 1
     },
     "Cloutman": {
-      "kills": 181,
-      "deaths": 251,
+      "kills": 200,
+      "deaths": 293,
       "scores": 0,
-      "playtime": 6390,
+      "playtime": 9294,
       "longest_spree": 5
     },
     "Cosmo": {
@@ -537,10 +551,10 @@
       "longest_spree": 1
     },
     "H I D A N": {
-      "kills": 33,
-      "deaths": 47,
+      "kills": 45,
+      "deaths": 56,
       "scores": 1,
-      "playtime": 1572,
+      "playtime": 1835,
       "longest_spree": 3
     },
     "HADES": {
@@ -824,10 +838,10 @@
       "longest_spree": 1
     },
     "Mane": {
-      "kills": 301,
-      "deaths": 236,
+      "kills": 307,
+      "deaths": 256,
       "scores": 0,
-      "playtime": 5193,
+      "playtime": 5560,
       "longest_spree": 13
     },
     "Mangelo": {
@@ -999,10 +1013,10 @@
       "longest_spree": 10
     },
     "RaG£": {
-      "kills": 98,
+      "kills": 99,
       "deaths": 60,
       "scores": 0,
-      "playtime": 1129,
+      "playtime": 1200,
       "longest_spree": 9
     },
     "ReCuPeRaDoR": {
@@ -1454,10 +1468,10 @@
       "longest_spree": 1
     },
     "diesl": {
-      "kills": 3,
+      "kills": 4,
       "deaths": 1,
       "scores": 0,
-      "playtime": 36,
+      "playtime": 90,
       "longest_spree": 3
     },
     "eSu[ mAtiX-": {
@@ -1508,6 +1522,13 @@
       "scores": 0,
       "playtime": 867,
       "longest_spree": 5
+    },
+    "elogt": {
+      "kills": 22,
+      "deaths": 22,
+      "scores": 0,
+      "playtime": 632,
+      "longest_spree": 6
     },
     "eltumbadooo": {
       "kills": 18,
