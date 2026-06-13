@@ -285,10 +285,10 @@
       "longest_spree": 1
     },
     "Cloutman": {
-      "kills": 200,
-      "deaths": 293,
+      "kills": 220,
+      "deaths": 331,
       "scores": 0,
-      "playtime": 9294,
+      "playtime": 10939,
       "longest_spree": 5
     },
     "Cosmo": {
@@ -299,10 +299,10 @@
       "longest_spree": 3
     },
     "Courds": {
-      "kills": 476,
-      "deaths": 268,
+      "kills": 526,
+      "deaths": 285,
       "scores": 0,
-      "playtime": 6254,
+      "playtime": 6860,
       "longest_spree": 11
     },
     "Crazy": {
@@ -334,10 +334,10 @@
       "longest_spree": 0
     },
     "DEvSEb": {
-      "kills": 7,
-      "deaths": 4,
+      "kills": 34,
+      "deaths": 55,
       "scores": 0,
-      "playtime": 199,
+      "playtime": 1032,
       "longest_spree": 3
     },
     "DaBlueB": {
@@ -838,10 +838,10 @@
       "longest_spree": 1
     },
     "Mane": {
-      "kills": 307,
-      "deaths": 256,
+      "kills": 345,
+      "deaths": 296,
       "scores": 0,
-      "playtime": 5560,
+      "playtime": 6364,
       "longest_spree": 13
     },
     "Mangelo": {
@@ -920,6 +920,13 @@
       "scores": 0,
       "playtime": 587,
       "longest_spree": 10
+    },
+    "NorD7": {
+      "kills": 28,
+      "deaths": 48,
+      "scores": 0,
+      "playtime": 805,
+      "longest_spree": 5
     },
     "Nuevo001": {
       "kills": 3,
@@ -1111,10 +1118,10 @@
       "longest_spree": 0
     },
     "SkedaR IW": {
-      "kills": 98,
-      "deaths": 110,
+      "kills": 168,
+      "deaths": 178,
       "scores": 1,
-      "playtime": 2132,
+      "playtime": 3622,
       "longest_spree": 6
     },
     "Sleepy": {
@@ -1376,6 +1383,13 @@
       "playtime": 663,
       "longest_spree": 4
     },
+    "_Fast": {
+      "kills": 58,
+      "deaths": 24,
+      "scores": 0,
+      "playtime": 543,
+      "longest_spree": 10
+    },
     "_GalloNegro": {
       "kills": 50,
       "deaths": 26,
@@ -1412,10 +1426,10 @@
       "longest_spree": 1
     },
     "albatross": {
-      "kills": 15,
-      "deaths": 36,
+      "kills": 22,
+      "deaths": 46,
       "scores": 0,
-      "playtime": 1036,
+      "playtime": 1251,
       "longest_spree": 3
     },
     "blackd": {
@@ -1622,11 +1636,11 @@
       "longest_spree": 1
     },
     "jGrat1s": {
-      "kills": 286,
-      "deaths": 385,
+      "kills": 363,
+      "deaths": 460,
       "scores": 0,
-      "playtime": 8197,
-      "longest_spree": 5
+      "playtime": 9566,
+      "longest_spree": 7
     },
     "jgratis": {
       "kills": 207,
@@ -1775,12 +1789,26 @@
       "playtime": 8,
       "longest_spree": 0
     },
+    "tinder": {
+      "kills": 21,
+      "deaths": 13,
+      "scores": 0,
+      "playtime": 381,
+      "longest_spree": 6
+    },
     "tony007": {
       "kills": 4,
       "deaths": 18,
       "scores": 0,
       "playtime": 345,
       "longest_spree": 2
+    },
+    "tu primita": {
+      "kills": 0,
+      "deaths": 12,
+      "scores": 0,
+      "playtime": 195,
+      "longest_spree": 0
     },
     "vic2020": {
       "kills": 0,
