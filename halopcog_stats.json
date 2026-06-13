@@ -137,6 +137,13 @@
       "playtime": 2088,
       "longest_spree": 9
     },
+    "@warmonger": {
+      "kills": 52,
+      "deaths": 40,
+      "scores": 0,
+      "playtime": 1193,
+      "longest_spree": 5
+    },
     "AJR": {
       "kills": 12,
       "deaths": 19,
@@ -1657,10 +1664,10 @@
       "longest_spree": 3
     },
     "eSu[ mAtiX-": {
-      "kills": 2665,
-      "deaths": 2117,
+      "kills": 2705,
+      "deaths": 2169,
       "scores": 19,
-      "playtime": 59521,
+      "playtime": 60964,
       "longest_spree": 19
     },
     "ekoms": {
