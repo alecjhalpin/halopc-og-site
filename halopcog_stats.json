@@ -96,11 +96,11 @@
       "longest_spree": 2
     },
     "2008 legend": {
-      "kills": 4,
-      "deaths": 14,
+      "kills": 28,
+      "deaths": 31,
       "scores": 0,
-      "playtime": 866,
-      "longest_spree": 1
+      "playtime": 2197,
+      "longest_spree": 9
     },
     "222231": {
       "kills": 0,
@@ -404,11 +404,11 @@
       "longest_spree": 0
     },
     "DEvSEb": {
-      "kills": 50,
-      "deaths": 65,
+      "kills": 92,
+      "deaths": 94,
       "scores": 0,
-      "playtime": 2022,
-      "longest_spree": 4
+      "playtime": 4522,
+      "longest_spree": 7
     },
     "DaBlueB": {
       "kills": 0,
@@ -943,10 +943,10 @@
       "longest_spree": 5
     },
     "Man1": {
-      "kills": 1,
-      "deaths": 4,
+      "kills": 6,
+      "deaths": 29,
       "scores": 0,
-      "playtime": 59,
+      "playtime": 1016,
       "longest_spree": 1
     },
     "Mane": {
