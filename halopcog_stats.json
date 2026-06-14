@@ -97,9 +97,9 @@
     },
     "2008 legend": {
       "kills": 3,
-      "deaths": 8,
+      "deaths": 9,
       "scores": 0,
-      "playtime": 95,
+      "playtime": 866,
       "longest_spree": 1
     },
     "222231": {
@@ -141,7 +141,7 @@
       "kills": 52,
       "deaths": 40,
       "scores": 0,
-      "playtime": 1193,
+      "playtime": 1219,
       "longest_spree": 5
     },
     "AJR": {
@@ -192,6 +192,13 @@
       "scores": 0,
       "playtime": 10259,
       "longest_spree": 10
+    },
+    "Atari-Lynn": {
+      "kills": 25,
+      "deaths": 21,
+      "scores": 0,
+      "playtime": 806,
+      "longest_spree": 3
     },
     "Atmax": {
       "kills": 32,
@@ -375,6 +382,13 @@
       "playtime": 78,
       "longest_spree": 7
     },
+    "D1G1T4L15M": {
+      "kills": 21,
+      "deaths": 25,
+      "scores": 0,
+      "playtime": 814,
+      "longest_spree": 5
+    },
     "D4tch": {
       "kills": 18,
       "deaths": 48,
@@ -453,10 +467,10 @@
       "longest_spree": 0
     },
     "Di_Fo0zBaL~": {
-      "kills": 262,
-      "deaths": 140,
+      "kills": 265,
+      "deaths": 142,
       "scores": 0,
-      "playtime": 3484,
+      "playtime": 4585,
       "longest_spree": 11
     },
     "Dio": {
@@ -1419,10 +1433,10 @@
       "longest_spree": 4
     },
     "Tren": {
-      "kills": 2255,
-      "deaths": 2597,
+      "kills": 2256,
+      "deaths": 2599,
       "scores": 10,
-      "playtime": 78108,
+      "playtime": 81117,
       "longest_spree": 18
     },
     "Trevorm7": {
@@ -1614,6 +1628,13 @@
       "playtime": 181,
       "longest_spree": 1
     },
+    "chorizohpc": {
+      "kills": 0,
+      "deaths": 0,
+      "scores": 0,
+      "playtime": 106,
+      "longest_spree": 0
+    },
     "cosmo": {
       "kills": 9,
       "deaths": 22,
@@ -1664,10 +1685,10 @@
       "longest_spree": 3
     },
     "eSu[ mAtiX-": {
-      "kills": 2705,
-      "deaths": 2169,
+      "kills": 2707,
+      "deaths": 2170,
       "scores": 19,
-      "playtime": 60964,
+      "playtime": 62267,
       "longest_spree": 19
     },
     "ekoms": {
