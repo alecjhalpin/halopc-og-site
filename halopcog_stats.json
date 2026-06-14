@@ -96,8 +96,8 @@
       "longest_spree": 2
     },
     "2008 legend": {
-      "kills": 3,
-      "deaths": 9,
+      "kills": 4,
+      "deaths": 14,
       "scores": 0,
       "playtime": 866,
       "longest_spree": 1
@@ -404,11 +404,11 @@
       "longest_spree": 0
     },
     "DEvSEb": {
-      "kills": 45,
-      "deaths": 64,
+      "kills": 50,
+      "deaths": 65,
       "scores": 0,
-      "playtime": 1225,
-      "longest_spree": 3
+      "playtime": 2022,
+      "longest_spree": 4
     },
     "DaBlueB": {
       "kills": 0,
