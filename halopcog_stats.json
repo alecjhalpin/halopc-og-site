@@ -414,7 +414,7 @@
       "kills": 94,
       "deaths": 98,
       "scores": 0,
-      "playtime": 5670,
+      "playtime": 5773,
       "longest_spree": 7
     },
     "DaBlueB": {
@@ -541,6 +541,13 @@
       "deaths": 8,
       "scores": 0,
       "playtime": 67,
+      "longest_spree": 0
+    },
+    "Españolo": {
+      "kills": 0,
+      "deaths": 0,
+      "scores": 0,
+      "playtime": 47,
       "longest_spree": 0
     },
     "Ethan": {
