@@ -823,6 +823,13 @@
       "playtime": 61,
       "longest_spree": 2
     },
+    "KLG´Petuche": {
+      "kills": 25,
+      "deaths": 6,
+      "scores": 0,
+      "playtime": 669,
+      "longest_spree": 7
+    },
     "KRONIX": {
       "kills": 2,
       "deaths": 9,
@@ -1846,10 +1853,10 @@
       "longest_spree": 1
     },
     "jGrat1s": {
-      "kills": 438,
-      "deaths": 516,
+      "kills": 444,
+      "deaths": 541,
       "scores": 0,
-      "playtime": 11584,
+      "playtime": 12894,
       "longest_spree": 7
     },
     "jgratis": {
