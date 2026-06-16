@@ -74,6 +74,13 @@
       "playtime": 95,
       "longest_spree": 1
     },
+    "0110": {
+      "kills": 18,
+      "deaths": 24,
+      "scores": 0,
+      "playtime": 758,
+      "longest_spree": 4
+    },
     "12345": {
       "kills": 5,
       "deaths": 3,
@@ -355,10 +362,10 @@
       "longest_spree": 1
     },
     "Cloutman": {
-      "kills": 391,
-      "deaths": 559,
+      "kills": 470,
+      "deaths": 646,
       "scores": 0,
-      "playtime": 17595,
+      "playtime": 21575,
       "longest_spree": 5
     },
     "Cosmo": {
@@ -1510,10 +1517,10 @@
       "longest_spree": 3
     },
     "Whisp": {
-      "kills": 21,
+      "kills": 22,
       "deaths": 15,
       "scores": 0,
-      "playtime": 303,
+      "playtime": 325,
       "longest_spree": 3
     },
     "WiId-EyE": {
@@ -1895,10 +1902,10 @@
       "longest_spree": 7
     },
     "jgratis": {
-      "kills": 371,
-      "deaths": 330,
+      "kills": 461,
+      "deaths": 407,
       "scores": 6,
-      "playtime": 9236,
+      "playtime": 12423,
       "longest_spree": 6
     },
     "jhk": {
