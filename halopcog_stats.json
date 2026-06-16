@@ -746,6 +746,13 @@
       "playtime": 814,
       "longest_spree": 2
     },
+    "Hunter®": {
+      "kills": 13,
+      "deaths": 17,
+      "scores": 0,
+      "playtime": 365,
+      "longest_spree": 4
+    },
     "Hyperbulit": {
       "kills": 0,
       "deaths": 8,
@@ -1257,6 +1264,13 @@
       "playtime": 189,
       "longest_spree": 1
     },
+    "SGT_Major": {
+      "kills": 0,
+      "deaths": 6,
+      "scores": 0,
+      "playtime": 105,
+      "longest_spree": 0
+    },
     "SIPZ@": {
       "kills": 1,
       "deaths": 3,
@@ -1608,10 +1622,10 @@
       "longest_spree": 1
     },
     "[x]fatal1ty": {
-      "kills": 477,
-      "deaths": 321,
+      "kills": 526,
+      "deaths": 364,
       "scores": 4,
-      "playtime": 8806,
+      "playtime": 9876,
       "longest_spree": 9
     },
     "_Fast": {
@@ -1643,11 +1657,11 @@
       "longest_spree": 10
     },
     "aCol": {
-      "kills": 606,
-      "deaths": 384,
+      "kills": 681,
+      "deaths": 413,
       "scores": 0,
-      "playtime": 9800,
-      "longest_spree": 13
+      "playtime": 11175,
+      "longest_spree": 14
     },
     "ajente sero": {
       "kills": 1,
@@ -1657,10 +1671,10 @@
       "longest_spree": 1
     },
     "albatross": {
-      "kills": 22,
-      "deaths": 46,
+      "kills": 41,
+      "deaths": 100,
       "scores": 0,
-      "playtime": 1251,
+      "playtime": 2437,
       "longest_spree": 3
     },
     "blackd": {
@@ -1669,6 +1683,13 @@
       "scores": 0,
       "playtime": 455,
       "longest_spree": 4
+    },
+    "cLoutman": {
+      "kills": 44,
+      "deaths": 42,
+      "scores": 0,
+      "playtime": 1072,
+      "longest_spree": 5
     },
     "chokorrol": {
       "kills": 3,
@@ -1909,10 +1930,10 @@
       "longest_spree": 7
     },
     "jgratis": {
-      "kills": 499,
-      "deaths": 437,
+      "kills": 537,
+      "deaths": 484,
       "scores": 6,
-      "playtime": 14255,
+      "playtime": 15346,
       "longest_spree": 7
     },
     "jhk": {
