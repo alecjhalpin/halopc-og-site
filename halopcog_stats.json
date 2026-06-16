@@ -362,10 +362,10 @@
       "longest_spree": 1
     },
     "Cloutman": {
-      "kills": 470,
-      "deaths": 646,
+      "kills": 483,
+      "deaths": 662,
       "scores": 0,
-      "playtime": 21575,
+      "playtime": 22831,
       "longest_spree": 5
     },
     "Cosmo": {
@@ -955,6 +955,13 @@
       "scores": 0,
       "playtime": 54,
       "longest_spree": 2
+    },
+    "MGBagattini": {
+      "kills": 5,
+      "deaths": 13,
+      "scores": 0,
+      "playtime": 501,
+      "longest_spree": 1
     },
     "Maede": {
       "kills": 94,
@@ -1902,11 +1909,11 @@
       "longest_spree": 7
     },
     "jgratis": {
-      "kills": 461,
-      "deaths": 407,
+      "kills": 499,
+      "deaths": 437,
       "scores": 6,
-      "playtime": 12423,
-      "longest_spree": 6
+      "playtime": 14255,
+      "longest_spree": 7
     },
     "jhk": {
       "kills": 0,
@@ -2054,6 +2061,13 @@
       "scores": 0,
       "playtime": 220,
       "longest_spree": 2
+    },
+    "smartspoilt": {
+      "kills": 0,
+      "deaths": 3,
+      "scores": 0,
+      "playtime": 132,
+      "longest_spree": 0
     },
     "sonicxv": {
       "kills": 62,
@@ -2208,6 +2222,13 @@
       "scores": 0,
       "playtime": 1531,
       "longest_spree": 9
+    },
+    "ø'BaMbOo": {
+      "kills": 25,
+      "deaths": 19,
+      "scores": 0,
+      "playtime": 525,
+      "longest_spree": 3
     }
   }
 }
