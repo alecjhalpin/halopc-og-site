@@ -1581,7 +1581,7 @@
     },
     "[ x3RR0R ]": {
       "kills": 152,
-      "deaths": 193,
+      "deaths": 194,
       "scores": 0,
       "playtime": 5642,
       "longest_spree": 6
@@ -1622,10 +1622,10 @@
       "longest_spree": 1
     },
     "[x]fatal1ty": {
-      "kills": 526,
+      "kills": 530,
       "deaths": 364,
       "scores": 4,
-      "playtime": 9876,
+      "playtime": 9981,
       "longest_spree": 9
     },
     "_Fast": {
@@ -1688,7 +1688,7 @@
       "kills": 44,
       "deaths": 42,
       "scores": 0,
-      "playtime": 1072,
+      "playtime": 1094,
       "longest_spree": 5
     },
     "chokorrol": {
@@ -1817,6 +1817,13 @@
       "playtime": 632,
       "longest_spree": 6
     },
+    "elpajas2000": {
+      "kills": 3,
+      "deaths": 11,
+      "scores": 0,
+      "playtime": 323,
+      "longest_spree": 1
+    },
     "eltumbadooo": {
       "kills": 18,
       "deaths": 50,
@@ -1908,6 +1915,13 @@
       "playtime": 5200,
       "longest_spree": 8
     },
+    "http~iori": {
+      "kills": 8,
+      "deaths": 0,
+      "scores": 0,
+      "playtime": 0,
+      "longest_spree": 8
+    },
     "hz6": {
       "kills": 19,
       "deaths": 9,
@@ -1930,10 +1944,10 @@
       "longest_spree": 7
     },
     "jgratis": {
-      "kills": 537,
-      "deaths": 484,
+      "kills": 538,
+      "deaths": 487,
       "scores": 6,
-      "playtime": 15346,
+      "playtime": 15413,
       "longest_spree": 7
     },
     "jhk": {
@@ -2096,6 +2110,20 @@
       "scores": 0,
       "playtime": 1224,
       "longest_spree": 8
+    },
+    "su tio": {
+      "kills": 24,
+      "deaths": 13,
+      "scores": 0,
+      "playtime": 3096,
+      "longest_spree": 6
+    },
+    "supapa07": {
+      "kills": 11,
+      "deaths": 23,
+      "scores": 0,
+      "playtime": 1342,
+      "longest_spree": 3
     },
     "søx": {
       "kills": 0,
