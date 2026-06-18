@@ -179,6 +179,13 @@
       "playtime": 819,
       "longest_spree": 2
     },
+    "Aerocatia": {
+      "kills": 36,
+      "deaths": 39,
+      "scores": 0,
+      "playtime": 749,
+      "longest_spree": 5
+    },
     "Ae§-Unksldr": {
       "kills": 43,
       "deaths": 62,
@@ -1671,10 +1678,10 @@
       "longest_spree": 1
     },
     "[x]fatal1ty": {
-      "kills": 692,
-      "deaths": 474,
+      "kills": 749,
+      "deaths": 543,
       "scores": 8,
-      "playtime": 13201,
+      "playtime": 14738,
       "longest_spree": 26
     },
     "_Fast": {
@@ -1741,10 +1748,10 @@
       "longest_spree": 4
     },
     "cLoutman": {
-      "kills": 45,
-      "deaths": 43,
+      "kills": 108,
+      "deaths": 125,
       "scores": 0,
-      "playtime": 1143,
+      "playtime": 2972,
       "longest_spree": 5
     },
     "chokorrol": {
@@ -1818,11 +1825,11 @@
       "longest_spree": 8
     },
     "eLsapo": {
-      "kills": 2,
-      "deaths": 1,
+      "kills": 73,
+      "deaths": 70,
       "scores": 0,
-      "playtime": 28,
-      "longest_spree": 2
+      "playtime": 1869,
+      "longest_spree": 5
     },
     "eSu[ mAtiX-": {
       "kills": 2707,
@@ -1977,6 +1984,13 @@
       "scores": 0,
       "playtime": 5200,
       "longest_spree": 8
+    },
+    "httpeNsold": {
+      "kills": 44,
+      "deaths": 12,
+      "scores": 0,
+      "playtime": 399,
+      "longest_spree": 7
     },
     "http~iori": {
       "kills": 303,
@@ -2250,6 +2264,13 @@
       "scores": 0,
       "playtime": 725,
       "longest_spree": 3
+    },
+    "wicki": {
+      "kills": 0,
+      "deaths": 0,
+      "scores": 0,
+      "playtime": 232,
+      "longest_spree": 0
     },
     "z": {
       "kills": 1,
