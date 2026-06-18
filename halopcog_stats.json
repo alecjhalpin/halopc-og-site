@@ -116,6 +116,13 @@
       "playtime": 60,
       "longest_spree": 0
     },
+    "29years": {
+      "kills": 50,
+      "deaths": 33,
+      "scores": 0,
+      "playtime": 996,
+      "longest_spree": 6
+    },
     "=DS_c0nk3r`": {
       "kills": 83,
       "deaths": 39,
@@ -1370,10 +1377,10 @@
       "longest_spree": 0
     },
     "Shaypun012": {
-      "kills": 26,
-      "deaths": 7,
-      "scores": 0,
-      "playtime": 674,
+      "kills": 36,
+      "deaths": 20,
+      "scores": 3,
+      "playtime": 1214,
       "longest_spree": 14
     },
     "Sierra-117": {
@@ -1678,10 +1685,10 @@
       "longest_spree": 1
     },
     "[x]fatal1ty": {
-      "kills": 749,
-      "deaths": 543,
+      "kills": 773,
+      "deaths": 569,
       "scores": 8,
-      "playtime": 14738,
+      "playtime": 15885,
       "longest_spree": 26
     },
     "_Fast": {
@@ -1748,10 +1755,10 @@
       "longest_spree": 4
     },
     "cLoutman": {
-      "kills": 108,
-      "deaths": 125,
+      "kills": 198,
+      "deaths": 240,
       "scores": 0,
-      "playtime": 2972,
+      "playtime": 6341,
       "longest_spree": 5
     },
     "chokorrol": {
@@ -1825,11 +1832,11 @@
       "longest_spree": 8
     },
     "eLsapo": {
-      "kills": 73,
-      "deaths": 70,
+      "kills": 174,
+      "deaths": 171,
       "scores": 0,
-      "playtime": 1869,
-      "longest_spree": 5
+      "playtime": 5126,
+      "longest_spree": 6
     },
     "eSu[ mAtiX-": {
       "kills": 2707,
@@ -1986,10 +1993,10 @@
       "longest_spree": 8
     },
     "httpeNsold": {
-      "kills": 44,
-      "deaths": 12,
+      "kills": 80,
+      "deaths": 32,
       "scores": 0,
-      "playtime": 399,
+      "playtime": 2280,
       "longest_spree": 7
     },
     "http~iori": {
@@ -2194,6 +2201,13 @@
       "scores": 0,
       "playtime": 132,
       "longest_spree": 0
+    },
+    "smeagol": {
+      "kills": 1,
+      "deaths": 4,
+      "scores": 0,
+      "playtime": 110,
+      "longest_spree": 1
     },
     "sonicxv": {
       "kills": 62,
