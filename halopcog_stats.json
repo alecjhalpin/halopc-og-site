@@ -1166,6 +1166,13 @@
       "playtime": 233,
       "longest_spree": 1
     },
+    "OYODESUMAMA": {
+      "kills": 0,
+      "deaths": 0,
+      "scores": 0,
+      "playtime": 32,
+      "longest_spree": 0
+    },
     "PALOMO": {
       "kills": 0,
       "deaths": 4,
@@ -2227,7 +2234,7 @@
       "kills": 88,
       "deaths": 207,
       "scores": 3,
-      "playtime": 9374,
+      "playtime": 9389,
       "longest_spree": 8
     },
     "supapa07": {
