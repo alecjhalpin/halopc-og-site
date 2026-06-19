@@ -1643,10 +1643,10 @@
       "longest_spree": 0
     },
     "[ x3RR0R ]": {
-      "kills": 277,
-      "deaths": 335,
+      "kills": 300,
+      "deaths": 359,
       "scores": 3,
-      "playtime": 9160,
+      "playtime": 9659,
       "longest_spree": 13
     },
     "[FAST]depri": {
@@ -1761,6 +1761,13 @@
       "playtime": 6341,
       "longest_spree": 5
     },
+    "caleb": {
+      "kills": 3,
+      "deaths": 4,
+      "scores": 0,
+      "playtime": 90,
+      "longest_spree": 2
+    },
     "chokorrol": {
       "kills": 3,
       "deaths": 15,
@@ -1832,10 +1839,10 @@
       "longest_spree": 8
     },
     "eLsapo": {
-      "kills": 174,
-      "deaths": 171,
+      "kills": 192,
+      "deaths": 194,
       "scores": 0,
-      "playtime": 5126,
+      "playtime": 5635,
       "longest_spree": 6
     },
     "eSu[ mAtiX-": {
@@ -2021,10 +2028,10 @@
       "longest_spree": 1
     },
     "jGrat1s": {
-      "kills": 444,
-      "deaths": 541,
+      "kills": 469,
+      "deaths": 559,
       "scores": 0,
-      "playtime": 13291,
+      "playtime": 13795,
       "longest_spree": 7
     },
     "jgratis": {
