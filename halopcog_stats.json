@@ -382,6 +382,13 @@
       "playtime": 366,
       "longest_spree": 1
     },
+    "Ci": {
+      "kills": 50,
+      "deaths": 104,
+      "scores": 0,
+      "playtime": 2941,
+      "longest_spree": 3
+    },
     "Cloutman": {
       "kills": 483,
       "deaths": 662,
@@ -404,17 +411,17 @@
       "longest_spree": 11
     },
     "Crazy": {
-      "kills": 0,
-      "deaths": 0,
+      "kills": 25,
+      "deaths": 8,
       "scores": 0,
-      "playtime": 5,
-      "longest_spree": 0
+      "playtime": 353,
+      "longest_spree": 9
     },
     "Cupid": {
-      "kills": 9,
-      "deaths": 1,
+      "kills": 34,
+      "deaths": 9,
       "scores": 0,
-      "playtime": 78,
+      "playtime": 559,
       "longest_spree": 7
     },
     "D1G1T4L15M": {
@@ -520,6 +527,13 @@
       "deaths": 2,
       "scores": 0,
       "playtime": 18,
+      "longest_spree": 0
+    },
+    "Donut": {
+      "kills": 0,
+      "deaths": 0,
+      "scores": 0,
+      "playtime": 33,
       "longest_spree": 0
     },
     "Dsalex1+": {
@@ -725,6 +739,13 @@
       "playtime": 705,
       "longest_spree": 2
     },
+    "Hambone": {
+      "kills": 12,
+      "deaths": 6,
+      "scores": 0,
+      "playtime": 215,
+      "longest_spree": 4
+    },
     "Haste": {
       "kills": 209,
       "deaths": 123,
@@ -852,10 +873,10 @@
       "longest_spree": 3
     },
     "Joao": {
-      "kills": 79,
-      "deaths": 56,
+      "kills": 105,
+      "deaths": 85,
       "scores": 0,
-      "playtime": 1178,
+      "playtime": 1719,
       "longest_spree": 8
     },
     "JuanDHalo": {
@@ -1229,6 +1250,13 @@
       "playtime": 887,
       "longest_spree": 8
     },
+    "Penguin": {
+      "kills": 12,
+      "deaths": 10,
+      "scores": 0,
+      "playtime": 253,
+      "longest_spree": 3
+    },
     "Pirate": {
       "kills": 23,
       "deaths": 20,
@@ -1342,11 +1370,11 @@
       "longest_spree": 1
     },
     "STH ELIS": {
-      "kills": 3,
-      "deaths": 12,
+      "kills": 6,
+      "deaths": 25,
       "scores": 0,
-      "playtime": 171,
-      "longest_spree": 1
+      "playtime": 333,
+      "longest_spree": 2
     },
     "SandiC": {
       "kills": 33,
@@ -1405,11 +1433,11 @@
       "longest_spree": 6
     },
     "Sleepy": {
-      "kills": 16,
-      "deaths": 10,
+      "kills": 40,
+      "deaths": 24,
       "scores": 0,
-      "playtime": 194,
-      "longest_spree": 5
+      "playtime": 580,
+      "longest_spree": 6
     },
     "Snake": {
       "kills": 34,
@@ -1454,11 +1482,11 @@
       "longest_spree": 2
     },
     "Stompy": {
-      "kills": 25,
-      "deaths": 14,
+      "kills": 50,
+      "deaths": 30,
       "scores": 0,
-      "playtime": 361,
-      "longest_spree": 4
+      "playtime": 747,
+      "longest_spree": 9
     },
     "Sturt": {
       "kills": 193,
@@ -1475,10 +1503,10 @@
       "longest_spree": 5
     },
     "TORPE": {
-      "kills": 113,
-      "deaths": 59,
+      "kills": 163,
+      "deaths": 92,
       "scores": 0,
-      "playtime": 1183,
+      "playtime": 2102,
       "longest_spree": 9
     },
     "TOTUSFLOREO": {
@@ -1770,9 +1798,9 @@
     },
     "caleb": {
       "kills": 3,
-      "deaths": 4,
+      "deaths": 6,
       "scores": 0,
-      "playtime": 90,
+      "playtime": 206,
       "longest_spree": 2
     },
     "chokorrol": {
@@ -2369,6 +2397,13 @@
       "scores": 0,
       "playtime": 572,
       "longest_spree": 2
+    },
+    "® Angel": {
+      "kills": 33,
+      "deaths": 42,
+      "scores": 0,
+      "playtime": 807,
+      "longest_spree": 5
     },
     "ºseroº": {
       "kills": 53,
