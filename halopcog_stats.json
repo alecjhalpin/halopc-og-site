@@ -649,10 +649,10 @@
       "longest_spree": 2
     },
     "FunkerHPC": {
-      "kills": 47,
-      "deaths": 135,
+      "kills": 58,
+      "deaths": 177,
       "scores": 0,
-      "playtime": 2893,
+      "playtime": 3622,
       "longest_spree": 6
     },
     "GABRIEL": {
@@ -1185,6 +1185,13 @@
       "deaths": 48,
       "scores": 0,
       "playtime": 805,
+      "longest_spree": 5
+    },
+    "Ntv": {
+      "kills": 47,
+      "deaths": 54,
+      "scores": 0,
+      "playtime": 1858,
       "longest_spree": 5
     },
     "Nuevo001": {
@@ -1796,6 +1803,13 @@
       "playtime": 455,
       "longest_spree": 4
     },
+    "by": {
+      "kills": 19,
+      "deaths": 13,
+      "scores": 0,
+      "playtime": 694,
+      "longest_spree": 5
+    },
     "cLoutman": {
       "kills": 198,
       "deaths": 240,
@@ -2334,6 +2348,13 @@
       "scores": 0,
       "playtime": 232,
       "longest_spree": 0
+    },
+    "xPS'": {
+      "kills": 70,
+      "deaths": 38,
+      "scores": 0,
+      "playtime": 1964,
+      "longest_spree": 8
     },
     "z": {
       "kills": 1,
