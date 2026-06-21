@@ -879,6 +879,13 @@
       "playtime": 1719,
       "longest_spree": 8
     },
+    "JuanBrujo": {
+      "kills": 0,
+      "deaths": 7,
+      "scores": 0,
+      "playtime": 137,
+      "longest_spree": 0
+    },
     "JuanDHalo": {
       "kills": 2,
       "deaths": 5,
@@ -934,6 +941,13 @@
       "scores": 0,
       "playtime": 131,
       "longest_spree": 4
+    },
+    "Kom Ol Lee": {
+      "kills": 39,
+      "deaths": 32,
+      "scores": 0,
+      "playtime": 732,
+      "longest_spree": 6
     },
     "Korea": {
       "kills": 5,
@@ -1146,10 +1160,10 @@
       "longest_spree": 3
     },
     "New001": {
-      "kills": 356,
-      "deaths": 320,
+      "kills": 375,
+      "deaths": 343,
       "scores": 0,
-      "playtime": 8185,
+      "playtime": 8573,
       "longest_spree": 8
     },
     "New032": {
@@ -1188,10 +1202,10 @@
       "longest_spree": 5
     },
     "Ntv": {
-      "kills": 47,
-      "deaths": 54,
+      "kills": 81,
+      "deaths": 107,
       "scores": 0,
-      "playtime": 1858,
+      "playtime": 2857,
       "longest_spree": 5
     },
     "Nuevo001": {
@@ -1790,11 +1804,11 @@
       "longest_spree": 1
     },
     "albatross": {
-      "kills": 41,
-      "deaths": 100,
+      "kills": 59,
+      "deaths": 128,
       "scores": 0,
-      "playtime": 2437,
-      "longest_spree": 3
+      "playtime": 2867,
+      "longest_spree": 7
     },
     "blackd": {
       "kills": 26,
@@ -2160,6 +2174,13 @@
       "playtime": 1412,
       "longest_spree": 7
     },
+    "menor": {
+      "kills": 29,
+      "deaths": 14,
+      "scores": 0,
+      "playtime": 318,
+      "longest_spree": 5
+    },
     "meow001": {
       "kills": 74,
       "deaths": 82,
@@ -2350,11 +2371,11 @@
       "longest_spree": 0
     },
     "xPS'": {
-      "kills": 70,
-      "deaths": 38,
+      "kills": 122,
+      "deaths": 72,
       "scores": 0,
-      "playtime": 1964,
-      "longest_spree": 8
+      "playtime": 3095,
+      "longest_spree": 9
     },
     "z": {
       "kills": 1,
