@@ -390,10 +390,10 @@
       "longest_spree": 3
     },
     "Cloutman": {
-      "kills": 483,
-      "deaths": 662,
+      "kills": 487,
+      "deaths": 664,
       "scores": 0,
-      "playtime": 22831,
+      "playtime": 23152,
       "longest_spree": 5
     },
     "Cosmo": {
@@ -1108,6 +1108,13 @@
       "deaths": 8,
       "scores": 0,
       "playtime": 137,
+      "longest_spree": 1
+    },
+    "MeonHed8944": {
+      "kills": 2,
+      "deaths": 4,
+      "scores": 0,
+      "playtime": 154,
       "longest_spree": 1
     },
     "Michael": {
