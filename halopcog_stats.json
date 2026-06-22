@@ -117,11 +117,18 @@
       "longest_spree": 0
     },
     "29years": {
-      "kills": 50,
+      "kills": 55,
       "deaths": 33,
       "scores": 0,
-      "playtime": 996,
+      "playtime": 1107,
       "longest_spree": 6
+    },
+    "3naM'": {
+      "kills": 0,
+      "deaths": 0,
+      "scores": 0,
+      "playtime": 6,
+      "longest_spree": 0
     },
     "=DS_c0nk3r`": {
       "kills": 83,
@@ -655,6 +662,13 @@
       "playtime": 3622,
       "longest_spree": 6
     },
+    "G": {
+      "kills": 0,
+      "deaths": 0,
+      "scores": 0,
+      "playtime": 137,
+      "longest_spree": 0
+    },
     "GABRIEL": {
       "kills": 53,
       "deaths": 64,
@@ -682,6 +696,13 @@
       "scores": 0,
       "playtime": 836,
       "longest_spree": 16
+    },
+    "Gcx": {
+      "kills": 0,
+      "deaths": 0,
+      "scores": 0,
+      "playtime": 195,
+      "longest_spree": 0
     },
     "Ghost": {
       "kills": 22,
@@ -2379,9 +2400,9 @@
     },
     "xPS'": {
       "kills": 122,
-      "deaths": 72,
+      "deaths": 77,
       "scores": 0,
-      "playtime": 3095,
+      "playtime": 4199,
       "longest_spree": 9
     },
     "z": {
