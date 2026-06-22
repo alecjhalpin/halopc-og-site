@@ -1853,10 +1853,10 @@
       "longest_spree": 5
     },
     "cLoutman": {
-      "kills": 198,
-      "deaths": 240,
+      "kills": 224,
+      "deaths": 266,
       "scores": 0,
-      "playtime": 6341,
+      "playtime": 7181,
       "longest_spree": 5
     },
     "caleb": {
@@ -1937,10 +1937,10 @@
       "longest_spree": 8
     },
     "eLsapo": {
-      "kills": 192,
-      "deaths": 194,
+      "kills": 218,
+      "deaths": 220,
       "scores": 0,
-      "playtime": 5635,
+      "playtime": 6433,
       "longest_spree": 6
     },
     "eSu[ mAtiX-": {
@@ -2194,6 +2194,13 @@
       "scores": 0,
       "playtime": 272,
       "longest_spree": 5
+    },
+    "mache": {
+      "kills": 0,
+      "deaths": 0,
+      "scores": 0,
+      "playtime": 14,
+      "longest_spree": 0
     },
     "magic man": {
       "kills": 60,
