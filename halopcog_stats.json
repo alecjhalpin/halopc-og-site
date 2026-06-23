@@ -663,11 +663,11 @@
       "longest_spree": 6
     },
     "G": {
-      "kills": 0,
-      "deaths": 0,
+      "kills": 25,
+      "deaths": 25,
       "scores": 0,
-      "playtime": 137,
-      "longest_spree": 0
+      "playtime": 1245,
+      "longest_spree": 8
     },
     "GABRIEL": {
       "kills": 53,
@@ -1349,10 +1349,10 @@
       "longest_spree": 10
     },
     "RaG£": {
-      "kills": 103,
-      "deaths": 62,
+      "kills": 113,
+      "deaths": 73,
       "scores": 0,
-      "playtime": 1304,
+      "playtime": 1584,
       "longest_spree": 9
     },
     "ReCuPeRaDoR": {
@@ -1843,6 +1843,13 @@
       "deaths": 27,
       "scores": 0,
       "playtime": 455,
+      "longest_spree": 4
+    },
+    "bolivia": {
+      "kills": 25,
+      "deaths": 24,
+      "scores": 0,
+      "playtime": 799,
       "longest_spree": 4
     },
     "by": {
