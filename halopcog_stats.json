@@ -117,10 +117,10 @@
       "longest_spree": 0
     },
     "29years": {
-      "kills": 55,
-      "deaths": 33,
+      "kills": 152,
+      "deaths": 102,
       "scores": 0,
-      "playtime": 1107,
+      "playtime": 2853,
       "longest_spree": 6
     },
     "3naM'": {
@@ -746,6 +746,13 @@
       "playtime": 464,
       "longest_spree": 1
     },
+    "HEROBRINE": {
+      "kills": 0,
+      "deaths": 2,
+      "scores": 0,
+      "playtime": 77,
+      "longest_spree": 0
+    },
     "HLN-Hardy": {
       "kills": 27,
       "deaths": 25,
@@ -1025,6 +1032,13 @@
       "scores": 0,
       "playtime": 25,
       "longest_spree": 0
+    },
+    "Lu]Chetos": {
+      "kills": 5,
+      "deaths": 5,
+      "scores": 0,
+      "playtime": 104,
+      "longest_spree": 3
     },
     "Lu]Chetoss": {
       "kills": 41,
@@ -1860,10 +1874,10 @@
       "longest_spree": 5
     },
     "cLoutman": {
-      "kills": 224,
-      "deaths": 266,
+      "kills": 321,
+      "deaths": 378,
       "scores": 0,
-      "playtime": 7181,
+      "playtime": 10064,
       "longest_spree": 5
     },
     "caleb": {
@@ -2228,6 +2242,13 @@
       "deaths": 82,
       "scores": 0,
       "playtime": 1327,
+      "longest_spree": 4
+    },
+    "miLkman": {
+      "kills": 94,
+      "deaths": 105,
+      "scores": 0,
+      "playtime": 2791,
       "longest_spree": 4
     },
     "moon": {
