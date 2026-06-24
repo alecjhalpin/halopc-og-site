@@ -1782,6 +1782,13 @@
       "playtime": 11,
       "longest_spree": 0
     },
+    "[G]": {
+      "kills": 0,
+      "deaths": 0,
+      "scores": 0,
+      "playtime": 164,
+      "longest_spree": 0
+    },
     "[HIV] King": {
       "kills": 12,
       "deaths": 26,
