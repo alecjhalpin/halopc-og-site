@@ -697,6 +697,13 @@
       "playtime": 836,
       "longest_spree": 16
     },
+    "GamingEren": {
+      "kills": 0,
+      "deaths": 0,
+      "scores": 0,
+      "playtime": 16,
+      "longest_spree": 0
+    },
     "Gcx": {
       "kills": 0,
       "deaths": 0,
@@ -717,6 +724,13 @@
       "scores": 0,
       "playtime": 219,
       "longest_spree": 10
+    },
+    "Goodshit": {
+      "kills": 0,
+      "deaths": 0,
+      "scores": 0,
+      "playtime": 71,
+      "longest_spree": 0
     },
     "Griff": {
       "kills": 26,
@@ -1761,6 +1775,13 @@
       "playtime": 611,
       "longest_spree": 4
     },
+    "[GU]": {
+      "kills": 0,
+      "deaths": 0,
+      "scores": 0,
+      "playtime": 11,
+      "longest_spree": 0
+    },
     "[HIV] King": {
       "kills": 12,
       "deaths": 26,
@@ -1874,10 +1895,10 @@
       "longest_spree": 5
     },
     "cLoutman": {
-      "kills": 321,
-      "deaths": 378,
+      "kills": 342,
+      "deaths": 403,
       "scores": 0,
-      "playtime": 10064,
+      "playtime": 10766,
       "longest_spree": 5
     },
     "caleb": {
@@ -2245,10 +2266,10 @@
       "longest_spree": 4
     },
     "miLkman": {
-      "kills": 94,
-      "deaths": 105,
+      "kills": 119,
+      "deaths": 126,
       "scores": 0,
-      "playtime": 2791,
+      "playtime": 3533,
       "longest_spree": 4
     },
     "moon": {
