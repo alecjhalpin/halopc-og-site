@@ -1691,6 +1691,13 @@
       "playtime": 65,
       "longest_spree": 1
     },
+    "Umbrella": {
+      "kills": 0,
+      "deaths": 0,
+      "scores": 0,
+      "playtime": 122,
+      "longest_spree": 0
+    },
     "Valentina_": {
       "kills": 200,
       "deaths": 280,
