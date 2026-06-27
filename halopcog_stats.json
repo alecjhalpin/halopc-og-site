@@ -397,10 +397,10 @@
       "longest_spree": 3
     },
     "Cloutman": {
-      "kills": 487,
-      "deaths": 664,
+      "kills": 507,
+      "deaths": 686,
       "scores": 0,
-      "playtime": 23152,
+      "playtime": 23613,
       "longest_spree": 5
     },
     "Cosmo": {
@@ -492,6 +492,13 @@
       "deaths": 59,
       "scores": 0,
       "playtime": 1292,
+      "longest_spree": 4
+    },
+    "DeMoN": {
+      "kills": 13,
+      "deaths": 4,
+      "scores": 0,
+      "playtime": 59,
       "longest_spree": 4
     },
     "DedeoXtremo": {
@@ -640,6 +647,13 @@
       "scores": 0,
       "playtime": 361,
       "longest_spree": 1
+    },
+    "Florida": {
+      "kills": 0,
+      "deaths": 0,
+      "scores": 0,
+      "playtime": 8,
+      "longest_spree": 0
     },
     "Fra": {
       "kills": 1,
@@ -824,10 +838,10 @@
       "longest_spree": 7
     },
     "HolyFlame®": {
-      "kills": 25,
-      "deaths": 15,
+      "kills": 32,
+      "deaths": 32,
       "scores": 0,
-      "playtime": 342,
+      "playtime": 636,
       "longest_spree": 4
     },
     "Howard": {
@@ -1894,6 +1908,13 @@
       "playtime": 2867,
       "longest_spree": 7
     },
+    "b3l3n[o_0]": {
+      "kills": 5,
+      "deaths": 9,
+      "scores": 0,
+      "playtime": 149,
+      "longest_spree": 2
+    },
     "blackd": {
       "kills": 26,
       "deaths": 27,
@@ -2192,7 +2213,7 @@
       "kills": 469,
       "deaths": 559,
       "scores": 0,
-      "playtime": 13795,
+      "playtime": 14092,
       "longest_spree": 7
     },
     "jgratis": {
@@ -2287,11 +2308,18 @@
       "longest_spree": 4
     },
     "miLkman": {
-      "kills": 119,
-      "deaths": 126,
+      "kills": 149,
+      "deaths": 157,
       "scores": 0,
-      "playtime": 3533,
-      "longest_spree": 4
+      "playtime": 4399,
+      "longest_spree": 5
+    },
+    "mofofo": {
+      "kills": 25,
+      "deaths": 10,
+      "scores": 0,
+      "playtime": 359,
+      "longest_spree": 10
     },
     "moon": {
       "kills": 140,
@@ -2560,10 +2588,10 @@
       "longest_spree": 2
     },
     "® Angel": {
-      "kills": 33,
-      "deaths": 42,
+      "kills": 42,
+      "deaths": 58,
       "scores": 0,
-      "playtime": 807,
+      "playtime": 1196,
       "longest_spree": 5
     },
     "ºseroº": {
