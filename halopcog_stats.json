@@ -137,6 +137,13 @@
       "playtime": 884,
       "longest_spree": 7
     },
+    "??": {
+      "kills": 50,
+      "deaths": 32,
+      "scores": 0,
+      "playtime": 801,
+      "longest_spree": 8
+    },
     "@@_jonn": {
       "kills": 47,
       "deaths": 38,
@@ -397,10 +404,10 @@
       "longest_spree": 3
     },
     "Cloutman": {
-      "kills": 507,
-      "deaths": 686,
+      "kills": 547,
+      "deaths": 753,
       "scores": 0,
-      "playtime": 23613,
+      "playtime": 25104,
       "longest_spree": 5
     },
     "Cosmo": {
@@ -495,11 +502,11 @@
       "longest_spree": 4
     },
     "DeMoN": {
-      "kills": 13,
-      "deaths": 4,
+      "kills": 25,
+      "deaths": 8,
       "scores": 0,
-      "playtime": 59,
-      "longest_spree": 4
+      "playtime": 335,
+      "longest_spree": 8
     },
     "DedeoXtremo": {
       "kills": 1,
@@ -2308,11 +2315,11 @@
       "longest_spree": 4
     },
     "miLkman": {
-      "kills": 149,
-      "deaths": 157,
+      "kills": 202,
+      "deaths": 218,
       "scores": 0,
-      "playtime": 4399,
-      "longest_spree": 5
+      "playtime": 6116,
+      "longest_spree": 7
     },
     "mofofo": {
       "kills": 25,
@@ -2362,6 +2369,13 @@
       "scores": 0,
       "playtime": 1861,
       "longest_spree": 15
+    },
+    "r4p3d": {
+      "kills": 37,
+      "deaths": 21,
+      "scores": 0,
+      "playtime": 479,
+      "longest_spree": 9
     },
     "s": {
       "kills": 0,
@@ -2544,6 +2558,13 @@
       "scores": 0,
       "playtime": 3410,
       "longest_spree": 10
+    },
+    "{L°E°}Fa7aL": {
+      "kills": 8,
+      "deaths": 15,
+      "scores": 0,
+      "playtime": 215,
+      "longest_spree": 3
     },
     "{L°E°}Louk®": {
       "kills": 2,
