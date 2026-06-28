@@ -117,11 +117,11 @@
       "longest_spree": 0
     },
     "29years": {
-      "kills": 152,
-      "deaths": 102,
+      "kills": 213,
+      "deaths": 120,
       "scores": 0,
-      "playtime": 2853,
-      "longest_spree": 6
+      "playtime": 3635,
+      "longest_spree": 12
     },
     "3naM'": {
       "kills": 0,
@@ -143,6 +143,13 @@
       "scores": 0,
       "playtime": 801,
       "longest_spree": 8
+    },
+    "@@@_jonn": {
+      "kills": 25,
+      "deaths": 5,
+      "scores": 0,
+      "playtime": 379,
+      "longest_spree": 12
     },
     "@@_jonn": {
       "kills": 47,
@@ -998,6 +1005,13 @@
       "playtime": 43,
       "longest_spree": 0
     },
+    "Keko Jones": {
+      "kills": 25,
+      "deaths": 14,
+      "scores": 0,
+      "playtime": 725,
+      "longest_spree": 5
+    },
     "Killer": {
       "kills": 12,
       "deaths": 7,
@@ -1397,6 +1411,13 @@
       "playtime": 822,
       "longest_spree": 4
     },
+    "RDR2": {
+      "kills": 11,
+      "deaths": 5,
+      "scores": 0,
+      "playtime": 194,
+      "longest_spree": 5
+    },
     "RJIMENEZ": {
       "kills": 60,
       "deaths": 52,
@@ -1628,6 +1649,13 @@
       "playtime": 221,
       "longest_spree": 1
     },
+    "TROSSHY": {
+      "kills": 15,
+      "deaths": 38,
+      "scores": 0,
+      "playtime": 2204,
+      "longest_spree": 2
+    },
     "Testing": {
       "kills": 18,
       "deaths": 20,
@@ -1732,6 +1760,13 @@
       "scores": 0,
       "playtime": 5337,
       "longest_spree": 5
+    },
+    "Vinicio": {
+      "kills": 25,
+      "deaths": 45,
+      "scores": 0,
+      "playtime": 1817,
+      "longest_spree": 8
     },
     "Walla Walla": {
       "kills": 25,
@@ -1886,6 +1921,13 @@
       "scores": 1,
       "playtime": 1776,
       "longest_spree": 16
+    },
+    "`exora!": {
+      "kills": 0,
+      "deaths": 0,
+      "scores": 0,
+      "playtime": 45,
+      "longest_spree": 0
     },
     "a3ro": {
       "kills": 13,
@@ -2370,6 +2412,20 @@
       "playtime": 345,
       "longest_spree": 0
     },
+    "pene": {
+      "kills": 11,
+      "deaths": 51,
+      "scores": 0,
+      "playtime": 2294,
+      "longest_spree": 1
+    },
+    "penguin": {
+      "kills": 16,
+      "deaths": 20,
+      "scores": 0,
+      "playtime": 373,
+      "longest_spree": 4
+    },
     "pinoy": {
       "kills": 85,
       "deaths": 31,
@@ -2481,6 +2537,13 @@
       "scores": 0,
       "playtime": 8,
       "longest_spree": 0
+    },
+    "tin man": {
+      "kills": 8,
+      "deaths": 1,
+      "scores": 0,
+      "playtime": 78,
+      "longest_spree": 7
     },
     "tinder": {
       "kills": 21,
