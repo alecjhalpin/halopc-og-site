@@ -138,10 +138,10 @@
       "longest_spree": 7
     },
     "??": {
-      "kills": 50,
-      "deaths": 32,
+      "kills": 59,
+      "deaths": 33,
       "scores": 0,
-      "playtime": 801,
+      "playtime": 953,
       "longest_spree": 8
     },
     "@@@_jonn": {
@@ -599,6 +599,13 @@
       "playtime": 1880,
       "longest_spree": 2
     },
+    "El Lecheroo": {
+      "kills": 1,
+      "deaths": 1,
+      "scores": 0,
+      "playtime": 50,
+      "longest_spree": 1
+    },
     "En fin lol": {
       "kills": 28,
       "deaths": 16,
@@ -654,6 +661,13 @@
       "scores": 0,
       "playtime": 231,
       "longest_spree": 3
+    },
+    "Fentanilo41": {
+      "kills": 35,
+      "deaths": 49,
+      "scores": 0,
+      "playtime": 1757,
+      "longest_spree": 4
     },
     "Fercho": {
       "kills": 4,
@@ -1068,6 +1082,13 @@
       "playtime": 103,
       "longest_spree": 1
     },
+    "LASER!": {
+      "kills": 34,
+      "deaths": 51,
+      "scores": 3,
+      "playtime": 1585,
+      "longest_spree": 3
+    },
     "LF MEXICAN": {
       "kills": 1,
       "deaths": 2,
@@ -1314,11 +1335,11 @@
       "longest_spree": 5
     },
     "Nuevo001": {
-      "kills": 3,
-      "deaths": 8,
-      "scores": 0,
-      "playtime": 233,
-      "longest_spree": 1
+      "kills": 46,
+      "deaths": 27,
+      "scores": 1,
+      "playtime": 1446,
+      "longest_spree": 11
     },
     "OYODESUMAMA": {
       "kills": 0,
@@ -1475,11 +1496,11 @@
       "longest_spree": 13
     },
     "Rolando": {
-      "kills": 5,
-      "deaths": 9,
+      "kills": 30,
+      "deaths": 13,
       "scores": 0,
-      "playtime": 159,
-      "longest_spree": 1
+      "playtime": 381,
+      "longest_spree": 11
     },
     "Ronrolo": {
       "kills": 0,
@@ -1796,6 +1817,13 @@
       "playtime": 1817,
       "longest_spree": 8
     },
+    "Vinkasion": {
+      "kills": 53,
+      "deaths": 42,
+      "scores": 0,
+      "playtime": 1639,
+      "longest_spree": 6
+    },
     "Walla Walla": {
       "kills": 25,
       "deaths": 8,
@@ -1844,6 +1872,13 @@
       "scores": 0,
       "playtime": 446,
       "longest_spree": 1
+    },
+    "Yosexo": {
+      "kills": 32,
+      "deaths": 51,
+      "scores": 0,
+      "playtime": 1591,
+      "longest_spree": 5
     },
     "Yuni PH": {
       "kills": 5,
@@ -2440,6 +2475,13 @@
       "playtime": 70,
       "longest_spree": 1
     },
+    "niñosexo": {
+      "kills": 31,
+      "deaths": 42,
+      "scores": 1,
+      "playtime": 1592,
+      "longest_spree": 3
+    },
     "npl": {
       "kills": 0,
       "deaths": 6,
@@ -2474,6 +2516,13 @@
       "scores": 0,
       "playtime": 479,
       "longest_spree": 9
+    },
+    "raymond86": {
+      "kills": 0,
+      "deaths": 3,
+      "scores": 0,
+      "playtime": 72,
+      "longest_spree": 0
     },
     "retired": {
       "kills": 2,
