@@ -697,6 +697,13 @@
       "playtime": 1245,
       "longest_spree": 8
     },
+    "G's": {
+      "kills": 34,
+      "deaths": 16,
+      "scores": 0,
+      "playtime": 1145,
+      "longest_spree": 5
+    },
     "GABRIEL": {
       "kills": 53,
       "deaths": 64,
@@ -1334,6 +1341,13 @@
       "playtime": 124,
       "longest_spree": 1
     },
+    "PAPILOKO": {
+      "kills": 1,
+      "deaths": 3,
+      "scores": 0,
+      "playtime": 51,
+      "longest_spree": 1
+    },
     "PC-11": {
       "kills": 0,
       "deaths": 0,
@@ -1544,6 +1558,13 @@
       "playtime": 23,
       "longest_spree": 0
     },
+    "Shadow": {
+      "kills": 0,
+      "deaths": 0,
+      "scores": 0,
+      "playtime": 4,
+      "longest_spree": 0
+    },
     "Shaypun012": {
       "kills": 36,
       "deaths": 20,
@@ -1585,6 +1606,13 @@
       "scores": 0,
       "playtime": 251,
       "longest_spree": 5
+    },
+    "SniKKz": {
+      "kills": 57,
+      "deaths": 40,
+      "scores": 0,
+      "playtime": 1086,
+      "longest_spree": 6
     },
     "Solder-Boy": {
       "kills": 10,
@@ -1832,10 +1860,10 @@
       "longest_spree": 0
     },
     "[ x3RR0R ]": {
-      "kills": 300,
-      "deaths": 359,
+      "kills": 336,
+      "deaths": 403,
       "scores": 3,
-      "playtime": 9659,
+      "playtime": 11084,
       "longest_spree": 13
     },
     "[FAST]depri": {
@@ -2068,6 +2096,13 @@
       "scores": 0,
       "playtime": 90,
       "longest_spree": 3
+    },
+    "dihbob": {
+      "kills": 44,
+      "deaths": 60,
+      "scores": 0,
+      "playtime": 1618,
+      "longest_spree": 6
     },
     "dopey": {
       "kills": 72,
@@ -2364,10 +2399,10 @@
       "longest_spree": 4
     },
     "miLkman": {
-      "kills": 202,
-      "deaths": 218,
+      "kills": 259,
+      "deaths": 286,
       "scores": 0,
-      "playtime": 6116,
+      "playtime": 9309,
       "longest_spree": 7
     },
     "mofofo": {
@@ -2439,6 +2474,13 @@
       "scores": 0,
       "playtime": 479,
       "longest_spree": 9
+    },
+    "retired": {
+      "kills": 2,
+      "deaths": 0,
+      "scores": 0,
+      "playtime": 91,
+      "longest_spree": 2
     },
     "s": {
       "kills": 0,
