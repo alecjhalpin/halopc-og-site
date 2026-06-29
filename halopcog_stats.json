@@ -148,7 +148,7 @@
       "kills": 25,
       "deaths": 5,
       "scores": 0,
-      "playtime": 379,
+      "playtime": 400,
       "longest_spree": 12
     },
     "@@_jonn": {
@@ -367,6 +367,13 @@
       "scores": 0,
       "playtime": 3351,
       "longest_spree": 10
+    },
+    "CP return": {
+      "kills": 7,
+      "deaths": 2,
+      "scores": 0,
+      "playtime": 92,
+      "longest_spree": 6
     },
     "Caboose": {
       "kills": 19,
@@ -1343,9 +1350,9 @@
     },
     "Nuevo001": {
       "kills": 46,
-      "deaths": 27,
+      "deaths": 29,
       "scores": 1,
-      "playtime": 1446,
+      "playtime": 1465,
       "longest_spree": 11
     },
     "OYODESUMAMA": {
@@ -2140,10 +2147,10 @@
       "longest_spree": 3
     },
     "dihbob": {
-      "kills": 50,
-      "deaths": 63,
+      "kills": 83,
+      "deaths": 105,
       "scores": 0,
-      "playtime": 1824,
+      "playtime": 3112,
       "longest_spree": 6
     },
     "dopey": {
@@ -2252,11 +2259,11 @@
       "longest_spree": 0
     },
     "foozy": {
-      "kills": 1,
-      "deaths": 1,
+      "kills": 8,
+      "deaths": 7,
       "scores": 0,
-      "playtime": 34,
-      "longest_spree": 1
+      "playtime": 224,
+      "longest_spree": 3
     },
     "fundillo": {
       "kills": 0,
@@ -2497,11 +2504,11 @@
       "longest_spree": 0
     },
     "patdih": {
-      "kills": 3,
-      "deaths": 6,
+      "kills": 41,
+      "deaths": 39,
       "scores": 0,
-      "playtime": 283,
-      "longest_spree": 2
+      "playtime": 1575,
+      "longest_spree": 3
     },
     "pene": {
       "kills": 11,
